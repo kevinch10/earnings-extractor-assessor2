@@ -1,0 +1,3202 @@
+Company: USCB FINANCIAL HOLDINGS, INC. (CIK 1901637)
+Accession: 0001562762-26-000122
+Results released: 2026-10-22
+Press release: https://www.sec.gov/Archives/edgar/data/1901637/000156276226000122/exhibit991.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1901637/000156276226000122/0001562762-26-000122-index.htm
+Saved: 2026-10-25T21:48:58+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 5 exhibit991.htm EX-99.1
+1
+Exhibit
+99.1
+EARNINGS
+RELEASE
+USCB Financial Holdings,
+Inc. Reports
+Third Quarter
+2026
+Fully Diluted EPS of $0.51,
+ROAA of
+1.27%,
+and
+ROAE of 16.03%
+MIAMI,
+FL – October
+22, 2026
+– USCB Financial
+Holdings,
+Inc. (the
+“Company”) (NASDAQ:
+USCB)
+,
+the holding
+company
+for
+U.S.
+Century
+Bank
+(the
+“Bank”)
+,
+reported
+net
+income
+of
+$9.5
+million
+or
+$0.51
+per
+fully
+diluted
+share
+for
+the
+three
+months
+ended
+September
+30, 2026,
+compared
+with net income
+of $8.9
+million or $0.45 per fully diluted
+share for
+the same
+period in 2025.
+“Third quarter
+net income
+of $9.5 million
+was the highest
+quarterly net
+income since
+our initial public
+offering in
+2021, and
+net income
+of $28.0 million
+for the first nine
+months
+of 2026 has already
+surpassed full
+-year net income
+for every
+year
+since our IPO," said Luis de
+la Aguilera, Chairman,
+President and
+CEO.
+"We
+delivered
+a return on average equity of 16.03%
+and a return on average
+assets of 1.27%.
+Compared
+with the third
+quarter
+of 2025,
+net interest
+income
+grew 14.2%,
+loans grew
+9.0%, and
+our net interest
+margin
+expanded
+23
+basis points
+to 3.37%.
+We
+remain
+focused
+on disciplined growth
+and
+building long-term
+value
+for our shareholders."
+Unless
+otherwise stated,
+all percentage
+comparisons
+in the
+bullet points
+below are
+calculated
+at or for
+the quarter
+ended September
+30,
+2026
+compared
+to at
+or for the
+quarter
+ended
+September
+30, 2025
+and
+annualized
+where appropriate
+.
+Profitability
+•
+Annualized
+return on
+average
+assets
+for the
+quarter
+s
+ended
+September
+30, 2026
+and
+2025
+was 1.27%
+.
+•
+Annualized
+return on
+average
+stockholders’
+equity for the
+quarter ended
+September
+30, 2026 was
+16.03%
+compared
+to 15.74% for
+the third quarter
+of 2025.
+•
+The efficiency
+ratio for
+the quarter
+ended
+September
+30, 2026
+was 54.62%
+compared
+to 52.28%
+for the
+third quarter
+of
+2025.
+•
+Net interest
+margin for
+the quarter
+ended
+September
+30, 2026
+was 3.37%
+compared
+to 3.14
+%
+for the
+third quarter
+of 2025.
+•
+Net interest
+income
+before
+provision
+for credit
+losses was
+$24.3 million
+for
+the quarter
+ended
+September
+30,
+2026, an
+increase of
+$3.0 million
+or 14.2% compared
+to $21.3
+million for the same
+period in 2025.
+Balance
+Sheet
+•
+Total
+assets
+were
+$3.0
+billion
+at
+September 30,
+2026,
+representing
+an
+increase
+of
+$243.5 million
+or
+8.8%
+from
+$2.8
+billion
+at
+September
+30, 2025
+.
+•
+Total
+loans
+held for investment
+were $2.3
+billion at
+September 30,
+2026,
+representing
+an increase
+of $191.1
+million or
+9.0% from
+$2.1 billion
+at
+September
+30, 2025.
+•
+Total
+deposits
+were
+$2.4 billion
+at
+September
+30,
+2026,
+representing
+a
+decrease
+of
+$9.3 million
+or
+0.4%
+from
+$2.5
+billion
+at
+September
+30, 2025.
+•
+Total stockholders’
+equity was $229.4 million at
+September 30, 2026, representing
+an increase of $20.3 million or 9.7%
+from $209.1
+million
+at
+September
+30,
+2025.
+Total
+stockholders’
+equity
+included
+accumulated
+other comprehensive
+loss
+of
+$43.3
+million
+at
+September
+30, 2026
+compared
+to accumulated
+other comprehensive
+loss of $37.8
+million at September
+30, 2025.
+Asset Quality
+•
+The
+allowance
+for credit
+losses
+(“ACL”)
+increased
+by $2.1
+million
+to $27.0
+million at
+September 30,
+2026
+from
+$25.0
+million at
+September
+30, 2025.
+•
+The ACL
+represented
+1.16% of
+total
+loans at
+September
+30, 2026
+and
+1.17% of
+total
+loans
+at
+September
+30, 2025.
+2
+•
+The provision
+for credit
+losses was
+$53 thousand
+for the quarter
+ended September
+30, 2026, a
+decrease of
+$52 thousand
+compared
+to $105
+thousand
+for the
+same
+period in 2025.
+•
+The
+ratio of
+non-performing
+loans to
+total
+loans was
+0.33%
+for
+the quarter
+ended
+September 30,
+2026
+and
+0.06% for
+the
+quarter
+ended
+September 30,
+2025.
+Non-performing
+loans totaled
+$7.7 million
+at
+September
+30,
+2026
+and
+$1.3 million
+at
+September
+30,
+2025.
+Non-interest
+Income
+and Non-interest
+Expense
+•
+Non-interest income was $2.7 million for the three months
+ended September
+30, 2026,
+a decrease
+of
+$1.0 million
+or 27.5% compared
+to $3.7
+million for the
+same
+period in 2025.
+•
+Non-interest
+expense
+was
+$14.7 million
+for
+the
+three
+months
+ended
+September
+30,
+2026,
+an
+increase
+of
+$1.7
+million
+or
+12.9%
+compared
+to $13.0
+million for the three
+months
+ended
+September
+30, 2025.
+Capital
+•
+On October
+19, 2026, the
+Company’s
+Board of Directors
+declared a quarterly
+cash dividend
+of $0.
+125 per share
+of the Company’s
+Class
+A
+common
+stock.
+The
+dividend
+will
+be
+paid
+on
+December
+4,
+2026
+to
+shareholders
+of
+record
+at
+the
+close
+of
+business
+on
+November
+16, 202
+6.
+•
+As of
+September 30,
+2026,
+total
+risk-based
+capital
+ratios
+for
+the Company
+and
+the Bank
+were 14.07%
+and
+13.93%, respectively,
+well in excess
+of the
+well-capitalized
+minimum
+threshold
+regulatory requirements
+.
+•
+Tangible
+book value
+per common
+share (non-GAAP financial measure)
+was $12.42 at September
+30, 2026, representing an increase
+of $0.87 or 7.6% from $11.55
+at September 30, 2025
+.
+At September 30, 2026, tangible book
+value per common
+share was negatively
+affected
+by ($2.35)
+per share
+due to
+an
+accumulated
+other comprehensive
+loss of
+$43.3
+million primarily
+due
+to
+changes
+in
+the
+market
+value
+of the
+Company’s
+available
+for sale securities.
+At September
+30, 2025,
+tangible
+book
+value
+per common
+share was
+negatively
+affected
+by ($2.09)
+per share
+due to
+an
+accumulated
+other comprehensive
+loss of $37.8
+million.
+Conference
+Call and Webcast
+The Company
+will
+host a conference
+call on Friday,
+October 23,
+2026
+,
+at 11:00
+a.m. Eastern Time
+to discuss the
+Company’s
+unaudited
+financial results
+for the
+quarter
+ended
+September 30,
+2026
+.
+To
+access
+the conference
+call, dial
+(833)
+816-1416
+(U.S. toll-free)
+and ask
+to join the
+USCB Financial
+Holdings Call
+.
+Additionally,
+interested
+parties
+can
+listen
+to
+a live
+webcast
+of
+the
+call in
+the
+“Investor
+Relations”
+section
+of
+the
+Company’s
+website
+at
+www.uscentury.com
+.
+An archived
+version of
+the webcast
+will
+be available
+in the same
+location
+shortly after
+the live call has
+ended.
+About USCB
+Financial
+Holdings, Inc.
+USCB Financial
+Holdings,
+Inc. is the
+bank
+holding company
+for U.S. Century Bank.
+Established
+in 2002, U.S.
+Century
+Bank is one
+of
+the
+largest community
+banks
+headquartered
+in Miami,
+and
+one
+of the
+largest
+community
+banks
+in the
+State
+of
+Florida. U.S.
+Century
+Bank is
+rated 5-Stars by
+BauerFinancial,
+the nation’s
+leading independent
+bank
+rating firm. U.S.
+Century Bank
+offers customers
+a wide
+range
+of financial
+products
+and
+services
+and
+supports
+numerous
+community
+organizations,
+including
+the
+Greater
+Miami
+Chamber
+o
+f
+Commerce,
+the South Florida
+Hispanic
+Chamber
+of Commerce,
+and ChamberSouth.
+For more information
+about us or to find a banking
+center near
+you, please
+call (305) 715
+-5200
+or visit www.uscentury.com.
+Forward-Looking
+Statements
+This earnings release may
+contain statements
+that are not historical in
+nature and
+are intended to be, and are
+hereby identified as, forward-
+looking
+statements
+for purposes
+of
+the
+safe
+harbor
+provided
+by
+Section
+21E
+of
+the
+Securities
+Exchange
+Act
+of
+1934,
+as
+amended.
+Forward-looking
+statements
+are those that
+are not historical
+facts. The
+words
+“may,”
+“will,” “anticipate,”
+“could,” “should,”
+“would,”
+“believe,”
+“contemplate,”
+“expect,” “aim,”
+“plan,” “estimate,”
+“seek,”
+“continue,” and
+“intend,”
+the negative
+of these
+terms, as
+well as
+other similar words and
+expressions of the future, are intended to identify forward
+-looking statements. These forward
+-looking statements
+include, but
+are not limited
+to, statements
+related to our
+projected
+growth,
+anticipated
+future financial
+performance,
+and management’s
+long-term
+performance
+goals, as well as statements
+relating to the
+anticipated
+effects
+on our results of operations and
+financial condition
+from expected
+or potential developments
+or events, or
+business and growth strategies,
+including
+anticipated
+internal growth and potential
+future
+additional
+balance
+sheet restructuring.
+These forward
+-looking statements
+involve significant risks
+and uncertainties
+that could cause
+our actual results to differ materially
+from
+those anticipated
+in such statements.
+Potential
+risks and uncertainties
+include, but
+are not
+limited to:
+3
+•
+the strength
+of the
+United States
+economy
+in general and
+the strength
+of the
+local economies
+in which we conduct
+operations;
+•
+our ability
+to successfully
+manage
+interest rate
+risk, credit risk, liquidity risk,
+and
+other risks inherent
+to our industry;
+•
+the accuracy
+of our financial statement
+estimates and
+assumptions, including the
+estimates
+used for our
+allowance
+for credit losses;
+•
+the efficiency
+and
+effectiveness
+of our
+internal control
+procedures
+and
+processes;
+•
+our ability to comply
+with the extensive laws and
+regulations to which we are subject,
+including the laws for each
+jurisdiction where
+we operate;
+•
+adverse
+changes
+or conditions
+in capital
+and
+financial
+markets,
+including actual
+or potential
+stresses in the banking
+industry;
+•
+deposit attrition
+and
+the level of our
+uninsured
+deposits;
+•
+legislative
+or
+regulatory
+changes
+,
+including
+the
+enactment
+of the
+One
+Big
+Beautiful
+Bill
+and
+changes
+in
+accounting
+principles,
+policies, practices
+or guidelines;
+•
+the
+lack
+of
+a
+significantly
+diversified
+loan
+portfolio
+and
+our
+concentration
+in
+the
+South
+Florida
+market,
+including
+the
+risks
+of
+geographic,
+depositor,
+and
+industry
+concentrations,
+including
+our
+concentration
+in
+loans
+secured
+by
+real
+estate,
+in
+particular,
+commercial
+real estate;
+•
+the effects
+of climate
+change;
+•
+the concentration
+of ownership
+of our
+common
+stock;
+•
+fluctuations
+in the price of our
+common
+stock;
+•
+our
+ability to fund
+or access
+the capital
+markets
+at
+attractive
+rates and
+terms and
+manage
+our growth, both
+organic growth as
+well
+as growth
+through other
+means,
+such as
+potential
+future
+acquisitions;
+•
+inflation,
+interest rate,
+unemployment
+rate, and
+market
+and
+monetary
+fluctuations;
+•
+the effects
+of potential
+new or increased
+tariffs,
+retaliatory
+tariffs
+and
+trade
+restrictions;
+•
+the impact
+of international
+hostilities and geopolitical
+events;
+•
+increased
+competition
+and its
+effect
+on the
+pricing of
+our
+products and
+services
+as well
+as our
+interest
+rate spread
+and net
+interest
+margin;
+•
+the loss
+of key
+employees
+;
+•
+the effectiveness
+of our
+risk management
+strategies, including operational
+risks, including,
+but not limited
+to,
+client, employee,
+or
+third-party
+fraud
+and
+security breaches;
+and
+•
+other risks described
+in this earnings
+release and
+other filings we make
+with the Securities and
+Exchange
+Commission
+(“SEC”).
+All forward
+-looking
+statements
+are necessarily
+only estimates
+of future
+results,
+and
+there
+can
+be no assurance
+that
+actual
+results will
+not differ
+materially
+from
+expectations.
+Therefore, you
+are
+cautioned
+not to
+place undue
+reliance on
+any
+forward
+-looking statements.
+Further,
+any
+forward
+-looking
+statements
+included in
+this earnings
+release
+are made
+only
+as of
+the
+date
+hereof, and
+we
+undertake
+no
+obligation
+to
+update
+or revise
+any
+forward
+-looking statement
+to reflect events
+or circumstances
+occurring
+after
+the date
+on which
+the
+statements
+are made
+or to reflect the occurrence
+of unanticipated
+events, unless
+required to do
+so under
+the federal
+securities laws. You
+should also
+review the risk
+factors
+described in the
+reports the
+Company
+has
+filed or will
+file
+with the
+SEC.
+Non-GAAP
+Financial
+Measures
+This earnings release includes
+financial information
+determined by methods
+other than in accordance with generally accepted
+accounting
+principles (“GAAP”).
+This financial
+information
+includes certain operating performance
+measures. Management
+has included these non-
+GAAP
+measures
+because
+it
+believes
+these
+measures
+may
+provide
+useful
+supplemental
+information
+for
+evaluating
+the
+Company’s
+operations
+and
+underlying performance
+trends. Further,
+management
+uses these
+measures
+in managing
+and
+evaluating
+the Company’s
+business
+and intends to
+refer to
+them in
+discussions
+about
+our operations and
+performance.
+Operating performance
+measures
+should be
+viewed
+in
+addition
+to,
+and
+not
+as
+an
+alternative
+to
+or
+substitute
+for,
+measures
+determined
+in
+accordance
+with
+GAAP,
+and
+are
+not
+necessarily
+comparable
+to
+non-GAAP
+measures
+that
+may
+be
+presented
+by
+other
+companies.
+Reconciliations
+of
+these
+non-GAAP
+measures
+to
+the
+most
+directly
+comparable
+GAAP
+measures
+can
+be
+found
+in the
+‘Non-GAAP
+Reconciliation
+Tables’
+included
+in
+the
+exhibits to
+this earnings release.
+All numbers
+included in
+this press release
+are unaudited
+unless otherwise noted.
+Contacts:
+Investor
+Relations
+InvestorRelations@uscentury.com
+Media
+Relations
+Martha
+Guerra-Kattou
+MGuerra@uscentury.com
+4
+USCB FINANCIAL
+HOLDINGS,
+INC.
+CONSOLIDATED
+STATEMENTS
+OF INCOME
+(UNAUDITED)
+(Dollars in
+thousands,
+except
+per share
+data)
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2026
+2025
+2026
+2025
+Interest income:
+Loans,
+including
+fees
+$
+35,547
+$
+32,866
+$
+103,235
+$
+95,057
+Investment
+securities
+4,013
+3,522
+11,282
+9,978
+Interest-bearing
+deposits
+in financial
+institutions
+639
+1,332
+2,294
+2,817
+Total
+interest
+income
+40,199
+37,720
+116,811
+107,852
+Interest expense:
+Interest-bearing
+checking
+deposits
+357
+286
+978
+909
+Savings
+and
+money
+market
+deposits
+8,554
+10,343
+25,165
+29,088
+Time
+deposits
+4,974
+5,036
+14,302
+13,297
+FHLB advances
+1,213
+377
+3,229
+2,731
+Subordinated
+notes
+801
+404
+2,402
+404
+Total
+interest
+expense
+15,899
+16,446
+46,076
+46,429
+Net interest
+income
+before
+provision
+for
+credit losses
+24,300
+21,274
+70,735
+61,423
+Provision
+for
+credit losses
+53
+105
+2,121
+1,817
+Net interest
+income
+after provision
+for
+credit losses
+24,247
+21,169
+68,614
+59,606
+Non-interest
+income:
+Service fees
+1,542
+2,661
+7,243
+7,394
+Gain (loss)
+on sale
+of securities
+available-for-sale,
+net
+-
+(28)
+14
+(28)
+Gain on sale of loans held
+for sale, net
+165
+128
+271
+804
+Other non-interest income
+965
+923
+2,854
+2,600
+Total
+non-interest
+income
+2,672
+3,684
+10,382
+10,770
+Non-interest
+expense:
+Salaries
+and
+employee
+benefits
+9,295
+7,909
+26,402
+23,499
+Occupancy
+1,352
+1,382
+4,037
+4,003
+Regulatory
+assessments
+and
+fees
+392
+377
+1,273
+1,194
+Consulting
+and
+legal fees
+663
+585
+1,807
+1,041
+Network
+and
+information
+technology
+services
+802
+656
+1,886
+1,725
+Other operating
+expense
+2,227
+2,139
+7,003
+6,272
+Total
+non-interest
+expense
+14,731
+13,048
+42,408
+37,734
+Income before income tax expense
+12,188
+11,805
+36,588
+32,642
+Income tax expense
+2,660
+2,866
+8,631
+7,905
+Net income
+$
+9,528
+$
+8,939
+$
+27,957
+$
+24,737
+Per share information:
+Net income per common share, basic
+$
+0.52
+$
+0.46
+$
+1.52
+$
+1.25
+Net income per common share, diluted
+$
+0.51
+$
+0.45
+$
+1.51
+$
+1.23
+Cash dividends
+declared
+$
+0.125
+$
+0.10
+$
+0.375
+$
+0.30
+Weighted
+average
+shares outstanding:
+Common
+shares,
+basic
+18,467,835
+19,524,798
+18,343,870
+19,866,514
+Common
+shares,
+diluted
+18,662,385
+19,755,820
+18,518,527
+20,106,050
+5
+USCB FINANCIAL HOLDINGS, INC.
+SELECTED
+FINANCIAL DATA
+(UNAUDITED)
+(Dollars
+in thousands,
+except
+per share
+data)
+As of or
+For the
+Three Months Ended
+9/30/2026
+6/30/2026
+3/31/2026
+12/31/2025
+9/30/2025
+Income statement
+data:
+Net interest
+income
+before
+provision
+for
+credit losses
+$
+24,300
+$
+24,387
+$
+22,048
+$
+22,207
+$
+21,274
+Provision
+for
+credit losses
+53
+1,267
+801
+480
+105
+Net interest
+income
+after provision
+for
+credit losses
+24,247
+23,120
+21,247
+21,727
+21,169
+Service fees
+1,542
+2,601
+3,100
+2,209
+2,661
+Gain (loss)
+on sale
+of securities
+available
+for
+sale,
+net
+-
+-
+14
+(7,498)
+(28)
+Gain on sale of loans held
+for sale, net
+165
+-
+106
+197
+128
+Other non-interest income
+965
+959
+930
+914
+923
+Total
+non-interest
+income
+2,672
+3,560
+4,150
+(4,178)
+3,684
+Salaries
+and
+employee
+benefits
+9,295
+8,537
+8,570
+8,668
+7,909
+Occupancy
+1,352
+1,369
+1,316
+1,327
+1,382
+Regulatory
+assessments
+and
+fees
+392
+397
+484
+443
+377
+Consulting
+and
+legal fees
+663
+583
+561
+900
+585
+Network
+and
+information
+technology
+services
+802
+524
+560
+599
+656
+Other operating
+expense
+2,227
+2,556
+2,220
+2,338
+2,139
+Total
+non-interest
+expense
+14,731
+13,966
+13,711
+14,275
+13,048
+Income before income tax expense
+12,188
+12,714
+11,686
+3,274
+11,805
+Income tax expense
+2,660
+3,636
+2,335
+1,911
+2,866
+Net income
+$
+9,528
+$
+9,078
+$
+9,351
+$
+1,363
+$
+8,939
+Per share
+information:
+Net income per common share, basic
+$
+0.52
+$
+0.49
+$
+0.51
+$
+0.08
+$
+0.46
+Net income per common share, diluted
+$
+0.51
+$
+0.49
+$
+0.51
+$
+0.07
+$
+0.45
+Cash dividends
+declared
+$
+0.125
+$
+0.125
+$
+0.125
+$
+0.10
+$
+0.10
+Balance sheet
+data
+(at
+period-end):
+Cash and
+cash
+equivalents
+$
+92,727
+$
+118,154
+$
+78,963
+$
+38,477
+$
+56,811
+Securities available
+-for-sale
+$
+342,624
+$
+332,859
+$
+277,160
+$
+307,490
+$
+324,179
+Securities
+held-to-maturity
+$
+133,101
+$
+136,127
+$
+149,931
+$
+153,941
+$
+156,365
+Total
+securities
+$
+475,725
+$
+468,986
+$
+427,091
+$
+461,431
+$
+480,544
+Loans held for investment
+(1)
+$
+2,322,094
+$
+2,322,385
+$
+2,241,051
+$
+2,189,257
+$
+2,130,966
+Allowance
+for
+credit losses
+$
+(27,018)
+$
+(26,701)
+$
+(26,102)
+$
+(25,500)
+$
+(24,964)
+Total
+assets
+$
+3,011,481
+$
+3,019,701
+$
+2,845,735
+$
+2,791,540
+$
+2,767,945
+Non-interest
+-bearing
+demand
+deposits
+$
+601,792
+$
+618,062
+$
+620,714
+$
+583,860
+$
+584,240
+Interest-bearing
+deposits
+$
+1,844,523
+$
+1,834,209
+$
+1,872,866
+$
+1,761,220
+$
+1,871,374
+Total
+deposits
+$
+2,446,315
+$
+2,452,271
+$
+2,493,580
+$
+2,345,080
+$
+2,455,614
+FHLB advances
+$
+232,000
+$
+240,900
+$
+53,000
+$
+158,250
+$
+11,000
+Subordinated
+notes
+$
+39,414
+$
+39,376
+$
+39,338
+$
+39,300
+$
+39,262
+Total
+liabilities
+$
+2,782,119
+$
+2,786,463
+$
+2,622,489
+$
+2,574,357
+$
+2,558,850
+Total
+stockholders'
+equity
+$
+229,362
+$
+233,238
+$
+223,246
+$
+217,183
+$
+209,095
+Capital
+ratios:
+(2)
+Leverage
+ratio
+8.88%
+8.81%
+8.61%
+8.46%
+8.47%
+Common
+equity
+tier 1
+capital
+11.23%
+11.01%
+11.09%
+10.92%
+11.17%
+Tier 1
+risk-based
+capital
+11.23%
+11.01%
+11.09%
+10.92%
+11.17%
+Total
+risk-based
+capital
+14.07%
+13.88%
+14.09%
+13.91%
+14.20%
+(1)
+Loan amounts include deferred fees/costs.
+(2)
+Reflects the
+Company's
+regulatory
+capital ratios.
+The Bank's
+total risk
+-based
+capital ratio
+at September
+30,
+2026
+was 13.93%.
+6
+USCB FINANCIAL HOLDINGS, INC.
+AVERAGE
+BALANCES, RATIOS, AND OTHER
+DATA
+(UNAUDITED)
+(Dollars
+in thousands)
+As of or
+For the
+Three Months Ended
+9/30/2026
+6/30/2026
+3/31/2026
+12/31/2025
+9/30/2025
+Average
+balance sheet
+data:
+Cash and
+cash
+equivalents
+$
+81,521
+$
+87,949
+$
+112,107
+$
+82,338
+$
+139,389
+Securities available
+-for-sale
+$
+334,203
+$
+314,581
+$
+295,065
+$
+332,356
+$
+299,892
+Securities
+held-to-maturity
+$
+134,917
+$
+140,533
+$
+152,144
+$
+155,269
+$
+157,702
+Total
+securities
+$
+469,120
+$
+455,114
+$
+447,209
+$
+487,625
+$
+457,594
+Loans held for investment
+(1)
+$
+2,309,091
+$
+2,258,965
+$
+2,177,734
+$
+2,130,898
+$
+2,099,043
+Total
+assets
+$
+2,965,481
+$
+2,900,725
+$
+2,834,717
+$
+2,799,863
+$
+2,798,115
+Interest-bearing
+deposits
+$
+1,900,985
+$
+1,856,763
+$
+1,842,283
+$
+1,857,218
+$
+1,887,545
+Non-interest
+-bearing
+demand
+deposits
+$
+610,271
+$
+632,198
+$
+584,784
+$
+595,969
+$
+569,522
+Total
+deposits
+$
+2,511,256
+$
+2,488,961
+$
+2,427,067
+$
+2,453,187
+$
+2,457,067
+FHLB advances
+$
+121,110
+$
+100,685
+$
+110,045
+$
+51,462
+$
+40,065
+Subordinated
+notes
+$
+39,389
+$
+39,351
+$
+39,313
+$
+39,287
+$
+26,029
+Total
+liabilities
+$
+2,729,596
+$
+2,671,792
+$
+2,612,491
+$
+2,587,470
+$
+2,572,799
+Total
+stockholders'
+equity
+$
+235,885
+$
+228,933
+$
+222,226
+$
+212,393
+$
+225,316
+Performance ratios:
+Return on
+average assets
+(2)
+1.27%
+1.26%
+1.34%
+0.19%
+1.27%
+Return on
+average equity
+(2)
+16.03%
+15.90%
+17.07%
+2.55%
+15.74%
+Net interest
+margin
+(2)
+3.37%
+3.49%
+3.27%
+3.27%
+3.14%
+Non-interest
+income
+to average
+assets
+(2)
+0.36%
+0.49%
+0.59%
+(0.59)%
+0.52%
+Non-interest
+expense
+to average
+assets
+(2)
+1.97%
+1.93%
+1.96%
+2.02%
+1.85%
+Efficiency ratio
+(3)
+54.62%
+49.97%
+52.34%
+79.18%
+52.28%
+Loans by type
+(at
+period end):
+(4)
+Residential
+real estate
+$
+347,565
+$
+356,747
+$
+346,917
+$
+307,692
+$
+316,557
+Commercial
+real estate
+$
+1,349,240
+$
+1,314,367
+$
+1,259,642
+$
+1,244,835
+$
+1,226,121
+Commercial
+and
+industrial
+$
+298,362
+$
+300,265
+$
+291,333
+$
+295,548
+$
+269,430
+Correspondent
+banks
+$
+128,168
+$
+137,912
+$
+128,722
+$
+127,968
+$
+104,598
+Consumer
+and
+other
+$
+193,688
+$
+207,404
+$
+207,794
+$
+207,215
+$
+207,939
+Asset quality
+data:
+Allowance
+for
+credit losses
+to total
+loans
+1.16%
+1.15%
+1.16%
+1.16%
+1.17%
+Allowance
+for
+credit losses
+to non
+-performing
+loans
+351%
+1243%
+717%
+813%
+1906%
+Total
+non-performing
+loans
+(5)
+$
+7,689
+$
+2,148
+$
+3,640
+$
+3,138
+$
+1,310
+Non-performing
+loans
+to total
+loans
+0.33%
+0.09%
+0.16%
+0.14%
+0.06%
+Non-performing
+assets
+to total
+assets
+(5)
+0.26%
+0.07%
+0.13%
+0.11%
+0.05%
+Net charge-offs
+(recoveries
+of)
+to average
+loans
+(2)
+0.00%
+0.05%
+(0.00)%
+(0.00)%
+(0.00)%
+Net charge-offs
+(recoveries)
+of credit
+losses
+$
+23
+$
+288
+$
+(4)
+$
+(11)
+$
+(4)
+Interest rates
+and yields:
+(2)
+Loans held for investment
+6.11%
+6.20%
+6.11%
+6.16%
+6.21%
+Investment
+securities
+3.34%
+3.35%
+3.05%
+3.01%
+3.03%
+Total
+interest
+-earning
+assets
+5.57%
+5.67%
+5.49%
+5.54%
+5.56%
+Deposits
+(6)
+2.19%
+2.16%
+2.20%
+2.28%
+2.53%
+FHLB advances
+3.97%
+3.89%
+3.83%
+3.91%
+3.73%
+Subordinated
+notes
+8.07%
+8.15%
+8.26%
+8.09%
+6.16%
+Total
+interest
+-bearing
+liabilities
+3.06%
+3.05%
+3.05%
+3.14%
+3.34%
+Other information:
+Full-time
+equivalent
+employees
+222
+216
+211
+204
+206
+(1)
+Loan amounts include deferred fees/costs.
+(2)
+Annualized.
+(3)
+Efficiency
+ratio is
+defined
+as total
+non-interest
+expense
+divided
+by the
+sum
+of net
+interest
+income
+and
+total non
+-interest
+income.
+(4)
+Loan amounts exclude deferred fees/costs.
+(5)
+The amounts for
+total non-performing
+loans and
+total non-performing
+assets are the
+same at the dates
+presented
+since there was
+no other real
+estate owned (OREO)
+recorded at any of the dates
+presented.
+(6)
+Reflects effect
+of non
+-interest
+-bearing
+deposits.
+7
+USCB FINANCIAL HOLDINGS, INC.
+NET INTEREST
+MARGIN (UNAUDITED)
+(Dollars
+in thousands)
+Three Months Ended September 30,
+2026
+2025
+Average
+Balance
+Interest
+Yield/Rate
+(1)
+Average
+Balance
+Interest
+Yield/Rate
+(1)
+Assets
+Interest-earning
+assets:
+Loans held for investment
+(2)
+$
+2,309,091
+$
+35,547
+6.11%
+$
+2,099,043
+$
+32,866
+6.21%
+Investment
+securities
+(3)
+476,825
+4,013
+3.34%
+461,303
+3,522
+3.03%
+Other interest-earning
+assets
+75,399
+639
+3.36%
+130,740
+1,332
+4.04%
+Total
+interest
+-earning
+assets
+2,861,315
+40,199
+5.57%
+2,691,086
+37,720
+5.56%
+Non-interest
+-earning
+assets
+104,166
+107,029
+Total
+assets
+$
+2,965,481
+$
+2,798,115
+Liabilities and stockholders'
+equity
+Interest-bearing
+liabilities:
+Interest-bearing
+checking
+deposits
+$
+68,264
+357
+2.07%
+$
+47,338
+286
+2.40%
+Savings
+and
+money
+market
+deposits
+1,286,075
+8,554
+2.64%
+1,319,862
+10,343
+3.11%
+Time
+deposits
+546,646
+4,974
+3.61%
+520,345
+5,036
+3.84%
+Total
+interest
+-bearing
+deposits
+1,900,985
+13,885
+2.90%
+1,887,545
+15,665
+3.29%
+FHLB advances
+121,110
+1,213
+3.97%
+40,065
+377
+3.73%
+Subordinated
+notes
+39,389
+801
+8.07%
+26,029
+404
+6.16%
+Total
+interest
+-bearing
+liabilities
+2,061,484
+15,899
+3.06%
+1,953,639
+16,446
+3.34%
+Non-interest
+-bearing
+demand
+deposits
+610,271
+569,522
+Other non-interest
+-bearing
+liabilities
+57,841
+49,638
+Total
+liabilities
+2,729,596
+2,572,799
+Stockholders'
+equity
+235,885
+225,316
+Total
+liabilities and
+stockholders'
+equity
+$
+2,965,481
+$
+2,798,115
+Net interest income
+$
+24,300
+$
+21,274
+Net interest
+spread
+(4)
+2.51%
+2.22%
+Net interest
+margin
+(5)
+3.37%
+3.14%
+(1)
+Annualized.
+(2)
+Average
+loan balances
+include
+non-accrual
+loans.
+Interest
+income
+on loans
+includes
+accretion
+of deferred
+loan fees,
+net of
+deferred
+loan costs.
+(3)
+At fair value
+except
+for
+securities
+held-to-maturity.
+This
+amount
+includes
+FHLB stock.
+(4)
+Net interest
+spread
+is the
+average yield
+earned
+on total
+interest
+-earning
+assets
+minus
+the average
+rate paid
+on total
+interest
+-bearing
+liabilities.
+(5)
+Net interest
+margin is
+the ratio
+of net
+interest
+income
+to total
+interest
+-earning
+assets.
+8
+USCB FINANCIAL HOLDINGS, INC.
+NON-GAAP
+FINANCIAL MEASURES (UNAUDITED)
+(Dollars
+in thousands)
+As of or
+For the
+Three Months Ended
+9/30/2026
+6/30/2026
+3/31/2026
+12/31/2025
+9/30/2025
+Pre-tax pre-provision ("PTPP") income:
+(1)
+Net income
+$
+9,528
+$
+9,078
+$
+9,351
+$
+1,363
+$
+8,939
+Plus: Income
+tax expense
+2,660
+3,636
+2,335
+1,911
+2,866
+Plus: Provision
+for
+credit losses
+53
+1,267
+801
+480
+105
+PTPP income
+$
+12,241
+$
+13,981
+$
+12,487
+$
+3,754
+$
+11,910
+PTPP return
+on average
+assets:
+(1)
+PTPP income
+$
+12,241
+$
+13,981
+$
+12,487
+$
+3,754
+$
+11,910
+Average
+assets
+$
+2,965,481
+$
+2,900,725
+$
+2,834,717
+$
+2,799,863
+$
+2,798,115
+PTPP return
+on average
+assets
+(2)
+1.64%
+1.93%
+1.79%
+0.53%
+1.69%
+Operating
+net income:
+(1)
+Net income
+$
+9,528
+$
+9,078
+$
+9,351
+$
+1,363
+$
+8,939
+Less:
+Net gain (loss)
+on sale
+of securities
+-
+-
+14
+(7,498)
+(28)
+Less:
+Tax
+effect
+on sale
+of securities
+-
+-
+(4)
+1,900
+7
+Plus: Tax
+(benefit)
+liability expense
+from
+prior
+periods
+-
+-
+(619)
+(3)
+1,096
+(4)
+-
+Operating net
+income
+$
+9,528
+$
+9,078
+$
+8,722
+$
+8,057
+$
+8,960
+Operating
+return on
+average
+assets:
+(1)
+Operating net
+income
+$
+9,528
+$
+9,078
+$
+8,722
+$
+8,057
+$
+8,960
+Average
+assets
+$
+2,965,481
+$
+2,900,725
+$
+2,834,717
+$
+2,799,863
+$
+2,798,115
+Operating net
+income
+return
+on average
+assets
+(2)
+1.27%
+1.26%
+1.25%
+1.14%
+1.27%
+Operating return on average equity:
+(1)
+Operating net
+income
+$
+9,528
+$
+9,078
+$
+8,722
+$
+8,057
+$
+8,960
+Average
+equity
+$
+235,885
+$
+228,933
+$
+222,226
+$
+212,393
+$
+225,316
+Operating net
+income
+return
+on average
+equity
+(2)
+16.03%
+15.90%
+15.92%
+15.05%
+15.78%
+Operating revenue:
+(1)
+Net interest income
+$
+24,300
+$
+24,387
+$
+22,048
+$
+22,207
+$
+21,274
+Non-interest income
+2,672
+3,560
+4,150
+(4,178)
+3,684
+Less:
+Net gain (loss)
+on sale
+of securities
+-
+-
+14
+(7,498)
+(28)
+Operating revenue
+$
+26,972
+$
+27,947
+$
+26,184
+$
+25,527
+$
+24,986
+Operating efficiency ratio:
+(1)
+Total
+non-interest
+expense
+$
+14,731
+$
+13,966
+$
+13,711
+$
+14,275
+$
+13,048
+Operating revenue
+$
+26,972
+$
+27,947
+$
+26,184
+$
+25,527
+$
+24,986
+Operating efficiency
+ratio
+54.62%
+49.97%
+52.36%
+55.92%
+52.22%
+(1)
+The Company
+believes
+these
+non-GAAP
+financial
+measurements
+are key
+indicators
+of the
+ongoing earnings
+power
+of the
+Company.
+(2)
+Annualized.
+(3)
+The Company recognized
+a $619
+thousand income
+tax benefit
+in the
+first quarter
+of 2026 due to
+an adjustment to the defer
+red tax
+asset
+calculation
+from
+2025.
+(4) State tax liability expenses
+for 2024 and
+for the first three
+quarters of 2025
+were recognized
+during
+the fourth quarter
+of 2025. The state
+tax expense
+is related
+to
+taxes
+due
+on interest
+income
+on loans
+whose
+collateral is
+located
+outside
+of the
+State of
+Florida.
+9
+USCB FINANCIAL HOLDINGS, INC.
+NON-GAAP
+FINANCIAL MEASURES (UNAUDITED)
+(Dollars
+in thousands,
+except
+per share
+data)
+As of or
+For the
+Three Months Ended
+9/30/2026
+6/30/2026
+3/31/2026
+12/31/2025
+9/30/2025
+Tangible
+book value
+per common share
+(at
+period-end):
+(1)
+Total
+stockholders'
+equity
+$
+229,362
+$
+233,238
+$
+223,246
+$
+217,183
+$
+209,095
+Less:
+Intangible
+assets
+-
+-
+-
+-
+-
+Tangible
+stockholders'
+equity
+(3)
+$
+229,362
+$
+233,238
+$
+223,246
+$
+217,183
+$
+209,095
+Total
+shares issued and outstanding
+(at
+period-end):
+Total
+common
+shares
+issued
+and
+outstanding
+18,465,077
+18,459,470
+18,257,400
+18,137,885
+18,107,385
+Tangible
+book
+value
+per common
+share
+(2)
+$
+12.42
+$
+12.64
+$
+12.23
+$
+11.97
+$
+11.55
+Operating
+diluted net income
+per common share:
+(1)
+Operating net
+income
+$
+9,528
+$
+9,078
+$
+8,722
+$
+8,057
+$
+8,960
+Total
+weighted average
+diluted
+shares
+of common
+stock
+18,662,385
+18,509,572
+18,454,006
+18,348,725
+19,755,820
+Operating diluted
+net income
+per common
+share:
+$
+0.51
+$
+0.49
+$
+0.47
+$
+0.44
+$
+0.45
+Tangible
+Common Equity/Tangible
+Assets
+(1)
+Tangible
+stockholders'
+equity
+(3)
+$
+229,362
+$
+233,238
+$
+223,246
+$
+217,183
+$
+209,095
+Tangible
+total assets
+(3)
+$
+3,011,481
+$
+3,019,701
+$
+2,845,735
+$
+2,791,540
+$
+2,767,945
+Tangible
+Common
+Equity/Tangible
+Assets
+7.62%
+7.72%
+7.84%
+7.78%
+7.55%
+(1)
+The Company
+believes
+these
+non-GAAP
+financial
+measurements
+are key
+indicators
+of the
+ongoing earnings
+power
+of the
+Company.
+(2)
+Excludes
+the dilutive
+effect,
+if any,
+of shares
+of common
+stock
+issuable
+upon
+exercise
+of outstanding
+stock
+options.
+(3) Since the Company has no
+intangible
+assets, tangible
+stockholders’
+equity and
+tangible total
+assets
+are the same
+amounts as stockholders’
+equity
+and
+total assets,
+respectively,
+as calculated
+under
+GAAP.
