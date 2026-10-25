@@ -1027,5 +1027,202 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-10-25T21:50:22+08:00"
+  },
+  {
+    "accession": "0001562762-26-000122",
+    "cik": "1901637",
+    "company": "USCB FINANCIAL HOLDINGS, INC.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty, and the SEC holds no three-month revenue figure for this bank, so there is nothing to check."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty, and the SEC holds no three-month figure for it, so there is nothing to check."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 9.5 million, but no 10-Q figure for the quarter to 30 September 2026 is filed yet."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds $0.51, but no 10-Q figure for the quarter to 30 September 2026 is filed yet."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure can be checked against a 10-Q yet. Both quotes (net income $9.5 million, EPS $0.51) are in the release and hold their numbers. The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 3,
+        "reason": "Revenue and operating income are empty. The SEC holds no quarterly figure for either, and the release gives no revenue or operating income line for this bank, so two points are off."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "Net income and EPS can be used as they stand, but revenue and operating income are empty, so the analyst must open the release for the bank's income lines."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "9.5 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "0.51 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Net income of 9.5 is above 8.939 a year ago (+6.3%) and 9.078 last quarter (+4.6%). The wider 'since 2021' record cannot be tested here."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Tested on the release's table, not the fundamentals: net interest income 24,300 against 21,274 is +14.2%, and margin 3.37% against 3.14% is +23 basis points."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Net income rose 6.3% on a year ago and diluted EPS rose 13.3% (0.51 against 0.45), which bears out a positive tone."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 9.5,
+        "this_quarter_from": "release",
+        "year_ago": 8.939,
+        "change_year": 6.3,
+        "previous_quarter": 9.078,
+        "change_quarter": 4.6
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.51,
+        "this_quarter_from": "release",
+        "year_ago": 0.45,
+        "change_year": 13.3,
+        "previous_quarter": 0.49,
+        "change_quarter": 4.1
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says third quarter net income was the highest since the 2021 IPO.",
+        "quote": "Third quarter net income of $9.5 million was the highest quarterly net income since our initial public offering in 2021",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says net interest income grew 14.2% and net interest margin widened to 3.37%.",
+        "quote": "net interest income grew 14.2%, loans grew 9.0%, and our net interest margin expanded 23 basis points to 3.37%.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls net income the highest since the IPO and reports growth in loans and margin."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-26T06:37:56+08:00"
   }
 ]
