@@ -1,0 +1,158 @@
+Company: Skyline Bankshares, Inc. (CIK 1657642)
+Accession: 0001437749-26-033561
+Results released: 2026-10-27
+Press release: https://www.sec.gov/Archives/edgar/data/1657642/000143774926033561/ex_1031648.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1657642/000143774926033561/0001437749-26-033561-index.htm
+Saved: 2026-10-28T12:40:30+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1031648.htm EXHIBIT 99.1
+Exhibit 99.1
+Skyline Bankshares, Inc. Announces Third Quarter 2026 Results
+FOR IMMEDIATE RELEASE
+For more information contact:
+Blake Edwards, President & CEO – 276-773-2811
+Lori Vaught, EVP & CFO – 276-773-2811
+FLOYD, VA, and INDEPENDENCE, VA, October 27, 2026 (Globe Newswire) -- Skyline Bankshares, Inc. (the “Company”) (OTC QX: SLBK) – the holding company for Skyline National Bank (the “Bank”) – announced its results of operations for the third quarter of 2026.
+The Company recorded net income of $5.1 million, or $0.90 per share, for the quarter ended September 30, 2026, compared to net income of $5.0 million, or $0.89 per share, for the second quarter of 2026 and net income of $4.1 million, or $0.73 per share, for the third quarter of 2025. For the nine months ended September 30, 2026, net income was $14.7 million, or $2.61 per share, compared to net income of $11.5 million, or $2.05 per share, for the nine months ended September 30, 2025. Third quarter 2026 earnings represented an annualized return on average assets (“ROAA”) of 1.50% and an annualized return on average equity (“ROAE”) of 17.17%, compared to 1.25% and 16.13%, respectively, for the same period last year. Net interest margin (“NIM”) was 4.61% for the third quarter of 2026, compared to 4.27% for the third quarter of 2025.
+President and CEO Blake Edwards stated, “We are pleased to report another quarter of record earnings for Skyline while continuing to invest in future growth, including the September opening of our newest branch in Dobson, North Carolina. In addition to our newest full-service branch, we welcomed Ryan High, Area Executive and Commercial Lender to the Skyline team. We are excited to bring our brand promise of “Always Our Best” to the businesses and people of Surry County, NC. We believe we remain well positioned for continued growth and success in the future and look forward to the opportunities ahead for the Skyline family.”
+Highlights
+● | Net income was $5.1 million, or $0.90 per share, for the third quarter of 2026, compared to $4.1 million, or $0.73 per share, for the third quarter of 2025.
+● | NIM was 4.61% for the third quarter of 2026, compared to 4.62% in the second quarter of 2026, and 4.27% in the third quarter of 2025.
+● | Total assets increased $58.9 million, or 4.55%, to $1.35 billion at September 30, 2026 from $1.29 billion at December 31, 2025, and increased by $45.7 million, or 3.49%, from $1.31 billion a year earlier.
+● | Net loans were $1.12 billion at September 30, 2026, an increase of $72.7 million, or 6.92%, when compared to $1.05 billion at December 31, 2025, and increased $94.3 million when compared to $1.03 billion at September 30, 2025.
+● | Total deposits were $1.21 billion at September 30, 2026, an increase of $35.2 million, or 2.99%, compared to $1.18 billion at December 31, 2025, and an increase of $43.2 million from $1.17 billion at September 30, 2025.
+● | Book value increased from $19.00 per share at December 31, 2025 to $20.29 per share at September 30, 2026.
+Exhibit 99.1
+Third Quarter, First Nine Months of 2026 Income Statement Review
+Net interest income after provision for credit losses in the third quarter of 2026 was $14.2 million, compared to $12.7 million in the third quarter of 2025. Total interest income was $18.2 million in the third quarter of 2026, representing an increase of $1.3 million in comparison to $16.9 million in the third quarter of 2025. Interest income on loans increased in the quarterly comparison by $1.6 million, primarily due to organic loan growth. Management anticipates that this loan growth will continue to have a positive impact on both earning assets and loan yields. Interest expense on deposits decreased by $141 thousand in the quarterly comparison due to deposit repricing. Management anticipates that interest expense on deposits could increase in the near term as competitive pressures for deposits may result in increases in rates on deposit offerings, especially on time deposits. Interest on borrowings decreased by $91 thousand, primarily due to the quarter over quarter decrease in average borrowings of $9.4 million.
+For the first nine months of 2026, net interest income after provision for credit losses was $41.4 million compared to $36.4 million for the first nine months of 2025. Interest income increased by $4.1 million, primarily due to an increase of $4.6 million in interest income on loans. Interest expense on deposits decreased by $399 thousand for the nine months ended September 30, 2026 compared to the same period last year. Interest on borrowings decreased by $598 thousand in the nine-month comparison, primarily due to a decrease in average borrowings of $13.0 million in the year over year comparison.
+Third quarter 2026 noninterest income was $2.3 million compared with $2.0 million in the third quarter of 2025. The increase of $350 thousand in the quarter over quarter comparison was primarily due to an increase in service charges and fees of $203 thousand and an increase of $76 thousand in mortgage origination fees.
+For the nine months ended September 30, 2026 and 2025, noninterest income was $6.5 million and $5.6 million, respectively.
+The increase of $863 thousand in the year over year comparison was primarily because of an increase in service charges and fees of $543 thousand and an increase of $222 thousand in mortgage origination fees.
+Noninterest expense in the third quarter of 2026 was $10.1 million compared with $9.6 million in the third quarter of 2025, an increase of $503 thousand, or 5.26%. Salary and benefits increased by $283 thousand in the quarterly comparison due to personnel additions and routine adjustments, as well as increased benefit costs. Occupancy and equipment expenses increased by $185 thousand, and data processing increased by $76 thousand in the quarterly comparison. Core deposit intangible amortization decreased by $20 thousand in the quarterly comparison.
+For the nine-month period ended September 30, 2026, total noninterest expenses increased by $1.6 million compared to the same period in 2025, primarily due to employee costs. Salary and benefit cost increased by $994 thousand. Occupancy and equipment expenses increased by $376 thousand, and data processing increased by $166 thousand from the first nine months of 2025 to 2026. Core deposit intangible amortization decreased by $105 thousand.
+Net income before taxes increased by $1.4 million in the quarterly comparison, causing a increase in income tax expense of $396 thousand. In the nine-month comparison, net income before taxes increased by $4.3 million, resulting in an increase in income tax expense of $1.0 million.
+Balance Sheet Review
+Total assets increased in the third quarter of 2026 by $20.2 million, or 1.52%, to $1.35 billion at September 30, 2026 from $1.33 billion at June 30, 2026, and increased by $58.9 million, or 4.55%, from $1.29 billion at December 31, 2025. Total assets increased by $45.7 million, or 3.49%, when compared to $1.31 billion at September 30, 2025. The increase in total assets during the quarter can be primarily attributed to loan and deposit growth.
+Total loans increased during the third quarter by $23.2 million, or 2.10%, to $1.13 billion at September 30, 2026 from $1.11 billion at June 30, 2026, and increased by $73.3 million, or 6.93%, compared to $1.06 billion at December 31, 2025. Total loans increased by $95.1 million, or 9.17%, when compared to $1.04 billion at September 30, 2025. Loan growth during the third quarter of 2026 was at an annualized rate of 8.32%.
+Asset quality has remained strong, with a ratio of nonperforming loans to total loans of 0.11% at September 30, 2026 compared to 0.45% at December 31, 2025. The allowance for credit losses was comparable at 0.82% at September 30, 2026 and December 31, 2025, respectively.
+Exhibit 99.1
+Investment securities decreased by $6.7 million during the third quarter to $98.0 million at September 30, 2026 from $104.7 million at June 30, 2026, and decreased by $16.1 million from $114.1 million at December 31, 2025. Investment securities decreased by $16.5 million, when compared to $114.5 million at September 30, 2025. The decrease in the third quarter of 2026 was the result of $2.2 million in calls and paydowns, and an increase in unrealized losses of $4.4 million.
+Total deposits were $1.21 billion at September 30, 2026, a increase of $33.0 million, or 2.80%, compared to June 30, 2026, and an increase of $35.2 million, or 2.99%, compared to December 31, 2025. When compared to $1.17 billion at September 30, 2025, total deposits increased by $43.2 million, or 3.69%. Noninterest bearing deposits increased by $8.6 million and interest-bearing deposits increased by $24.4 million during the quarter. Lower cost interest bearing deposits increased by $13.4 million during the quarter, and time deposits increased by $11.0 million.
+Total stockholders’ equity decreased by $186 thousand, or 0.16%, to $115.1 million at September 30, 2026, from $115.3 million three months earlier, and increased $7.4 million, or 6.90%, from $107.7 million at December 31, 2025. Total stockholders’ equity increased by $13.2 million, or 12.97%, when compared to $101.9 million at September 30, 2025. The change during the quarter was due to earnings of $5.1 million, $3.5 million in other comprehensive losses during the quarter, and dividends paid of $1.8 million during the quarter. Book value increased from $19.00 per share at December 31, 2025 to $20.29 per share at September 30, 2026.
+Forward-looking statements
+This release contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934 as amended. These include statements as to expectations regarding future financial performance and any other statements regarding future results or expectations. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995 and are including this statement for purposes of these safe harbor provisions. Forward-looking statements, which are based on certain assumptions and describe future plans, strategies, and expectations of the Company, are generally identified by the use of words such as "believe," "expect," "intend," "anticipate," "estimate," or "project" or similar expressions. Our ability to predict results, or the actual effect of our plans or strategies, is inherently uncertain and subject to a number of risks. Factors which could have a material adverse effect on the operations and future prospects of the Company and its subsidiaries include, but are not limited to: changes in interest rates; general economic and financial market conditions; the effect of changes in banking, tax and other laws and regulations and interpretations or guidance thereunder; monetary and fiscal policies of the U.S. government, including policies of the U.S. Treasury and the Federal Reserve Board; the economic impact of duties, tariffs or other barriers or restrictions on trade, and any retaliatory counter measures, and the volatility and uncertainty arising therefrom; the quality and composition of the loan and securities portfolios; demand for loan products; deposit flows; the Company’s capital and liquidity; competition; demand for financial services in the Company’s market area; the implementation of new technologies; the ability to develop and maintain secure and reliable electronic systems; accounting principles, policies, and guidelines; and other factors identified in Item 1A, “Risk Factors,” in the Company’s Annual Report on 10-K for the year ended December 31, 2025. These risks and uncertainties should be considered in evaluating forward-looking statements and undue reliance should not be placed on such statements. We undertake no obligation to update or clarify these forward‐looking statements, whether as a result of new information, future events or otherwise.
+(See Attached Financial Statements for quarter ending September 30, 2026)
+Exhibit 99.1
+Skyline Bankshares, Inc.
+Condensed Consolidated Balance Sheets
+September 30, 2026; June 30, 2026; December 31, 2025; September 30, 2025
+September 30, | June 30, | December 31, | September 30,
+(dollars in thousands except share amounts) | 2026 | 2026 | 2025 | 2025
+(Unaudited) | (Unaudited) | (Audited) | (Unaudited)
+Assets
+Cash and due from banks | $ | 18,703 | $ | 19,529 | $ | 19,724 | $ | 24,260
+Interest-bearing deposits with banks | 3,926 | 373 | 3,125 | 32,042
+Federal funds sold | 396 | - | 343 | 240
+Investment securities available for sale | 98,047 | 104,748 | 114,096 | 114,493
+Restricted equity securities | 4,240 | 4,715 | 3,474 | 4,662
+Loans | 1,131,498 | 1,108,258 | 1,058,198 | 1,036,439
+Allowance for credit losses | (9,303 | ) | (9,150 | ) | (8,666 | ) | (8,547 | )
+Net loans | 1,122,195 | 1,099,108 | 1,049,532 | 1,027,892
+Cash value of life insurance | 27,808 | 27,558 | 27,169 | 27,013
+Properties and equipment, net | 40,476 | 40,479 | 40,760 | 40,906
+Accrued interest receivable | 4,862 | 4,824 | 4,541 | 4,135
+Core deposit intangible | 2,550 | 2,708 | 3,043 | 3,217
+Goodwill | 7,900 | 7,900 | 7,900 | 7,900
+Deferred tax assets, net | 4,751 | 3,911 | 3,696 | 4,146
+Other assets | 16,330 | 16,082 | 15,900 | 15,621
+Total assets | $ | 1,352,184 | $ | 1,331,935 | $ | 1,293,303 | $ | 1,306,527
+Liabilities
+Deposits
+Noninterest-bearing | $ | 379,479 | $ | 370,898 | $ | 371,001 | $ | 363,910
+Interest-bearing | 833,880 | 809,460 | 807,164 | 806,263
+Total deposits | 1,213,359 | 1,180,358 | 1,178,165 | 1,170,173
+Borrowings | 15,000 | 27,676 | - | 26,500
+Accrued interest payable | 562 | 526 | 531 | 644
+Other liabilities | 8,174 | 8,100 | 6,943 | 7,330
+Total liabilities | 1,237,095 | 1,216,660 | 1,185,639 | 1,204,647
+Stockholders’ Equity
+Common stock and surplus | 34,172 | 34,107 | 33,984 | 33,658
+Retained earnings | 97,760 | 94,503 | 86,617 | 82,225
+Accumulated other comprehensive loss | (16,843 | ) | (13,335 | ) | (12,937 | ) | (14,003 | )
+Total stockholders’ equity | 115,089 | 115,275 | 107,664 | 101,880
+Total liabilities and stockholders’ equity | $ | 1,352,184 | $ | 1,331,935 | $ | 1,293,303 | $ | 1,306,527
+Book value per share | $ | 20.29 | $ | 20.32 | $ | 19.00 | $ | 18.03
+Tangible book value per share(1) | $ | 18.45 | $ | 18.45 | $ | 17.07 | $ | 16.06
+Asset Quality Indicators
+Nonperforming assets to total assets | 0.09 | % | 0.29 | % | 0.37 | % | 0.17 | %
+Nonperforming loans to total loans | 0.11 | % | 0.34 | % | 0.45 | % | 0.22 | %
+Allowance for credit losses to total loans | 0.82 | % | 0.83 | % | 0.82 | % | 0.82 | %
+Allowance for credit losses to nonperforming loans | 760.05 | % | 240.03 | % | 180.17 | % | 381.39 | %
+(1) Tangible book value is a Non-GAAP financial measure defined as stockholders’ equity less goodwill and other intangible assets, divided by shares outstanding, that the Company believes is a meaningful measure of capital adequacy because it provides a meaningful base for period-to-period and company-to-company comparisons, which the Company believes will assist investors in assessing the capital of the Company and its ability to absorb potential losses. See “Reconciliation of Non-GAAP Financial Measures” at the end of this release.
+Exhibit 99.1
+Skyline Bankshares, Inc.
+Condensed Consolidated Statement of Operations
+Three Months Ended | Nine Months Ended
+September 30, | June 30, | September 30, | September 30,
+(dollars in thousands except share amounts) | 2026 | 2026 | 2025 | 2026 | 2025
+(Unaudited) | (Unaudited) | (Unaudited) | (Unaudited) | (Unaudited)
+Interest income
+Loans and fees on loans | $ | 17,544 | $ | 16,866 | $ | 15,925 | $ | 50,639 | $ | 46,013
+Interest-bearing deposits in banks | 61 | 39 | 262 | 123 | 435
+Federal funds sold | 4 | 3 | 7 | 8 | 14
+Interest on securities | 571 | 577 | 638 | 1,752 | 1,973
+Dividends | 63 | 56 | 42 | 179 | 187
+18,243 | 17,541 | 16,874 | 52,701 | 48,622
+Interest expense
+Deposits | 3,554 | 3,197 | 3,695 | 10,072 | 10,471
+Interest on borrowings | 197 | 200 | 288 | 479 | 1,077
+3,751 | 3,397 | 3,983 | 10,551 | 11,548
+Net interest income | 14,492 | 14,144 | 12,891 | 42,150 | 37,074
+Provision for credit losses | 245 | 210 | 189 | 734 | 651
+Net interest income after
+Provision for credit losses | 14,247 | 13,934 | 12,702 | 41,416 | 36,423
+Noninterest income
+Service charges on deposit accounts | 730 | 696 | 651 | 2,076 | 1,841
+Other service charges and fees | 1,174 | 1,121 | 1,050 | 3,290 | 2,982
+Net realized losses on securities | (1 | ) | - | - | (1 | ) | -
+Mortgage origination fees | 128 | 151 | 52 | 391 | 169
+Increase in cash value of life insurance | 250 | 206 | 184 | 635 | 538
+Life insurance income | - | - | - | - | 60
+Other income | 30 | 39 | 24 | 120 | 58
+2,311 | 2,213 | 1,961 | 6,511 | 5,648
+Noninterest expenses
+Salaries and employee benefits | 5,270 | 5,227 | 4,987 | 15,331 | 14,337
+Occupancy and equipment | 1,650 | 1,528 | 1,465 | 4,725 | 4,349
+Data processing expense | 940 | 915 | 864 | 2,751 | 2,585
+FDIC Assessments | 184 | 205 | 241 | 638 | 725
+Advertising | 319 | 293 | 304 | 876 | 798
+Bank franchise tax | 150 | 150 | 132 | 450 | 396
+Director fees | 105 | 103 | 103 | 322 | 298
+Professional fees | 214 | 223 | 304 | 661 | 854
+Telephone expense | 131 | 94 | 115 | 340 | 357
+Core deposit intangible amortization | 158 | 166 | 178 | 493 | 598
+Other expense | 947 | 889 | 872 | 2,644 | 2,351
+10,068 | 9,793 | 9,565 | 29,231 | 27,648
+Net income before income taxes | 6,490 | 6,354 | 5,098 | 18,696 | 14,423
+Income tax expense | 1,418 | 1,368 | 1,022 | 4,037 | 2,973
+Net income | $ | 5,072 | $ | 4,986 | $ | 4,076 | $ | 14,659 | $ | 11,450
+Net income per share | $ | 0.90 | $ | 0.89 | $ | 0.73 | $ | 2.61 | $ | 2.05
+Weighted average shares outstanding | 5,617,204 | 5,617,204 | 5,584,704 | 5,617,204 | 5,584,704
+Dividends declared per share | $ | 0.32 | $ | 0.00 | $ | 0.27 | $ | 0.62 | $ | 0.52
+Exhibit 99.1
+Skyline Bankshares, Inc.
+Reconciliation of Non-GAAP Financial Measures
+In addition to financial statements prepared in accordance with U.S. generally accepted accounting principles (“GAAP”), the Company uses certain non-GAAP financial measures that provide useful information for financial and operational decision making, evaluating trends, and understanding the Company’s financial condition, capital position and financial results. Non-GAAP financial measures are supplemental and not a substitute for, or more important than, financial measures prepared in accordance with GAAP and may not be comparable to those reported by other financial institutions. The non-GAAP financial measure presented in this document includes tangible book value per share. The following tables present calculations underlying non-GAAP financial measures.
+September 30, | June 30, | December 31, | September 30,
+(dollars in thousands except share amounts) | 2026 | 2026 | 2025 | 2025
+(Unaudited) | (Unaudited) | (Unaudited) | (Unaudited)
+Tangible Common Equity
+Total stockholders’ equity (GAAP) | $ | 115,089 | $ | 115,275 | $ | 107,664 | $ | 101,880
+Less: Goodwill | (7,900 | ) | (7,900 | ) | (7,900 | ) | (7,900 | )
+Less: Core deposit intangible | (2,550 | ) | (2,708 | ) | (3,043 | ) | (3,217 | )
+Tangible common equity (non-GAAP) | $ | 104,639 | $ | 104,667 | $ | 96,721 | $ | 90,763
+Common stock shares outstanding | 5,672,204 | 5,672,204 | 5,666,204 | 5,651,704
+Book value per share (GAAP) | $ | 20.29 | $ | 20.32 | $ | 19.00 | $ | 18.03
+Tangible book value per share (non-GAAP) | $ | 18.45 | $ | 18.45 | $ | 17.07 | $ | 16.06

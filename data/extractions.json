@@ -387,5 +387,113 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1630472/000163047226000031/trtx-20261026exhibit991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1630472/000163047226000031/0001630472-26-000031-index.htm",
     "saved_at": "2026-10-27T18:13:47+08:00"
+  },
+  {
+    "cik": "1031316",
+    "company": "FRANKLIN STREET PROPERTIES CORP /MA/",
+    "accession": "0001104659-26-119169",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 24.934,
+        "unit": "USD millions",
+        "quote": "Total revenue | 24,934 | 27,300"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -9.103,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (9,103) | $ | (8,326)"
+      },
+      "diluted_eps": {
+        "value": -0.09,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (0.09) | $ | (0.08)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The company intends to pursue individual asset and subportfolio sales in the fourth quarter.",
+        "quote": "the Company has identified a number of individual asset and subportfolio sale opportunities that it intends to actively pursue in the fourth quarter."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "General and administrative expenses for the nine months were lower than a year earlier.",
+        "quote": "we were successful in reducing general and administrative expenses for the nine months ended September 30, 2026 by $2.6 million compared to the nine months ended September 30, 2025 primarily as a result of lower personnel costs."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "Office investment demand and liquidity are uneven and challenged in several markets.",
+        "quote": "office investment demand and liquidity remain uneven nationally and are challenged in several of our markets."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO notes uneven office demand and that any sales depend on acceptable pricing and buyers' due diligence."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1031316-0001104659-26-119169.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1031316/000110465926119169/fsp-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1031316/000110465926119169/0001104659-26-119169-index.htm",
+    "saved_at": "2026-10-28T12:40:30+08:00"
+  },
+  {
+    "cik": "1657642",
+    "company": "Skyline Bankshares, Inc.",
+    "accession": "0001437749-26-033561",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 5.072,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 5,072 | $ | 4,986"
+      },
+      "diluted_eps": {
+        "value": 0.9,
+        "unit": "USD per share",
+        "quote": "Net income per share | $ | 0.90 | $ | 0.89"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO reports record quarterly earnings.",
+        "quote": "We are pleased to report another quarter of record earnings for Skyline while continuing to invest in future growth"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Net interest margin was 4.61% in the quarter, against 4.27% a year earlier.",
+        "quote": "Net interest margin (“NIM”) was 4.61% for the third quarter of 2026, compared to 4.27% for the third quarter of 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects loan growth to keep supporting earning assets and loan yields.",
+        "quote": "Management anticipates that this loan growth will continue to have a positive impact on both earning assets and loan yields."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO reports record earnings, a new branch and expects continued growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1657642-0001437749-26-033561.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1657642/000143774926033561/ex_1031648.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1657642/000143774926033561/0001437749-26-033561-index.htm",
+    "saved_at": "2026-10-28T12:40:30+08:00"
   }
 ]
