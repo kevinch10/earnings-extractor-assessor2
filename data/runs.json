@@ -2017,5 +2017,154 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-04T06:38:14+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-04-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 7,
+      "total": 7,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 7,
+      "checked": 7,
+      "rechecks": 3,
+      "confirmed": 16,
+      "mismatch": 0,
+      "cannot_check": 12
+    },
+    "companies": [
+      {
+        "cik": "1901637",
+        "company": "USCB FINANCIAL HOLDINGS, INC.",
+        "accession": "0001562762-26-000122",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1367859",
+        "company": "Citizens Community Bancorp Inc.",
+        "accession": "0001367859-26-000056",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1657642",
+        "company": "Skyline Bankshares, Inc.",
+        "accession": "0001437749-26-033561",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "accession": "0001652044-26-000080",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "accession": "0001018724-26-000038",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "788920",
+        "company": "PRO DEX INC",
+        "accession": "0001079973-26-001411",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1048911",
+        "company": "FEDEX CORP",
+        "accession": "0001048911-26-000128",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 7 extractions: 16 figures confirmed, 0 mismatches, 12 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-04T06:08:46+08:00",
+      "watch_brief": "briefs/2026-11-04-watch.md",
+      "brief_says": 698,
+      "saved_for_run": 698,
+      "match": true
+    },
+    "offline": false
   }
 ]
