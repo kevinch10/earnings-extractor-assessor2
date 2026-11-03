@@ -495,5 +495,251 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1657642/000143774926033561/ex_1031648.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1657642/000143774926033561/0001437749-26-033561-index.htm",
     "saved_at": "2026-10-28T12:40:30+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says Alphabet revenues grew 25% year over year.",
+        "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Management says Google Cloud revenues grew 103%, driven by demand for AI infrastructure and solutions.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Management says operating income rose 30% and the operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter with momentum across the business and big opportunities ahead."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:08:46+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion, growth of 12% to 16%.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says net sales rose 12% to $201.9 billion.",
+        "quote": "Net sales increased 12% to $201.9 billion in the third quarter, compared with $180.2 billion in third quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says operating margin was 13.9%, its highest ever.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Management says net income fell to $20.7 billion because of 2025 gains on Anthropic investments.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and reports record operating margin and AWS growth."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:08:46+08:00"
+  },
+  {
+    "cik": "788920",
+    "company": "PRO DEX INC",
+    "accession": "0001079973-26-001411",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 20.56,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 20,560 | $ | 18,530"
+      },
+      "operating_income": {
+        "value": 3.515,
+        "unit": "USD millions",
+        "quote": "Operating income | 3,515 | 3,109"
+      },
+      "net_income": {
+        "value": 3.048,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 3,048 | $ | 4,680"
+      },
+      "diluted_eps": {
+        "value": 0.92,
+        "unit": "USD per share",
+        "quote": "Diluted net income per share | $ | 0.92 | $ | 1.40"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says net sales rose 11% to $20.6 million.",
+        "quote": "Net sales for the three months ended September 30, 2026, increased $2.1 million, or 11%, to $20.6 million from $18.5 million"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says gross margin rose 4 percentage points to 33%, due to favourable product mix.",
+        "quote": "Gross margin increased by 4 percentage points to 33% during the three months ended September 30, 2026"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO is pleased with the first quarter and continued revenue growth.",
+        "quote": "We are pleased with our first quarter results and continued top line revenue growth."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says he is pleased with results and revenue growth; the release reports higher sales and margin."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/788920-0001079973-26-001411.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/788920/000107997326001411/ex99x1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/788920/000107997326001411/0001079973-26-001411-index.htm",
+    "saved_at": "2026-11-04T06:08:46+08:00"
+  },
+  {
+    "cik": "1048911",
+    "company": "FEDEX CORP",
+    "accession": "0001048911-26-000128",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 22855,
+        "unit": "USD millions",
+        "quote": "Total Revenue | 22,855 | 20,432"
+      },
+      "operating_income": {
+        "value": 1067,
+        "unit": "USD millions",
+        "quote": "Total Operating Income | 1,067 | 972"
+      },
+      "net_income": {
+        "value": 290,
+        "unit": "USD millions",
+        "quote": "Net Income | $ | 290 | $ | 920"
+      },
+      "diluted_eps": {
+        "value": 1.21,
+        "unit": "USD per share",
+        "quote": "Diluted Earnings Per Share | $ | 1.21 | $ | 3.89"
+      }
+    },
+    "guidance": {
+      "text": "For calendar year 2026, FedEx forecasts revenue growth of about 12% year on year, up from about 11% before.",
+      "quote": "Revenue Growth | ~12% YoY | Compared to the prior forecast of ~11%."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says FedEx is winning in high-value segments and is raising its full-year outlook.",
+        "quote": "FedEx is winning across high-value market segments while we optimize our network, driving an increase to our full-year outlook"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Management says results improved on higher yields and volumes and structural cost reductions.",
+        "quote": "Consolidated operating results improved in the third quarter, driven by increased package base yields, higher package volumes, and continued structural cost reductions from business optimization initiatives."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The interim CFO says results and the higher outlook reflect focused execution.",
+        "quote": "Our solid third quarter results and higher 2026 financial outlook reflect the focused execution of our strategy"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management calls results strong and solid and raises the full-year outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1048911-0001048911-26-000128.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000128/fdx-earningsreleasety2026q3.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000128/0001048911-26-000128-index.htm",
+    "saved_at": "2026-11-04T06:08:46+08:00"
   }
 ]
