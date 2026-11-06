@@ -1,76 +1,112 @@
 {
-  "fetched_at": "2026-11-05T09:46:35+08:00",
+  "fetched_at": "2026-11-06T09:29:58+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-02",
-    "end": "2026-11-04",
+    "end": "2026-11-05",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 24,
-  "answered": 24,
+  "requests": 30,
+  "answered": 30,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 91 ms"
+      "detail": "HTTP 200, 61 KB in 69 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 16 ms"
+      "detail": "HTTP 200, 60 KB in 20 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=200",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 31 ms"
+      "detail": "HTTP 200, 60 KB in 19 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=300",
+      "ok": true,
+      "detail": "HTTP 200, 60 KB in 25 ms"
+    },
+    {
+      "name": "Earnings radar, page 5",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=400",
       "ok": true,
       "detail": "HTTP 200, 59 KB in 15 ms"
     },
     {
-      "name": "Earnings radar, page 5",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=400",
-      "ok": true,
-      "detail": "HTTP 200, 60 KB in 16 ms"
-    },
-    {
       "name": "Earnings radar, page 6",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=500",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 16 ms"
+      "detail": "HTTP 200, 59 KB in 18 ms"
     },
     {
       "name": "Earnings radar, page 7",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=600",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=600",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 15 ms"
+      "detail": "HTTP 200, 60 KB in 18 ms"
     },
     {
       "name": "Earnings radar, page 8",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=700",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=700",
       "ok": true,
-      "detail": "HTTP 200, 40 KB in 23 ms"
+      "detail": "HTTP 200, 60 KB in 24 ms"
+    },
+    {
+      "name": "Earnings radar, page 9",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=800",
+      "ok": true,
+      "detail": "HTTP 200, 60 KB in 19 ms"
+    },
+    {
+      "name": "Earnings radar, page 10",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=900",
+      "ok": true,
+      "detail": "HTTP 200, 60 KB in 16 ms"
+    },
+    {
+      "name": "Earnings radar, page 11",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=1000",
+      "ok": true,
+      "detail": "HTTP 200, 61 KB in 16 ms"
+    },
+    {
+      "name": "Earnings radar, page 12",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=1100",
+      "ok": true,
+      "detail": "HTTP 200, 61 KB in 17 ms"
+    },
+    {
+      "name": "Earnings radar, page 13",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=1200",
+      "ok": true,
+      "detail": "HTTP 200, 62 KB in 20 ms"
+    },
+    {
+      "name": "Earnings radar, page 14",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-05&from=1300",
+      "ok": true,
+      "detail": "HTTP 200, 6 KB in 28 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 29 ms"
+      "detail": "HTTP 200, 148 KB in 36 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 40 ms"
+      "detail": "HTTP 200, 156 KB in 23 ms"
     },
     {
       "name": "Meta Platforms filings list",
@@ -79,108 +115,114 @@
       "detail": "HTTP 200, 154 KB in 16 ms"
     },
     {
-      "name": "Onterris, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1643615/000119312526447197/index.json",
+      "name": "Main Street Capital CORP filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1396440/000139644026000156/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 119 ms"
+      "detail": "HTTP 200, 1 KB in 103 ms"
     },
     {
-      "name": "Onterris, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1643615/000119312526447197/ont-ex99_1.htm",
+      "name": "Main Street Capital CORP filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1396440/000139644026000156/0001396440-26-000156-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 917 KB in 112 ms"
+      "detail": "HTTP 200, 9 KB in 233 ms"
     },
     {
-      "name": "Remitly Global, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1782170/000162828026070130/index.json",
+      "name": "Main Street Capital CORP press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1396440/000139644026000156/main-q32026xearningsreleas.htm",
       "ok": true,
-      "detail": "HTTP 200, 4 KB in 49 ms"
+      "detail": "HTTP 200, 715 KB in 150 ms"
     },
     {
-      "name": "Remitly Global, Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1782170/000162828026070130/0001628280-26-070130-index.htm",
+      "name": "CONDUENT Inc filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770326000153/index.json",
       "ok": true,
-      "detail": "HTTP 200, 18 KB in 87 ms"
+      "detail": "HTTP 200, 4 KB in 80 ms"
     },
     {
-      "name": "Remitly Global, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1782170/000162828026070130/rely3q26-earningspr.htm",
+      "name": "CONDUENT Inc press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770326000153/cndtq32026ex991-pressrelea.htm",
       "ok": true,
-      "detail": "HTTP 200, 290 KB in 101 ms"
+      "detail": "HTTP 200, 490 KB in 144 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 66 ms"
+      "detail": "HTTP 200, 3,174 KB in 53 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 21 ms"
+      "detail": "HTTP 200, 4,447 KB in 28 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,743 KB in 24 ms"
+      "detail": "HTTP 200, 2,744 KB in 26 ms"
     },
     {
-      "name": "Onterris, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001643615.json",
+      "name": "Main Street Capital CORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001396440.json",
       "ok": true,
-      "detail": "HTTP 200, 1,611 KB in 49 ms"
+      "detail": "HTTP 200, 662 KB in 216 ms"
     },
     {
-      "name": "Remitly Global, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001782170.json",
+      "name": "CONDUENT Inc company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001677703.json",
       "ok": true,
-      "detail": "HTTP 200, 1,107 KB in 288 ms"
+      "detail": "HTTP 200, 2,493 KB in 21 ms"
     },
     {
       "name": "USCB FINANCIAL HOLDINGS, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001901637.json",
       "ok": true,
-      "detail": "HTTP 200, 1,177 KB in 320 ms"
+      "detail": "HTTP 200, 1,177 KB in 51 ms"
     },
     {
       "name": "Citizens Community Bancorp Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001367859.json",
       "ok": true,
-      "detail": "HTTP 200, 4,818 KB in 499 ms"
+      "detail": "HTTP 200, 4,818 KB in 747 ms"
     },
     {
       "name": "Skyline Bankshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001657642.json",
       "ok": true,
-      "detail": "HTTP 200, 2,773 KB in 452 ms"
+      "detail": "HTTP 200, 2,773 KB in 608 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001367859.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001643615.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001396440.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001657642.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001782170.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001677703.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001901637.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
+    "efts.sec.gov_search-index_from1000.json",
+    "efts.sec.gov_search-index_from1100.json",
+    "efts.sec.gov_search-index_from1200.json",
+    "efts.sec.gov_search-index_from1300.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
     "efts.sec.gov_search-index_from400.json",
     "efts.sec.gov_search-index_from500.json",
     "efts.sec.gov_search-index_from600.json",
     "efts.sec.gov_search-index_from700.json",
-    "www.sec.gov_Archives_edgar_data_1643615_000119312526447197_index.json",
-    "www.sec.gov_Archives_edgar_data_1643615_000119312526447197_ont-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1782170_000162828026070130_0001628280-26-070130-index.htm",
-    "www.sec.gov_Archives_edgar_data_1782170_000162828026070130_index.json",
-    "www.sec.gov_Archives_edgar_data_1782170_000162828026070130_rely3q26-earningspr.htm"
+    "efts.sec.gov_search-index_from800.json",
+    "efts.sec.gov_search-index_from900.json",
+    "www.sec.gov_Archives_edgar_data_1396440_000139644026000156_0001396440-26-000156-index.htm",
+    "www.sec.gov_Archives_edgar_data_1396440_000139644026000156_index.json",
+    "www.sec.gov_Archives_edgar_data_1396440_000139644026000156_main-q32026xearningsreleas.htm",
+    "www.sec.gov_Archives_edgar_data_1677703_000167770326000153_cndtq32026ex991-pressrelea.htm",
+    "www.sec.gov_Archives_edgar_data_1677703_000167770326000153_index.json"
   ]
 }
