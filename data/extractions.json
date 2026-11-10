@@ -741,5 +741,143 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000128/fdx-earningsreleasety2026q3.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000128/0001048911-26-000128-index.htm",
     "saved_at": "2026-11-04T06:08:46+08:00"
+  },
+  {
+    "cik": "1630627",
+    "company": "TREACE MEDICAL CONCEPTS, INC.",
+    "accession": "0001193125-26-450715",
+    "release_date": "2026-11-06",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 48.253,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 48,253"
+      },
+      "operating_income": {
+        "value": -11.532,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (11,532 | )"
+      },
+      "net_income": {
+        "value": -12.566,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (12,566 | )"
+      },
+      "diluted_eps": {
+        "value": -0.19,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (0.19 | )"
+      }
+    },
+    "guidance": {
+      "text": "The company now expects full-year 2026 revenue of $206 million to $210 million, narrowed from $204 million to $212 million.",
+      "quote": "The Company is updating its full-year 2026 revenue guidance to be in the range of $206 million to $210 million, from the prior range of $204 million to $212 million, representing a decline of 3% to 1% compared to full-year 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the company is encouraged by the quarter, with accelerated double-digit case volume growth and market share gains.",
+        "quote": "We are encouraged by our third quarter performance, reflecting accelerated double-digit case volume growth and continued market share gains"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says the company keeps investing in growth while focusing on profitability and lower cash usage.",
+        "quote": "We continue to make disciplined investments in key growth initiatives with an emphasis on our product pipeline, while staying focused on improving profitability and reducing cash usage."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO expects this approach to build momentum and stronger growth to finish the year.",
+        "quote": "We believe this balanced approach positions us to build momentum and deliver stronger growth to finish the year."
+      },
+      {
+        "id": "M4",
+        "topic": "profit",
+        "claim": "The release says the quarter's net loss improved by 23% to $12.6 million.",
+        "quote": "Improved third quarter 2026 net loss by 23% to $(12.6) million"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says he is encouraged, cites accelerated volume growth and expects stronger growth to finish the year."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1630627-0001193125-26-450715.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1630627/000119312526450715/tmci-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1630627/000119312526450715/0001193125-26-450715-index.htm",
+    "saved_at": "2026-11-11T06:15:33+08:00"
+  },
+  {
+    "cik": "1657573",
+    "company": "Xometry, Inc.",
+    "accession": "0001193125-26-444354",
+    "release_date": "2026-11-03",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 252.439,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 252,439"
+      },
+      "operating_income": {
+        "value": 0.057,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | 57"
+      },
+      "net_income": {
+        "value": 1.935,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to common stockholders | $ | 1,935"
+      },
+      "diluted_eps": {
+        "value": 0.03,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.03"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026, the company expects revenue of $254 million to $256 million, 32% to 33% growth year on year.",
+      "quote": "For Q4 2026, we expect revenue of $254-$256 million, representing 32-33% growth year-over-year driven by approximately 35-36% marketplace growth."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says growth initiatives drove record results, with marketplace growth of 43% and a revenue run rate above $1 billion.",
+        "quote": "Our key growth initiatives drove record results in the third quarter, with marketplace growth of 43% year-over-year, as we surpassed the $1 billion revenue run rate."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CFO says revenue growth stayed at about 40% for a second quarter, with a record marketplace gross margin of 36.0%.",
+        "quote": "Revenue growth remained robust at the 40% level for the second quarter in a row, alongside record marketplace gross margin of 36.0%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CFO says the Adjusted EBITDA margin rose 510 basis points year on year to 8.5%.",
+        "quote": "This durable top line growth was paired with yet another quarter of improved Adjusted EBITDA profit margin, up 510 basis points year-over-year to 8.5%."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The company raises its full-year 2026 revenue growth outlook to at least 37%, from 33-34%.",
+        "quote": "For Full Year 2026, we are raising our revenue growth outlook from previous guidance of 33-34% to at least 37% driven by approximately 41% marketplace growth."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO describe record results, robust growth and better margins, and the company raises its full-year outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1657573-0001193125-26-444354.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1657573/000119312526444354/xmtr-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1657573/000119312526444354/0001193125-26-444354-index.htm",
+    "saved_at": "2026-11-11T06:15:33+08:00"
   }
 ]
