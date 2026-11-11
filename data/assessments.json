@@ -13101,5 +13101,213 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-11T06:37:52+08:00"
+  },
+  {
+    "accession": "0001437749-26-033561",
+    "cik": "1657642",
+    "company": "Skyline Bankshares, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this empty; this bank release gives no revenue line."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this empty; this bank release gives no operating income line."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds 5,072 thousand."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds $0.90."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Both quotes are in the release and hold their numbers (5,072 thousand; $0.90). The 10-Q check is still to come; the SEC could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Net income and EPS are there. Revenue and operating income are empty, but this bank release gives neither, so that is no fault. No guidance given."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Net income and EPS can be used with exact quotes; the 10-Q check is still pending, so confirmation is not yet in hand."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "5.072 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "0.90 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release tables only: net income 5,072 thousand against 4,986 last quarter (+1.7%) and 4,076 a year ago (+24.4%). Earlier quarters are not in the release, so 'record' is tested only on these."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release only: NIM 4.61% against 4.27% a year ago, as quoted. The release also shows 4.62% last quarter, so NIM was flat on the quarter."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Outlook; consistent with the trend in the release: loans up 2.10% on the quarter and 9.17% on a year ago, to $1.13 billion; loan interest 17,544 thousand against 15,925. Not among the fundamentals."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release tables: net income 5,072 thousand against 4,076 a year ago (+24.4%) and 4,986 last quarter (+1.7%); loans up 9.17% on a year ago."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 5.072,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.9,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO reports record quarterly earnings.",
+        "quote": "We are pleased to report another quarter of record earnings for Skyline while continuing to invest in future growth",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Net interest margin was 4.61% in the quarter, against 4.27% a year earlier.",
+        "quote": "Net interest margin (“NIM”) was 4.61% for the third quarter of 2026, compared to 4.27% for the third quarter of 2025.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects loan growth to keep supporting earning assets and loan yields.",
+        "quote": "Management anticipates that this loan growth will continue to have a positive impact on both earning assets and loan yields.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO reports record earnings, a new branch and expects continued growth."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-12T06:38:29+08:00"
   }
 ]
