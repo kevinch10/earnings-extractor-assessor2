@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T09:12:44+08:00",
+  "fetched_at": "2026-11-11T09:28:06+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,112 +16,112 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 584 ms"
+      "detail": "HTTP 200, 60 KB in 155 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 725 ms"
+      "detail": "HTTP 200, 60 KB in 103 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 582 ms"
+      "detail": "HTTP 200, 60 KB in 68 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=300",
       "ok": true,
-      "detail": "HTTP 200, 52 KB in 1148 ms"
+      "detail": "HTTP 200, 52 KB in 105 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 54 ms"
+      "detail": "HTTP 200, 148 KB in 271 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 108 ms"
+      "detail": "HTTP 200, 156 KB in 85 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 40 ms"
+      "detail": "HTTP 200, 153 KB in 77 ms"
     },
     {
-      "name": "Upstream Bio, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2022626/000119312526454405/index.json",
+      "name": "ASTRONICS CORP filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/8063/000162828026072755/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 75 ms"
+      "detail": "HTTP 200, 1 KB in 169 ms"
     },
     {
-      "name": "Upstream Bio, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2022626/000119312526454405/upb-ex99_1.htm",
+      "name": "ASTRONICS CORP press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/8063/000162828026072755/ex99120261003-pr.htm",
       "ok": true,
-      "detail": "HTTP 200, 223 KB in 122 ms"
+      "detail": "HTTP 200, 544 KB in 177 ms"
     },
     {
-      "name": "MARCHEX INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1224133/000119312526455514/index.json",
+      "name": "Co-Diagnostics, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1692415/000149315226050868/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 38 ms"
+      "detail": "HTTP 200, 1 KB in 119 ms"
     },
     {
-      "name": "MARCHEX INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1224133/000119312526455514/mchx-ex99_1.htm",
+      "name": "Co-Diagnostics, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1692415/000149315226050868/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 463 KB in 170 ms"
+      "detail": "HTTP 200, 91 KB in 81 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 72 ms"
+      "detail": "HTTP 200, 3,174 KB in 202 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 66 ms"
+      "detail": "HTTP 200, 4,447 KB in 126 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 58 ms"
+      "detail": "HTTP 200, 2,745 KB in 176 ms"
     },
     {
-      "name": "Upstream Bio, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002022626.json",
+      "name": "ASTRONICS CORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000008063.json",
       "ok": true,
-      "detail": "HTTP 200, 409 KB in 1013 ms"
+      "detail": "HTTP 200, 2,925 KB in 497 ms"
     },
     {
-      "name": "MARCHEX INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001224133.json",
+      "name": "Co-Diagnostics, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001692415.json",
       "ok": true,
-      "detail": "HTTP 200, 2,255 KB in 235 ms"
+      "detail": "HTTP 200, 1,455 KB in 115 ms"
     },
     {
       "name": "Skyline Bankshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001657642.json",
       "ok": true,
-      "detail": "HTTP 200, 2,773 KB in 364 ms"
+      "detail": "HTTP 200, 2,773 KB in 474 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000008063.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001224133.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001657642.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002022626.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001692415.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -129,9 +129,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1224133_000119312526455514_index.json",
-    "www.sec.gov_Archives_edgar_data_1224133_000119312526455514_mchx-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_2022626_000119312526454405_index.json",
-    "www.sec.gov_Archives_edgar_data_2022626_000119312526454405_upb-ex99_1.htm"
+    "www.sec.gov_Archives_edgar_data_1692415_000149315226050868_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1692415_000149315226050868_index.json",
+    "www.sec.gov_Archives_edgar_data_8063_000162828026072755_ex99120261003-pr.htm",
+    "www.sec.gov_Archives_edgar_data_8063_000162828026072755_index.json"
   ]
 }
