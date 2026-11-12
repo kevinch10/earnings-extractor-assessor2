@@ -879,5 +879,128 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1657573/000119312526444354/xmtr-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1657573/000119312526444354/0001193125-26-444354-index.htm",
     "saved_at": "2026-11-11T06:15:33+08:00"
+  },
+  {
+    "cik": "771266",
+    "company": "KOPIN CORP",
+    "accession": "0001493152-26-050970",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 18.189872,
+        "unit": "USD millions",
+        "quote": "Total revenues | 18,189,872"
+      },
+      "operating_income": {
+        "value": -0.509204,
+        "unit": "USD millions",
+        "quote": "(Loss) income from operations | (509,204"
+      },
+      "net_income": {
+        "value": -3.420403,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | (3,420,403"
+      },
+      "diluted_eps": {
+        "value": -0.02,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.02"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter revenue grew 52%, driven by funded development programmes.",
+        "quote": "Third quarter revenue grew 52%, driven by funded development programs that are setting the stage for future product revenue as they move from R&D into production."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CFO says the results reflect the scaling of funded development programmes and growing operating leverage.",
+        "quote": "Our third quarter results reflect the scaling of our funded development programs and growing operating leverage."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO expects a strong second half and progress towards sustainable GAAP profitability.",
+        "quote": "We continue to expect a strong second half and meaningful progress toward sustainable GAAP profitability."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses 52% revenue growth and programmes on track, and the CFO expects a strong second half."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/771266-0001493152-26-050970.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/771266/000149315226050970/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/771266/000149315226050970/0001493152-26-050970-index.htm",
+    "saved_at": "2026-11-13T06:09:21+08:00"
+  },
+  {
+    "cik": "1260221",
+    "company": "TransDigm Group INC",
+    "accession": "0001260221-26-000073",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 2988,
+        "unit": "USD millions",
+        "quote": "NET SALES | $ | 2,988"
+      },
+      "operating_income": {
+        "value": 1364,
+        "unit": "USD millions",
+        "quote": "INCOME FROM OPERATIONS | 1,364"
+      },
+      "net_income": {
+        "value": 586,
+        "unit": "USD millions",
+        "quote": "NET INCOME ATTRIBUTABLE TO TD GROUP | $ | 586"
+      },
+      "diluted_eps": {
+        "value": 10.33,
+        "unit": "USD per share",
+        "quote": "Earnings per share—Basic and diluted | $ | 10.33"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2027, TransDigm expects net sales of $11,950 million to $12,150 million, against $10,557 million in fiscal 2026.",
+      "quote": "Net sales are anticipated to be in the range of $11,950 million to $12,150 million compared with $10,557 million in fiscal 2026, an increase of 14% at the midpoint"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fourth-quarter results beat the high end of the latest guidance for revenue and EBITDA As Defined.",
+        "quote": "Our fourth quarter results exceeded the high end of our most recent guidance for both revenue and EBITDA As Defined."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says the full-year EBITDA As Defined margin was 52.7%, including about two points of dilution from acquisitions.",
+        "quote": "Our EBITDA As Defined margin for the year ended at 52.7% which includes approximately two percentage points of dilution related to recent acquisitions."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is well placed for further growth in fiscal 2027 across its three main end markets.",
+        "quote": "We are well-positioned for continued growth as we head into our fiscal 2027 across all three of our primary end markets."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO is pleased with the results, says they beat guidance and calls the company well placed for growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1260221-0001260221-26-000073.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000073/exhibit991tdg2026q4earning.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000073/0001260221-26-000073-index.htm",
+    "saved_at": "2026-11-13T06:09:21+08:00"
   }
 ]

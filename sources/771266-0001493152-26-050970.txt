@@ -1,0 +1,147 @@
+Company: KOPIN CORP (CIK 771266)
+Accession: 0001493152-26-050970
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/771266/000149315226050970/ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/771266/000149315226050970/0001493152-26-050970-index.htm
+Saved: 2026-11-13T06:09:21+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex99-1.htm EX-99.1
+Exhibit 99.1
+Kopin Corporation Reports Third Quarter 2026 Financial Results
+Third Quarter Revenue Grows 52% Year-over-Year to $18.2 Million; Loss from Operations Narrows Sequentially to $0.5 Million
+Additional $18.6 Million U.S. Army IBAS Award Brings Total IBAS Funding to $34 Million; Neural I/o™ on Track for First Public Demonstration at CES 2027
+WESTBOROUGH, MA — November 10, 2026 — Kopin Corporation (Nasdaq: KOPN) (“Kopin” or the “Company”), a leading provider of application-specific optical systems and high-performance microdisplays for defense, AI-infrastructure, enterprise, industrial, consumer and medical products, today announced preliminary unaudited financial results for its third quarter ended September 26, 2026.
+Third Quarter Financial Summary:
+$ in millions | Q3 2026 | Q2 2026 | Q3 2025
+Total Revenues | $ | 18.2 | $ | 12.7 | $ | 12.0
+Cost of Product Revenues | $ | 6.4 | $ | 6.6 | $ | 8.4
+Operating Expenses * | $ | 12.3 | $ | 9.7 | $ | 4.1
+(Loss) Income from Operations * | $ | (0.5 | ) | $ | (3.5 | ) | $ | 4.5
+Net (Loss) Income | $ | (3.4 | ) | $ | 0.8 | $ | 4.1
+* Third quarter 2025 operating expenses reflect an approximately $3.3 million reduction in accrued legal fees, and income from operations includes a $5.1 million gain on legal contingency related to prior litigation matters.
+Third Quarter 2026 & Subsequent Operational Highlights
+● | Secured an additional $18.6 million sole-source award from the Office of the Secretary of War through the U.S. Army Contracting Command under the Industrial Base Analysis and Sustainment (IBAS) program — bringing cumulative IBAS funding for Kopin’s color MicroLED technology to $34 million.
+● | Advanced Neural I/o™, the MicroLED-based optical interconnect co-developed with Fabric.AI, toward its first public demonstration at CES in January 2027, to be followed by a demonstration at SPIE Photonics West. The companies began initial transmission-link testing and published “The Data Center in a SerDes-Free World,” a white paper modeling as much as 1.6 times greater useful data throughput from the same number of GPUs.
+● | Awarded an $800,000 grant through the Massachusetts Manufacturing Innovation Initiative (M2I2) to install advanced capital equipment for domestic manufacturing of MicroLED displays and Neural I/o™ optical interconnects at the Company’s Westborough facility, and named Manufacturer of the Year by the Massachusetts Legislative Manufacturing Caucus.
+● | Received a $2.4 million order for OLED microdisplays from a new customer through Kopin Europe. The customer is a leading international thermal weapon sight manufacturer whose program has since entered low-rate initial production, with deliveries scheduled to begin in the fourth quarter of 2026.
+● | Introduced an expanded first-person viewer (FPV) evaluation kit lineup at AUSA 2026 to accelerate adoption of Kopin’s FPV optical modules among new and existing drone partners, and received prototype headset orders from more than a dozen new Sentinel FPV™ customers for use in the Drone Dominance Program and within other Department of War and U.S. government law enforcement agencies.
+Management Commentary
+Michael Murray, Chief Executive Officer of Kopin, said: “Third quarter revenue grew 52%, driven by funded development programs that are setting the stage for future product revenue as they move from R&D into production. The additional $18.6 million IBAS award brings total funding for our color MicroLED technology to $34 million, keeping us on track for MicroLED product manufacturing in mid-2027, and Neural I/o™ remains on schedule for its first public demonstration at CES in January.”
+Erich Manz, Chief Financial Officer of Kopin, added: “Our third quarter results reflect the scaling of our funded development programs and growing operating leverage. We continue to expect a strong second half and meaningful progress toward sustainable GAAP profitability.”
+Third Quarter 2026 Financial Results
+Total revenues for the third quarter ended September 26, 2026 increased 52% to $18.2 million, compared to $12.0 million for the third quarter ended September 27, 2025, and rose 43% sequentially from $12.7 million in the second quarter of 2026. The year-over-year increase primarily reflects research and development revenue from the Company’s joint development program with Fabric.AI and grant revenue recognized under its U.S. Government color MicroLED award.
+Cost of product revenues for the third quarter of 2026 was $6.4 million, or 73% of net product revenues, compared to $8.4 million, or 79% of net product revenues, for the third quarter of 2025, and 86% of net product revenues in the second quarter of 2026.
+Operating expenses, consisting of research and development (R&D) and selling, general and administrative (SG&A) expenses, were $12.3 million for the third quarter of 2026. Sequentially, operating expenses increased 28% while total revenues grew 43%, reducing operating expenses by 800 basis points to 68% of total revenues. Year-over-year, operating expenses increased from $4.1 million in the third quarter of 2025, a period that benefited from an approximately $3.3 million reduction in accrued legal fees related to the prior litigation matters and a $3.9 million increase in funded R&D costs, which support the Company’s development and grant revenue.
+Loss from operations for the third quarter of 2026 was $0.5 million, compared to income from operations of $4.5 million for the third quarter of 2025, which included a $5.1 million benefit from the reduction of a litigation accrual and the reduction in accrued legal fees noted above. Sequentially, loss from operations saw a $3.0 million improvement.
+Net loss for the third quarter of 2026 was $3.4 million, or $(0.02) per share, compared to net income of $4.1 million, or $0.02 per share, in the third quarter of 2025. The third quarter 2026 net loss includes approximately $2.7 million of net losses on investments, largely reflecting non-cash changes in the fair value of the Company’s strategic equity investments.
+As of September 26, 2026, the Company had cash and cash equivalents of $25.8 million, up from $24.9 million as of June 27, 2026, and total cash, restricted cash and marketable securities of $51.3 million, inclusive of $25.5 million of restricted cash, of which $24.2 million collateralizes the supersedeas bond posted in connection with a litigation appeal. Cash provided by operating activities was approximately $2.4 million in the third quarter, reducing net cash used in operating activities for the first nine months of 2026 to $2.7 million. Capital expenditures were $1.4 million in the third quarter.
+Earnings Call and Webcast
+Management will host an investor conference call at 5:00 PM Eastern time on Tuesday, November 10, 2026 to discuss the Company’s third quarter 2026 unaudited financial results, provide a corporate update, and conclude with Q&A from telephone participants. To participate, please use the following information:
+Q3 2026 Earnings Conference Call
+Date: Tuesday, November 10, 2026
+Time: 5:00 PM Eastern time
+U.S. Dial-in: 1-844-826-3033
+International: 1-412-317-5185
+Webcast: KOPN Q3 FY2026 Earnings Conference Call
+Please call the conference telephone number 5-10 minutes prior to the start time.
+A telephonic replay of the conference call will also be available through November 17, 2026. To listen, please call 1-844-512-2921 within the United States and Canada or 1-412-317-6671 when calling internationally, using replay pin number 10213159. A webcast replay will also be available using the webcast link above.
+About Kopin Corporation
+Kopin Corporation (Nasdaq: KOPN) is a leading developer and provider of innovative display and application-specific optical solutions for defense, AI infrastructure, enterprise, professional and consumer products. Kopin’s portfolio includes microdisplays, display modules, eyepiece and projection assemblies, and vehicle- and head-mounted display systems built on the Company’s liquid crystal, MicroLED and OLED display technologies, along with a range of optics and low-power custom silicon. Building on its patented bi-directional NeuralDisplay™ architecture, Kopin is also developing Neural I/o™ optical interconnects that use programmable MicroLED pixels as ultra-high-speed, low-power optical transceivers for AI data centers. For more information, please visit Kopin’s website at www.kopin.com.
+Follow us on LinkedIn, X and Facebook.
+Forward-Looking Statements
+Statements in this press release may be considered “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the safe harbor created by such sections. Words such as “expects,” “believes,” “can,” “will,” “estimates,” and variations of such words and similar expressions, and the negatives thereof, are intended to identify such forward-looking statements. We caution readers not to place undue reliance on any such “forward-looking statements,” which speak only as of the date made, and advise readers that these forward-looking statements are not guarantees of future performance and involve certain risks, uncertainties, estimates, and assumptions by us that are difficult to predict. Various factors, some of which are beyond our control, could cause actual results to differ materially from those expressed in, or implied by, such forward-looking statements. All such forward-looking statements, whether written or oral, and whether made by us or on our behalf, are expressly qualified by these cautionary statements and any other cautionary statements that may accompany the forward-looking statements. In addition, we disclaim any obligation to update any forward-looking statements to reflect events or circumstances after the date of this press release, except as may otherwise be required by the federal securities laws. These forward-looking statements are only predictions, subject to risks and uncertainties, and actual results could differ materially from those discussed. Important factors that could affect performance and cause results to differ materially from management’s expectations are described in Part I, Item 1A. Risk Factors; Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations; and other parts of our Annual Report on Form 10-K, as amended, for the fiscal year ended December 27, 2025, or as updated from time to time in our Securities and Exchange Commission filings.
+Kopin Corporation
+Supplemental Information
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 26, 2026 | September 27, 2025 | September 26, 2026 | September 27, 2025
+Display Revenues by Category
+Defense | $ | 8,462,911 | $ | 9,934,334 | $ | 21,083,739 | $ | 24,618,055
+Industrial | 52,155 | 749,400 | 119,873 | 2,172,000
+Medical | 279,664 | 1,000 | 605,846 | 574,000
+Consumer and other product | — | 9,000 | 50,160 | 58,000
+R&D | 5,684,592 | 1,199,937 | 9,143,252 | 3,344,511
+License and royalties | 605,900 | 68,754 | 726,826 | 189,234
+Grant | 3,104,650 | — | 9,144,891 | —
+Collaboration | — | — | 601,089 | —
+Total | $ | 18,189,872 | $ | 11,962,425 | $ | 41,475,676 | $ | 30,955,800
+Kopin Corporation
+Condensed Consolidated Statements of Operations
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 26, 2026 | September 27, 2025 | September 26, 2026 | September 27, 2025
+Revenues:
+Net product revenues | $ | 8,794,730 | $ | 10,693,734 | $ | 21,859,618 | $ | 27,422,055
+Research and development revenues | 5,684,592 | 1,199,937 | 9,143,252 | 3,344,511
+Grant income | 3,104,650 | — | 9,144,891 | —
+Collaboration arrangement income | — | — | 601,089 | —
+License and other revenues | 605,900 | 68,754 | 726,826 | 189,234
+Total revenues | 18,189,872 | 11,962,425 | 41,475,676 | 30,955,800
+Expenses:
+Cost of product revenues | 6,389,859 | 8,397,135 | 18,586,479 | 23,098,119
+Research and development | 5,642,254 | 2,502,988 | 15,077,901 | 6,564,345
+Selling, general and administrative | 6,666,963 | 1,629,175 | 17,811,031 | 11,229,549
+Gain on legal contingency | — | (5,100,000 | ) | — | (5,100,000 | )
+Total expenses | 18,699,076 | 7,429,298 | 51,475,411 | 35,792,013
+(Loss) income from operations | (509,204 | ) | 4,533,127 | (9,999,735 | ) | (4,836,213 | )
+Other (expense) income, net | (2,911,199 | ) | (400,523 | ) | 1,625,186 | 792,651
+(Loss) income before provision for income taxes | (3,420,403 | ) | 4,132,604 | (8,374,549 | ) | (4,043,562 | )
+Tax benefit (provision) | — | (52,000 | ) | 2,032,980 | (156,000 | )
+Net (loss) income | $ | (3,420,403 | ) | $ | 4,080,604 | $ | (6,341,569 | ) | $ | (4,199,562 | )
+Net (loss) income per share:
+Basic | $ | (0.02 | ) | $ | 0.02 | $ | (0.03 | ) | $ | (0.03 | )
+Diluted | $ | (0.02 | ) | $ | 0.02 | $ | (0.03 | ) | $ | (0.03 | )
+Weighted average number of common shares outstanding:
+Basic | 190,234,566 | 166,618,201 | 188,457,063 | 166,362,609
+Diluted | 190,234,566 | 169,448,696 | 188,457,063 | 166,362,609
+Kopin Corporation
+Condensed Consolidated Balance Sheets
+(Unaudited)
+September 26, 2026 | December 27, 2025
+ASSETS
+Current assets:
+Cash, restricted cash and marketable securities | $ | 51,311,843 | $ | 61,627,146
+Accounts receivable, net | 4,524,536 | 10,726,776
+Contract assets | 6,944,936 | 6,032,913
+Grant income receivable | 3,506,264 | —
+Inventory | 4,951,503 | 5,505,775
+Other receivable, at fair value | 4,401,602 | 5,057,974
+Prepaid expenses and other current assets | 4,482,806 | 2,855,383
+Total current assets | 80,123,490 | 91,805,967
+Plant and equipment, net | 8,514,290 | 2,616,803
+Operating lease right-of-use assets | 1,003,882 | 1,488,231
+Other assets | 123,822 | 123,822
+Equity method investment, at fair value | 6,250,000 | 8,900,000
+Equity investments | 9,465,717 | 3,459,434
+Total assets | $ | 105,481,201 | $ | 108,394,257
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable | $ | 7,409,551 | $ | 5,315,998
+Accrued payroll and expenses | 3,070,473 | 2,231,848
+Accrued warranty | 36,000 | 1,165,000
+Contract liabilities | 6,039,010 | 1,168,009
+Deferred grant income | — | 2,688,627
+Operating lease liabilities | 654,024 | 648,469
+Accrued post-retirement benefits | 40,000 | 40,000
+Other accrued liabilities | 1,018,705 | 607,915
+Deferred tax liabilities | — | 422,458
+Accrued litigation damages | 19,700,000 | 19,700,000
+Total current liabilities | 37,967,763 | 33,988,324
+Noncurrent contract liabilities | 833 | 3,675
+Operating lease liabilities, net of current portion | 344,538 | 831,507
+Accrued post-retirement benefits, net of current portion | 170,504 | 190,696
+Other long-term liabilities, net of current portion | — | 1,706,411
+Series A redeemable convertible preferred stock | — | 7,556,481
+Total stockholders’ equity | 66,997,563 | 64,117,163
+Total liabilities, convertible preferred stock and stockholders’ equity | $ | 105,481,201 | $ | 108,394,257
+Corporate Contact
+Kopin Corporation
+Erich Manz, Chief Financial Officer
+EManz@kopin.com
+508-870-5959
+Investor Relations Contact
+Lucas A. Zimmerman
+MZ Group — MZ North America
+KOPN@mzgroup.us
+949-259-4987
