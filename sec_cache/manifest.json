@@ -1,147 +1,141 @@
 {
-  "fetched_at": "2026-11-14T09:43:46+08:00",
+  "fetched_at": "2026-11-15T08:59:24+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-13",
+    "end": "2026-11-14",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 20,
-  "answered": 20,
+  "requests": 19,
+  "answered": 19,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 185 ms"
+      "detail": "HTTP 200, 60 KB in 152 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 50 ms"
+      "detail": "HTTP 200, 60 KB in 106 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 50 ms"
+      "detail": "HTTP 200, 60 KB in 246 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 121 ms"
+      "detail": "HTTP 200, 55 KB in 319 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 179 ms"
+      "detail": "HTTP 200, 148 KB in 85 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 120 ms"
+      "detail": "HTTP 200, 156 KB in 35 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 65 ms"
+      "detail": "HTTP 200, 154 KB in 37 ms"
     },
     {
-      "name": "ASTROTECH Corp filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1001907/000143774926036885/index.json",
+      "name": "Aardvark Therapeutics, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1774857/000119312526459373/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 70 ms"
+      "detail": "HTTP 200, 1 KB in 63 ms"
     },
     {
-      "name": "ASTROTECH Corp filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1001907/000143774926036885/0001437749-26-036885-index.htm",
+      "name": "Aardvark Therapeutics, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1774857/000119312526459373/ck0001774857-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 88 ms"
+      "detail": "HTTP 200, 140 KB in 67 ms"
     },
     {
-      "name": "ASTROTECH Corp press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1001907/000143774926036885/ex_1040433.htm",
+      "name": "Twist Bioscience Corp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1581280/000158128026000053/index.json",
       "ok": true,
-      "detail": "HTTP 200, 111 KB in 46 ms"
+      "detail": "HTTP 200, 1 KB in 42 ms"
     },
     {
-      "name": "Azora Therapeutics, Inc. (DE) filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026118922/index.json",
+      "name": "Twist Bioscience Corp press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1581280/000158128026000053/twst-2026930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 30 ms"
-    },
-    {
-      "name": "Azora Therapeutics, Inc. (DE) press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026118922/ea031195201ex99-1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 59 KB in 54 ms"
+      "detail": "HTTP 200, 145 KB in 62 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 99 ms"
+      "detail": "HTTP 200, 3,174 KB in 110 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 83 ms"
+      "detail": "HTTP 200, 4,447 KB in 54 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 194 ms"
+      "detail": "HTTP 200, 2,745 KB in 115 ms"
     },
     {
-      "name": "ASTROTECH Corp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001001907.json",
+      "name": "Aardvark Therapeutics, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001774857.json",
       "ok": true,
-      "detail": "HTTP 200, 2,279 KB in 196 ms"
+      "detail": "HTTP 200, 271 KB in 188 ms"
     },
     {
-      "name": "Azora Therapeutics, Inc. (DE) company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001513525.json",
+      "name": "Twist Bioscience Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001581280.json",
       "ok": true,
-      "detail": "HTTP 200, 1,089 KB in 113 ms"
+      "detail": "HTTP 200, 1,643 KB in 220 ms"
     },
     {
       "name": "Skyline Bankshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001657642.json",
       "ok": true,
-      "detail": "HTTP 200, 2,846 KB in 301 ms"
+      "detail": "HTTP 200, 2,846 KB in 279 ms"
     },
     {
       "name": "KOPIN CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000771266.json",
       "ok": true,
-      "detail": "HTTP 200, 3,341 KB in 384 ms"
+      "detail": "HTTP 200, 3,341 KB in 373 ms"
     },
     {
       "name": "TransDigm Group INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001260221.json",
       "ok": true,
-      "detail": "HTTP 200, 3,340 KB in 160 ms"
+      "detail": "HTTP 200, 3,340 KB in 129 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000771266.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001001907.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001260221.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001513525.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001581280.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001657642.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001774857.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -149,10 +143,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1001907_000143774926036885_0001437749-26-036885-index.htm",
-    "www.sec.gov_Archives_edgar_data_1001907_000143774926036885_ex_1040433.htm",
-    "www.sec.gov_Archives_edgar_data_1001907_000143774926036885_index.json",
-    "www.sec.gov_Archives_edgar_data_1513525_000121390026118922_ea031195201ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1513525_000121390026118922_index.json"
+    "www.sec.gov_Archives_edgar_data_1581280_000158128026000053_index.json",
+    "www.sec.gov_Archives_edgar_data_1581280_000158128026000053_twst-2026930xex991.htm",
+    "www.sec.gov_Archives_edgar_data_1774857_000119312526459373_ck0001774857-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1774857_000119312526459373_index.json"
   ]
 }
