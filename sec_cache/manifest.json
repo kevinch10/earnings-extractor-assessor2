@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-15T09:18:20+08:00",
+  "fetched_at": "2026-11-16T08:58:06+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-14",
+    "end": "2026-11-15",
     "first_run": false,
     "note": null
   },
@@ -14,128 +14,128 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 484 ms"
+      "detail": "HTTP 200, 60 KB in 131 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 945 ms"
+      "detail": "HTTP 200, 60 KB in 128 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 239 ms"
+      "detail": "HTTP 200, 60 KB in 89 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 334 ms"
+      "detail": "HTTP 200, 55 KB in 85 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 179 ms"
+      "detail": "HTTP 200, 148 KB in 122 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 110 ms"
+      "detail": "HTTP 200, 156 KB in 78 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 92 ms"
+      "detail": "HTTP 200, 154 KB in 64 ms"
     },
     {
-      "name": "FiEE, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1467761/000182912626012399/index.json",
+      "name": "TETRA TECH INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/831641/000110465926125600/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 214 ms"
+      "detail": "HTTP 200, 1 KB in 147 ms"
     },
     {
-      "name": "FiEE, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1467761/000182912626012399/fiee_ex99-1.htm",
+      "name": "TETRA TECH INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/831641/000110465926125600/tm2629545d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 96 KB in 210 ms"
+      "detail": "HTTP 200, 347 KB in 185 ms"
     },
     {
-      "name": "HYPERION DEFI, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1682639/000110465926125794/index.json",
+      "name": "Aeries Technology, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1853044/000182912626012225/index.json",
       "ok": true,
-      "detail": "HTTP 200, 6 KB in 229 ms"
+      "detail": "HTTP 200, 1 KB in 275 ms"
     },
     {
-      "name": "HYPERION DEFI, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1682639/000110465926125794/tm2624461d2_ex99-1.htm",
+      "name": "Aeries Technology, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1853044/000182912626012225/aeriestech_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 875 KB in 231 ms"
+      "detail": "HTTP 200, 105 KB in 141 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 163 ms"
+      "detail": "HTTP 200, 3,174 KB in 140 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 164 ms"
+      "detail": "HTTP 200, 4,447 KB in 130 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 144 ms"
+      "detail": "HTTP 200, 2,745 KB in 113 ms"
     },
     {
-      "name": "FiEE, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001467761.json",
+      "name": "TETRA TECH INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000831641.json",
       "ok": true,
-      "detail": "HTTP 200, 2,032 KB in 238 ms"
+      "detail": "HTTP 200, 3,516 KB in 426 ms"
     },
     {
-      "name": "HYPERION DEFI, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001682639.json",
+      "name": "Aeries Technology, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001853044.json",
       "ok": true,
-      "detail": "HTTP 200, 1,217 KB in 127 ms"
+      "detail": "HTTP 200, 728 KB in 614 ms"
     },
     {
       "name": "Skyline Bankshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001657642.json",
       "ok": true,
-      "detail": "HTTP 200, 2,846 KB in 245 ms"
+      "detail": "HTTP 200, 2,846 KB in 776 ms"
     },
     {
       "name": "KOPIN CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000771266.json",
       "ok": true,
-      "detail": "HTTP 200, 3,341 KB in 160 ms"
+      "detail": "HTTP 200, 3,341 KB in 384 ms"
     },
     {
       "name": "TransDigm Group INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001260221.json",
       "ok": true,
-      "detail": "HTTP 200, 3,340 KB in 345 ms"
+      "detail": "HTTP 200, 3,340 KB in 518 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000771266.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000831641.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001260221.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001467761.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001657642.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001682639.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001853044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -143,9 +143,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1467761_000182912626012399_fiee_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1467761_000182912626012399_index.json",
-    "www.sec.gov_Archives_edgar_data_1682639_000110465926125794_index.json",
-    "www.sec.gov_Archives_edgar_data_1682639_000110465926125794_tm2624461d2_ex99-1.htm"
+    "www.sec.gov_Archives_edgar_data_1853044_000182912626012225_aeriestech_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1853044_000182912626012225_index.json",
+    "www.sec.gov_Archives_edgar_data_831641_000110465926125600_index.json",
+    "www.sec.gov_Archives_edgar_data_831641_000110465926125600_tm2629545d1_ex99-1.htm"
   ]
 }
