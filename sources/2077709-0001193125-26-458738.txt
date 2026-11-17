@@ -1,0 +1,192 @@
+Company: Rank One Computing Corp (CIK 2077709)
+Accession: 0001193125-26-458738
+Results released: 2026-11-12
+Press release: https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/roc-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/0001193125-26-458738-index.htm
+Saved: 2026-11-18T06:08:10+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 roc-ex99_1.htm 99.1
+Exhibit 99.1
+ROC Delivers Record Quarterly Revenue of $8.0 Million in the Third-Quarter 2026, Up 50% YoY; Achieves Quarterly Profitability
+Product revenue grew 24% to $5.7 million, driven by strong software licensing performance; gross margin reached 90% for the second consecutive quarter
+Measurable results validate ROC’s core growth drivers; ROC ABIS grew 654% YoY to $2.2M and ROC SDK grew 52% YoY to $2.6M
+Secured transformational federal beachhead contracts for ROC ABIS and ROC Evidence, including a $64.3 million Department of Justice digital evidence contract award, the largest in Company history
+DENVER, Nov. 12, 2026 (GLOBE NEWSWIRE) -- Rank One Computing Corporation d/b/a ROC (Nasdaq: ROC) (“ROC” or the “Company”), a U.S. leader in Vision AI, building unified biometric, video analytics, and digital evidence solutions, today announced financial results for the third quarter ended September 30, 2026.
+“The third quarter marked a transformational period for ROC, highlighted by record revenue, a profitable quarter, and significant execution against the strategic objectives we established at our IPO,” said B. Scott Swann, ROC’s Chief Executive Officer. “We delivered record third-quarter revenue of $8.0 million, increasing 50% year over year and 57% sequentially, and our software licensing revenue drove a second consecutive quarter of 90% gross margin. Our strong results were driven by meaningful federal traction for ROC ABIS and expanded activity under an existing government R&D program, demonstrating the strategic investments we have made to execute our growth strategy are translating into measurable financial performance.”
+“Importantly, we delivered on our commitment by establishing two foundational federal beachhead contracts for ROC ABIS and ROC Evidence, including the largest award in ROC’s history, a $64.3 million contract with the U.S. Department of Justice. These wins secure ROC’s position as a competitor in the Vision AI space. Our differentiation is validated in the accuracy, speed and efficiency of our technologies, supported by a highly specialized team that drives our unique value proposition. With these strategic federal programs in place, ROC is well-positioned with an active federal pipeline to pursue larger, longer-duration opportunities that generate durable, high-margin revenue.”
+Mr. Swann continued, “We entered the fourth quarter from a position of strength, focused on disciplined execution, specifically addressing our three core growth products, ROC ABIS, ROC Evidence and ROC Watch. With the integration of ZTC strengthening ROC Evidence and a broad pipeline of opportunities across our commercial and federal markets, we believe we are building a foundation for sustained, long-term growth. We consider the third quarter an inflection point for ROC, as we secured two landmark contracts and reached record revenue. Achieving these significant milestones leaves us confident in a strong close to 2026.”
+Third Quarter 2026 Business Updates
+•
+Secured a U.S. Department of Justice (DOJ) ROC Evidence contract, the largest award in ROC’s history, with a total potential value of $64.3 million over eight years, including approximately $7.4 million under the initial one-year base period.
+•
+Secured ROC’s first strategic federal ROC ABIS contract, with a total potential value of $5.1 million over five years, including approximately $2.5 million in committed contract value, delivering this significant federal ABIS platform license during the quarter.
+•
+Continued strong commercial adoption of ROC SDK, generating $2.6 million in quarterly revenue, representing 52% year-over-year growth.
+•
+Expanded ROC Watch’s market presence with new government and commercial customer wins during the third quarter, reflecting continued adoption of ROC’s video analytics solutions.
+Third Quarter 2026 Corporate Highlights and Subsequent Events
+•
+Completed the acquisition of Zuccaro Technical Consulting (ZTC) on August 31, 2026, expanding ROC Evidence with proprietary digital forensics capabilities, experienced technical personnel, and established federal customer relationships.
+•
+Achieved #1 global accuracy rankings across three National Institute of Standards and Technology (NIST) Face Analysis Technology Evaluation (FATE) Age Estimation and Verification benchmarks, including Visa, Application, and Mugshot datasets.
+•
+Appointed Dr. Anil K. Jain, a globally recognized pioneer in biometrics, pattern recognition, and computer vision, to ROC’s Board of Directors.
+•
+Launched ROC's first SaaS product, an Age Estimation API that establishes a foundation for new recurring revenue opportunities across the Company’s Vision AI portfolio.
+Third Quarter 2026 Financial Results (as compared to Third Quarter 2025)
+Revenue reached a record $8.0 million for the three months ended September 30, 2026, an increase of approximately $2.7 million, or 50%, compared to $5.3 million in the prior-year period. Growth was driven by higher product revenue, particularly ROC ABIS and ROC SDK, and increased government R&D contract revenue from expanded activity under a U.S. government research program that commenced in the second quarter of 2026.
+Product revenue was $5.7 million for the three months ended September 30, 2026, an increase of approximately $1.1 million, or 24%, compared to $4.6 million in the prior year period. The increase was driven primarily by significant growth in ROC ABIS and continued ROC SDK expansion, partially offset by lower ROC Watch revenue following the completion of a significant government deployment in the fourth quarter of 2025.
+During the third quarter of 2026, ROC's product revenue performance reflected continued commercial adoption and expansion across its Vision AI portfolio:
+•
+ROC SDK revenue was $2.6 million, a YoY increase of 52% from $1.7 million, reflecting new customer contracts and expanded commercial adoption.
+•
+ROC ABIS revenue was $2.2 million, a YoY increase of 654% from $287,000, advancing commercialization with a significant federal ABIS platform license delivered during the quarter.
+•
+ROC Watch revenue was $0.8 million, compared to $2.5 million in the prior year quarter, due to a mission deployment that was completed in Q4 2025. Sequentially, ROC Watch revenue increased 219% from $0.2 million in the second quarter of 2026.
+•
+ROC Evidence revenue was approximately $63,000, following initial commercialization in the second quarter 2026. The DOJ contract base-year award contributed revenue for initial services delivered in the third quarter of 2026 and will contribute more meaningful revenue in the fourth quarter of 2026 and continuing through the third quarter of 2027.
+•
+ROC Enroll revenue was approximately $59,000, a YoY increase of 55% from $38,000.
+Government R&D contract revenue was $2.2 million for the three months ended September 30, 2026, an increase of approximately $1.4 million, or 175%, year over year. The increase was driven by expanded activity under a U.S. Government research and development program that commenced in the second quarter of 2026.
+During the third quarter of 2026, the Company began reporting Service Contracts revenue, which includes revenue from pure service contracts that do not include a software license, hardware, or R&D deliverable. Service Contracts revenue was approximately $0.2 million for the three months ended September 30, 2026, primarily attributable to revenue recognized from the ZTC acquisition on August 31, 2026.
+Gross profit was $7.2 million for the three months ended September 30, 2026, an increase of approximately $3.0 million or 71%, compared to $4.2 million in the prior-year period. Gross margin improved to 90% from 79% in the prior-year period, primarily reflecting a favorable revenue mix driven by higher-margin software licensing revenue, including a significant federal ROC ABIS platform license delivered during the quarter.
+Gross margin may fluctuate between reporting periods based on the timing and mix of software license revenue, services, hardware deployments, and government R&D contract activity.
+Operating expenses totaled $6.6 million for the three months ended September 30, 2026, compared to $4.3 million in the prior-year period. The increase primarily reflected planned investments in personnel, operations, infrastructure, and the continued development of ROC's Vision AI capabilities, as well as costs associated with the ZTC acquisition.
+Net income was approximately $0.6 million for the three months ended September 30, 2026, compared with a net loss of approximately $0.8 million in the prior-year period. Basic and diluted earnings per share were $0.03, compared with a basic and diluted loss per share of $0.05 in the prior-year period. ROC’s quarterly profitability reflects a favorable revenue mix shift toward software licensing and the structural benefits inherent in ROC's technology platform.
+As of September 30, 2026, ROC had $7.5 million in cash, approximately $14.8 million in working capital, and no borrowings under its revolving line of credit.
+Accounts receivable increased to $11.1 million as of September 30, 2026, compared to $5.6 million as of June 30, 2026, primarily reflecting higher revenue and the timing of customer invoicing under contractual billing arrangements.
+The Company completed its acquisition of ZTC on August 31, 2026, as previously announced in a Current Report on Form 8-K filed on September 2, 2026 (the “ZTC 8-K”). ZTC’s operating results for the post-acquisition period of September 1, 2026 through September 30, 2026 have been included in ROC’s consolidated financial statements contained in its Quarterly Report on Form 10-Q for the period ended September 30, 2026, which was filed on November 12, 2026. In addition, (A) ZTC’s audited financial statements as of December 31, 2025 and 2024 and for the years then ended, together with the related independent auditor’s report; (B) ZTC’s unaudited interim financial statements as of June 30, 2026 and for the six months ended June 30, 2026; (C) the unaudited pro forma condensed combined balance sheet of ROC as of June 30, 2026, giving effect to the ZTC transaction as if it had occurred on June 30, 2026; and (D) the unaudited pro forma condensed combined statements of operations of ROC for the year ended December 31, 2025 and the six months ended June 30, 2026, in each case giving effect to the ZTC transaction as if it had occurred on January 1, 2025 have been prepared in accordance with Article 11 of Regulation S-X and filed separately under a Form 8-K/A filing dated November 12, 2026, which amends the ZTC 8-K as required under applicable SEC regulations and in accordance with those requirements.
+Conference Call Information
+ROC will host a conference call today, November 12, 2026, at 4:30 PM ET to discuss the Company’s third quarter 2026 results and conduct a question-and-answer session. The dial-in number for the conference call is (866) 777-2509 (toll-free) or (412) 317-5413 (international). Please dial into the number 10 minutes prior to the scheduled start time.
+In addition, a live webcast of the conference call will be available on ROC’s Investor Relations website at https://investors.roc.ai/. A replay of the webcast will be available on ROC’s Investor Relations website for one year following the call.
+About ROC
+ROC is a leading U.S. developer of Vision AI, delivering sovereign biometrics, video analytics, and digital evidence through a unified platform. This enables agency and integrator partners to unlock faster, more accurate, and cost-efficient capabilities. At its core, ROC transforms raw pixels into real-time operational awareness for defense, public safety, and digital commerce. The Company is headquartered in Denver, Colo., with additional hubs in Grand Rapids, Mich., and Morgantown, W. Va. For more information, please visit the Company’s website: www.roc.ai.
+Forward-Looking Statements
+This earnings release contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, Section 21E of the Securities Exchange Act of 1934, as amended and the Private Securities Litigation Reform Act of 1995. These statements are made under the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements reflect current views about future events and financial performance based on certain assumptions. They include opinions, forecasts, intentions, plans, goals, projections, guidance, expectations, beliefs or other statements that are not statements of historical fact. Forward-looking statements can be identified by terminology such as “will,” “may,” “should,” “could,” “would,” “expects,” “anticipates,” “future,” “intends,” “plans,” “believes,” “estimates,” “targets,” “projects,” “forecasts,” “guidance,” “outlook,” “approximates,” “predicts,” “potential,” “continue,” “likely,” “ongoing,” “confident,” ”positioned,” “pipeline,” or the negative or other variations of such expressions, and similar expressions although not all forward-looking statements may contain these words. Any statements that are not historical facts or that refer to projections of our future financial performance, our anticipated growth and trends in our businesses, our goals, strategies, focus and plans, and other characterizations of future events or circumstances, including statements expressing general optimism about future operating results and the development of our products, are forward-looking statements. Forward-looking statements in this earnings release include, without limitation, statements regarding the expected timing and amount of revenue under the Company’s U.S. Department of Justice contract and its ROC ABIS contract, the total potential value of those contracts, the Company’s pipeline of federal and commercial opportunities, its ability to pursue larger and longer-duration opportunities, the anticipated benefits of the ZTC acquisition, the commercialization of its SaaS and API offerings, the Company’s expectations for the fourth quarter and full year 2026, and the matters described under “Business Outlook.” The Company may also make written or oral forward-looking statements in its periodic reports filed with or furnished to the U.S. Securities and Exchange Commission (the “SEC”), in its annual report to shareholders, in press releases and other written materials, and in oral statements made by its officers, directors, or employees to third parties. Forward-looking statements are based on the Company's current expectations and assumptions regarding its business, the economy, and other future conditions, and involve known and unknown risks, uncertainties, and other factors — many of which are outside the Company's control — that could cause actual results, performance, or achievements to differ materially from those expressed or implied by such statements. Such factors include, but are not limited to: the U.S. Government's right to terminate or decline to renew contracts, in whole or in part, for
+convenience; the fact that option periods under the Company's government contracts, including its U.S. Department of Justice contract, are exercisable at the Government's sole discretion and subject to the availability of appropriations, such that the total potential contract value , and the revenue anticipated under the base period, may not be realized; the timing of contract awards, funding, implementation milestones, customer acceptance, and revenue recognition, including the effect of government shutdowns or continuing resolutions; the concentration of the Company's revenue among a limited number of customers and contracts, and the extent to which significant license revenue recognized in a particular quarter may not recur; fluctuations in quarterly results, revenue mix, and gross margin; the Company's ability to sustain profitability, and the extent to which increases in operating expenses may outpace revenue growth; the timing of customer invoicing and the collectability of accounts receivable; the Company’s liquidity and its ability to obtain additional financing on acceptable terms, or at all; risks relating to the integration of ZTC and the realization of the anticipated benefits of the acquisition; market acceptance of new products and offerings, including the Company’s SaaS and API offerings; the extent to which the Company’s performance in third-party benchmark evaluations translates into customer adoption; the Company's ability to execute on its goals and strategies; its future business development, financial condition, results of operations, and cash flows; competitive dynamics and changes in the markets in which the Company operates; macroeconomic and geopolitical conditions, including inflation, interest rates, tariffs, trade policy, and currency fluctuations; the Company's ability to attract, retain, and develop talent; cybersecurity incidents and information technology disruptions; the Company's ability to protect its intellectual property; the impact of artificial intelligence and other emerging technologies on the Company's business; supply chain disruptions; changes in laws, regulations, and government policies, including tax, trade, data privacy, biometric privacy, environmental, and AI-related regulation; legal proceedings and regulatory inquiries; climate-related risks and the Company's sustainability initiatives; and the other risks and uncertainties described under “Risk Factors” in the Company's most recent Annual Report on Form 10-K, as updated by the Company's subsequent Quarterly Reports on Form 10-Q and Current Reports on Form 8-K filed with the SEC, which are accessible on the SEC's website at www.sec.gov. You should not place undue reliance on any forward-looking statement. All forward-looking statements contained in this earnings release speak only as of the date of this earnings release. Except as required by law, the Company undertakes no obligation to update or revise any forward-looking statement, whether as a result of new information, future events, changed circumstances or otherwise that may arise after the date of this Earnings Release.
+RANK ONE COMPUTING CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+Unaudited
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Sales | $ | 8,004,768 | $ | 5,349,990 | $ | 15,646,391 | $ | 13,492,434
+Cost of sales | 814,755 | 1,143,475 | 1,884,023 | 2,777,639
+Gross profit | 7,190,013 | 4,206,515 | 13,762,368 | 10,714,795
+Operating expenses:
+Selling, general and administrative | 3,914,393 | 2,363,822 | 10,174,761 | 6,162,114
+Research and development | 2,677,311 | 1,907,815 | 6,834,845 | 4,811,387
+Total operating expenses | 6,591,704 | 4,271,637 | 17,009,606 | 10,973,501
+Operating (loss) income | 598,309 | (65,122 | ) | (3,247,238 | ) | (258,706 | )
+Other income (expense)
+Interest income (expense) | 19,994 | (26,449 | ) | 11,284 | (49,544 | )
+Other income (expense) | (3,643 | ) | - | (4,092 | ) | -
+Total other income (expense), net | 16,351 | (26,449 | ) | 7,192 | (49,544 | )
+(Loss) income before tax | 614,660 | (91,571 | ) | (3,240,046 | ) | (308,250 | )
+Provision for (benefit from) income taxes | — | 661,795 | — | 600,476
+Net (loss) income | $ | 614,660 | $ | (753,366 | ) | $ | (3,240,046 | ) | $ | (908,726 | )
+Earnings (loss) per share — basic | $ | 0.03 | $ | (0.05 | ) | $ | (0.18 | ) | $ | (0.06 | )
+Earnings (loss) per share — diluted | $ | 0.03 | $ | (0.05 | ) | $ | (0.18 | ) | $ | (0.06 | )
+Weighted-average shares — basic | 19,153,870 | 15,021,650 | 18,295,563 | 15,002,111
+Weighted-average shares — diluted | 22,881,629 | 15,021,650 | 18,295,563 | 15,002,111
+RANK ONE COMPUTING CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+September 30, | December 31,
+2026 | 2025
+Assets
+Current assets:
+Cash | $ | 7,473,292 | $ | 270,560
+Accounts receivable, net | 11,098,334 | 4,155,230
+Prepaid expenses and other current assets | 839,125 | 420,785
+Total current assets | 19,410,751 | 4,846,575
+Property and equipment, net | 1,663,635 | 268,569
+Goodwill | 115,124 | —
+Intangible assets, net | 688,554 | 5,519
+Operating lease right-of-use asset | 873,106 | 1,088,181
+Capitalized software, net | 2,149,660 | 726,582
+Other assets | 42,326 | 30,195
+Total non-current assets | 5,532,405 | 2,119,046
+Total assets | $ | 24,943,156 | $ | 6,965,621
+Liabilities and stockholders' equity (deficit)
+Current liabilities:
+Accounts payable and accrued expenses | $ | 2,087,167 | $ | 2,802,961
+Acquisition consideration payable | 385,976 | —
+Deferred revenue | 1,847,714 | 1,382,995
+Line of credit | — | 1,839,891
+Current portion of operating lease liabilities | 312,167 | 306,113
+Total current liabilities | 4,633,024 | 6,331,960
+Long-term operating lease liabilities | 679,370 | 912,229
+Deferred tax liability | 13,703 | 13,703
+Other long-term liabilities | 8,879 | —
+Total long-term liabilities | 701,952 | 925,932
+Total liabilities | 5,334,976 | 7,257,892
+Commitments and contingencies
+Stockholders’ equity:
+Common stock, par value $0.01; 100,000,000 shares authorized; 19,560,771 and 15,021,650 shares issued and outstanding as of September 30, 2026, and December 31, 2025, respectively | 195,608 | 150,217
+Additional paid-in capital | 27,321,562 | 4,226,455
+Accumulated deficit | (7,908,990 | ) | (4,668,943 | )
+Total stockholders’ equity (deficit) | 19,608,180 | (292,271 | )
+Total liabilities and stockholders’ equity | $ | 24,943,156 | $ | 6,965,621
+RANK ONE COMPUTING CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+Unaudited
+Nine Months Ended September 30,
+2026 | 2025
+Cash flows from operating activities:
+Net loss | $ | (3,240,046 | ) | $ | (908,726 | )
+Adjustments to reconcile net loss to net cash used in operating activities:
+Stock-based compensation | 948,286 | 359,913
+Depreciation and amortization | 417,971 | 103,519
+Non-cash lease expense | 263,137 | 203,158
+Foreign currency transaction loss | 3,643 | -
+Change in expected credit losses | 42,624 | 160,498
+Changes in assets and liabilities:
+Accounts receivable, net | (6,707,467 | ) | (2,581,285 | )
+Prepaid expenses and other current assets | (641,781 | ) | 119,765
+Deferred tax asset | — | 787,017
+Other assets | (12,131 | ) | —
+Deferred revenue | 464,719 | (78,356 | )
+Accounts payable and accrued expenses | (724,196 | ) | 876,367
+Lease liability | (274,867 | ) | (198,844 | )
+Other long term liabilities | 8,879 | —
+Net cash used in operating activities | (9,451,229 | ) | (1,156,974 | )
+Cash flows from investing activities:
+Purchases of property and equipment | (1,571,867 | ) | —
+Acquisition of business, net of cash acquired | (90,884 | ) | —
+Capitalized software | (1,654,283 | ) | (490,761 | )
+Net cash used in investing activities | (3,317,034 | ) | (490,761 | )
+Cash flows from financing activities:
+Net proceeds from issuance of common stock | 21,709,069 | —
+Proceeds from the exercise of stock options | 101,817 | 8,106
+Proceeds from (repayment of) the line of credit, net | (1,839,891 | ) | 985,344
+Net cash provided by financing activities | 19,970,995 | 993,450
+Net change in cash | 7,202,732 | (654,285 | )
+Cash at beginning of period | 270,560 | 726,436
+Cash at end of period | $ | 7,473,292 | $ | 72,151
+Supplemental disclosures:
+Cash paid for interest | $ | 70,848 | $ | 61,321
+NONCASH INVESTING AND FINANCING ACTIVITIES:
+Common stock issued as consideration for business acquisition | $ | 608,124 | $ | —
+Business acquisition consideration payable | $ | 385,976 | $ | —
+Fair value of warrants issued with initial public offering | $ | 936,042 | $ | —
+Deferred offering costs reclassified to additional paid-in capital | $ | 226,798 | $ | —
+RANK ONE COMPUTING CORPORATION
+DISAGGREGATION OF REVENUE
+Unaudited
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+ROC SDK | $ | 2,611,483 | $ | 1,721,238 | $ | 5,488,676 | $ | 4,263,378
+ROC Watch | 792,386 | 2,521,647 | 1,929,986 | 4,948,879
+ROC ABIS | 2,159,725 | 286,556 | 2,393,191 | 326,108
+ROC Enroll | 58,920 | 38,113 | 183,514 | 312,573
+ROC Evidence | 62,810 | — | 80,310 | —
+Total Product Revenue | 5,685,324 | 4,567,554 | 10,075,677 | 9,850,938
+R&D Contracts | 2,153,588 | 782,436 | 5,369,439 | 3,641,496
+Service Contracts | 165,856 | — | 201,275 | —
+Total Revenue | $ | 8,004,768 | $ | 5,349,990 | $ | 15,646,391 | $ | 13,492,434
+Media inquiries:
+Matt Aitken, VP of Marketing
+media@roc.ai
+Investor inquiries:
+CORE IR
+ir@roc.ai

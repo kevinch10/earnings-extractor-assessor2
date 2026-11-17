@@ -1002,5 +1002,112 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000073/exhibit991tdg2026q4earning.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000073/0001260221-26-000073-index.htm",
     "saved_at": "2026-11-13T06:09:21+08:00"
+  },
+  {
+    "cik": "1852244",
+    "company": "GXO Logistics, Inc.",
+    "accession": "0001852244-26-000058",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "GXO's initial outlook for full-year 2027 is organic revenue growth above 5.5%.",
+      "quote": "Above 5.5% organic revenue growth;"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says the new multi-year targets reflect confidence in driving durable, compounding shareholder value to the end of the decade.",
+        "quote": "The multi-year financial targets we are introducing today reflect our confidence in driving durable, compounding shareholder value through the end of the decade."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says GXO has materially changed its operating model and commercial strategy over the past year.",
+        "quote": "Over the past year, GXO has materially evolved our operating model and commercial strategy."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company targets organic revenue growth of more than 7% a year from 2027 to 2030.",
+        "quote": "Greater than 7% organic revenue CAGR1;"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of a significant opportunity, a clear playbook and confidence in the targets, and names no headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1852244-0001852244-26-000058.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1852244/000185224426000058/gxo2026investordaypressrel.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1852244/000185224426000058/0001852244-26-000058-index.htm",
+    "saved_at": "2026-11-18T06:08:10+08:00"
+  },
+  {
+    "cik": "2077709",
+    "company": "Rank One Computing Corp",
+    "accession": "0001193125-26-458738",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 8.004768,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 8,004,768"
+      },
+      "operating_income": {
+        "value": 0.598309,
+        "unit": "USD millions",
+        "quote": "Operating (loss) income | 598,309"
+      },
+      "net_income": {
+        "value": 0.61466,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | 614,660"
+      },
+      "diluted_eps": {
+        "value": 0.03,
+        "unit": "USD per share",
+        "quote": "Earnings (loss) per share — diluted | $ | 0.03"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter revenue was a record $8.0 million, up 50% on the year and 57% on the quarter.",
+        "quote": "We delivered record third-quarter revenue of $8.0 million, increasing 50% year over year and 57% sequentially, and our software licensing revenue drove a second consecutive quarter of 90% gross margin."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the quarter brought record revenue and a profit.",
+        "quote": "The third quarter marked a transformational period for ROC, highlighted by record revenue, a profitable quarter, and significant execution against the strategic objectives we established at our IPO"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is confident of a strong close to 2026.",
+        "quote": "Achieving these significant milestones leaves us confident in a strong close to 2026."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter transformational and an inflection point and says he is confident of a strong close to 2026."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2077709-0001193125-26-458738.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/roc-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/0001193125-26-458738-index.htm",
+    "saved_at": "2026-11-18T06:08:10+08:00"
   }
 ]
