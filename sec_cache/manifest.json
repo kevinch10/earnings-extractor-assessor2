@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-16T09:22:11+08:00",
+  "fetched_at": "2026-11-17T11:46:35+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-15",
+    "end": "2026-11-16",
     "first_run": false,
     "note": null
   },
@@ -14,140 +14,140 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 138 ms"
+      "detail": "HTTP 200, 60 KB in 80 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 74 ms"
+      "detail": "HTTP 200, 60 KB in 73 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 72 ms"
+      "detail": "HTTP 200, 59 KB in 173 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 73 ms"
+      "detail": "HTTP 200, 60 KB in 88 ms"
+    },
+    {
+      "name": "Earnings radar, page 5",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=400",
+      "ok": true,
+      "detail": "HTTP 200, 60 KB in 106 ms"
+    },
+    {
+      "name": "Earnings radar, page 6",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=500",
+      "ok": true,
+      "detail": "HTTP 200, 15 KB in 64 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 67 ms"
+      "detail": "HTTP 200, 148 KB in 80 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 21 ms"
+      "detail": "HTTP 200, 156 KB in 65 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 47 ms"
+      "detail": "HTTP 200, 154 KB in 18 ms"
     },
     {
-      "name": "LGL GROUP INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/61004/000143774926036622/index.json",
+      "name": "HeartCore Enterprises, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1892322/000149315226052049/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 68 ms"
+      "detail": "HTTP 200, 1 KB in 166 ms"
     },
     {
-      "name": "LGL GROUP INC filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/61004/000143774926036622/0001437749-26-036622-index.htm",
+      "name": "HeartCore Enterprises, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1892322/000149315226052049/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 63 ms"
+      "detail": "HTTP 200, 169 KB in 64 ms"
     },
     {
-      "name": "LGL GROUP INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/61004/000143774926036622/ex_1005989.htm",
+      "name": "AMERICAN REALTY INVESTORS INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1102238/000162828026073270/index.json",
       "ok": true,
-      "detail": "HTTP 200, 410 KB in 58 ms"
+      "detail": "HTTP 200, 1 KB in 6698 ms"
     },
     {
-      "name": "Aebi Schmidt Holding AG filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2048519/000117184326007367/index.json",
+      "name": "AMERICAN REALTY INVESTORS INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1102238/000162828026073270/arl20260930ex991earnings.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 29 ms"
-    },
-    {
-      "name": "Aebi Schmidt Holding AG filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/2048519/000117184326007367/0001171843-26-007367-index.htm",
-      "ok": true,
-      "detail": "HTTP 200, 9 KB in 115 ms"
-    },
-    {
-      "name": "Aebi Schmidt Holding AG press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2048519/000117184326007367/exh_991.htm",
-      "ok": true,
-      "detail": "HTTP 200, 162 KB in 34 ms"
+      "detail": "HTTP 200, 59 KB in 8609 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 135 ms"
+      "detail": "HTTP 200, 3,174 KB in 82 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 30 ms"
+      "detail": "HTTP 200, 4,447 KB in 132 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 65 ms"
+      "detail": "HTTP 200, 2,745 KB in 268 ms"
     },
     {
-      "name": "LGL GROUP INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000061004.json",
+      "name": "HeartCore Enterprises, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001892322.json",
       "ok": true,
-      "detail": "HTTP 200, 2,143 KB in 298 ms"
+      "detail": "HTTP 200, 1,197 KB in 178 ms"
     },
     {
-      "name": "Aebi Schmidt Holding AG company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002048519.json",
+      "name": "AMERICAN REALTY INVESTORS INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001102238.json",
       "ok": true,
-      "detail": "HTTP 200, 497 KB in 174 ms"
+      "detail": "HTTP 200, 2,821 KB in 304 ms"
     },
     {
       "name": "Skyline Bankshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001657642.json",
       "ok": true,
-      "detail": "HTTP 200, 2,846 KB in 378 ms"
+      "detail": "HTTP 200, 2,846 KB in 256 ms"
     },
     {
       "name": "KOPIN CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000771266.json",
       "ok": true,
-      "detail": "HTTP 200, 3,341 KB in 495 ms"
+      "detail": "HTTP 200, 3,341 KB in 280 ms"
     },
     {
       "name": "TransDigm Group INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001260221.json",
       "ok": true,
-      "detail": "HTTP 200, 3,340 KB in 393 ms"
+      "detail": "HTTP 200, 3,340 KB in 321 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000061004.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000771266.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001102238.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001260221.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001657642.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002048519.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001892322.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -155,11 +155,11 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_2048519_000117184326007367_0001171843-26-007367-index.htm",
-    "www.sec.gov_Archives_edgar_data_2048519_000117184326007367_exh_991.htm",
-    "www.sec.gov_Archives_edgar_data_2048519_000117184326007367_index.json",
-    "www.sec.gov_Archives_edgar_data_61004_000143774926036622_0001437749-26-036622-index.htm",
-    "www.sec.gov_Archives_edgar_data_61004_000143774926036622_ex_1005989.htm",
-    "www.sec.gov_Archives_edgar_data_61004_000143774926036622_index.json"
+    "efts.sec.gov_search-index_from400.json",
+    "efts.sec.gov_search-index_from500.json",
+    "www.sec.gov_Archives_edgar_data_1102238_000162828026073270_arl20260930ex991earnings.htm",
+    "www.sec.gov_Archives_edgar_data_1102238_000162828026073270_index.json",
+    "www.sec.gov_Archives_edgar_data_1892322_000149315226052049_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1892322_000149315226052049_index.json"
   ]
 }
