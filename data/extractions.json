@@ -1109,5 +1109,134 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/roc-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/0001193125-26-458738-index.htm",
     "saved_at": "2026-11-18T06:08:10+08:00"
+  },
+  {
+    "cik": "1091596",
+    "company": "Nuo Therapeutics, Inc.",
+    "accession": "0001437749-26-037320",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1.866125,
+        "unit": "USD millions",
+        "quote": "Total revenue | 1,866,125"
+      },
+      "operating_income": {
+        "value": -0.374432,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (374,432"
+      },
+      "net_income": {
+        "value": -0.424928,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (424,928"
+      },
+      "diluted_eps": {
+        "value": -0.01,
+        "unit": "USD per share",
+        "quote": "Basic and diluted | $ | (0.01"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the company had its highest quarter ever of Aurix revenues in the hospital setting.",
+        "quote": "We have also observed a shift of patients and wound care volumes back to hospital-based settings and enjoyed our highest quarter ever of Aurix revenues in the hospital setting"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says hospital outpatient Aurix sales as a share of wound care sales have more than doubled since the first quarter.",
+        "quote": "Since this year’s first quarter, our HOPD Aurix sales as a percentage of total wound care sales has more than doubled."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the wider wound care market remains unsettled after the January change to reimbursement for skin substitutes.",
+        "quote": "the broader wound care space remains unsettled resulting from the dramatic January change to reimbursement economics for skin substitutes/grafts which remained unchanged in the final 2027 rulings mentioned above"
+      },
+      {
+        "id": "M4",
+        "topic": "profit",
+        "claim": "The CEO says the company is prioritising reaching the revenue needed for operational breakeven and strengthening its capital structure.",
+        "quote": "As a business, we are prioritizing both reaching the revenue level required for operational breakeven and assessing opportunities to strengthen our capital structure to support Nuo’s next stage of growth."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO notes an unsettled wound care market but reports record hospital Aurix revenues and says he remains confident in long-term growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1091596-0001437749-26-037320.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1091596/000143774926037320/ex_1046671.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1091596/000143774926037320/0001437749-26-037320-index.htm",
+    "saved_at": "2026-11-19T06:08:30+08:00"
+  },
+  {
+    "cik": "867840",
+    "company": "PRECISION OPTICS CORPORATION, INC.",
+    "accession": "0001683168-26-008861",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 8.152083,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 8,152,083"
+      },
+      "operating_income": {
+        "value": -0.51831,
+        "unit": "USD millions",
+        "quote": "Operating Loss | (518,310"
+      },
+      "net_income": {
+        "value": -0.474854,
+        "unit": "USD millions",
+        "quote": "Net Loss | $ | (474,854"
+      },
+      "diluted_eps": {
+        "value": -0.04,
+        "unit": "USD per share",
+        "quote": "Basic & Fully Diluted | $ | (0.04"
+      }
+    },
+    "guidance": {
+      "text": "The company still expects fiscal 2027 revenue of $30 million to $33 million and Adjusted EBITDA of $(1.2) million to $(1.7) million.",
+      "quote": "The Company maintains its expectation for fiscal year 2027 revenue to be in the range of $30 million to $33 million and for Adjusted EBITDA to be in a range of $(1.2) million to $(1.7) million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue grew 22% year on year to $8.2 million, led by a 23% rise in production revenue.",
+        "quote": "Revenue grew 22% year over year to $8.2 million, led by a 23% increase in production revenue."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says higher volumes and more efficient manufacturing lifted gross margin and improved Adjusted EBITDA.",
+        "quote": "Higher volumes and more efficient manufacturing helped lift gross margin and improved our Adjusted EBITDA"
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The CEO says the satellite optical communications programme generated $2.3 million and its customer placed a $2 million follow-on order early.",
+        "quote": "Our established satellite optical communications program generated $2.3 million in first-quarter revenue, and the same customer placed a $2 million follow-on production order after quarter-end, earlier than we anticipated."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes revenue growth, a higher gross margin and an earlier-than-expected follow-on order, and mentions no headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/867840-0001683168-26-008861.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/867840/000168316826008861/poci_ex9901.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/867840/000168316826008861/0001683168-26-008861-index.htm",
+    "saved_at": "2026-11-19T06:08:30+08:00"
   }
 ]

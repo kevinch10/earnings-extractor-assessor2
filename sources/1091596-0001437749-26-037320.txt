@@ -1,0 +1,113 @@
+Company: Nuo Therapeutics, Inc. (CIK 1091596)
+Accession: 0001437749-26-037320
+Results released: 2026-11-17
+Press release: https://www.sec.gov/Archives/edgar/data/1091596/000143774926037320/ex_1046671.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1091596/000143774926037320/0001437749-26-037320-index.htm
+Saved: 2026-11-19T06:08:30+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99 2 ex_1046671.htm EXHIBIT 99
+Exhibit 99
+8285 El Rio, Suite 190 Houston, TX 77054 Phone 833.298.6633
+NUO THERAPEUTICS ANNOUNCES THIRD QUARTER 2026 FINANCIAL RESULTS AND PROVIDES BUSINESS UPDATE
+Final 2027 Medicare Reimbursement Rulings and Coverage Expansion to New Place of Service Reinforce Growth Outlook
+Houston, TX – November 16, 2026 – Nuo Therapeutics, Inc. (OTCQB: AURX) (“Nuo”), a commercial-stage medical device company focused on developing and marketing regenerative therapies for chronic wound care, announced financial results for the third quarter ended September 30, 2026 and provided an operational and business update.
+Third Quarter and First Nine Months 2026 Financial Summary
+● | Total revenues of approximately $1.9 million and $4.9 million for the third quarter 2026 and first nine months of 2026, respectively, increased 80% and 123%, respectively, versus the comparable 2025 periods.
+● | Total product revenues in the third quarter increased 5% sequentially versus the second quarter 2026 with Aurix wound care revenues increasing approximately 17% sequentially which is the same average sequential growth rate over the past six quarters for Aurix wound care revenues.
+● | Third quarter net operating loss of approximately $374,000 improved by approximately $166,000 compared to third quarter 2025 while increasing approximately $208,000 sequentially versus the second quarter. The sequential increase primarily reflected higher stock-based compensation, credit loss provision expense, and more than $100,000 of elevated regulatory costs associated with component supply matters.
+● | Subsequent to quarter end, final funding of $325,000 was received under the loan agreement with total borrowings established at $2,000,000.
+Operational and Business Update
+● | Received $250,000 reimbursement fee milestone pursuant to the 2025 distribution agreement with Smith+Nephew.
+● | Final Medicare OPPS (Outpatient Prospective Payment System) reimbursement ruling recently released for calendar 2027 with the per treatment G0465 national average reimbursement increasing to approximately $2,257 or 7% from 2026 with positive pricing actions for Aurix anticipated next year.
+● | Medicare’s PFS (Physician Fee Schedule) ruling established a G0465 national average reimbursement of approximately $1,020 in 2027 or a decrease of approximately 4%.
+● | Expansion of coverage and processing of G0465 claims for nursing home treatments (Medicare Place of Service 32) effective January 1, 2027 is expected to be positive for future growth.
+“As many wound care market participants have commented, the broader wound care space remains unsettled resulting from the dramatic January change to reimbursement economics for skin substitutes/grafts which remained unchanged in the final 2027 rulings mentioned above,” commented David Jorden, Nuo’s Chief Executive and Financial Officer.
+“We have also observed a shift of patients and wound care volumes back to hospital-based settings and enjoyed our highest quarter ever of Aurix revenues in the hospital setting,” continued Mr. Jorden. “Since this year’s first quarter, our HOPD Aurix sales as a percentage of total wound care sales has more than doubled. The economics in hospital settings are strong, and we will continue to pursue and emphasize growth opportunities in this segment. We remain confident that autologous PRP and Aurix in particular are well positioned for continued long term attractive growth.”
+“As a business, we are prioritizing both reaching the revenue level required for operational breakeven and assessing opportunities to strengthen our capital structure to support Nuo’s next stage of growth. The funding of the secured notes under the loan agreement in several tranches this year was done with these priorities in mind,” concluded Mr. Jorden.
+About Nuo Therapeutics
+Nuo Therapeutics, Inc. is a commercial-stage medical device company focused on developing and marketing regenerative therapies for chronic wound care. Nuo’s Aurix System is a biodynamic hematogel that harnesses a patient’s innate regenerative abilities for the management of a variety of wounds.
+Cautionary Note Regarding Forward-Looking Statements
+This press release contains forward-looking statements. These forward-looking statements include but are not limited to statements regarding Nuo’s anticipated growth opportunities and market positioning, including in the hospital outpatient setting, expectations regarding Medicare reimbursement and coverage changes, including the expansion of coverage to nursing home treatments, and their impact on demand for and pricing of Aurix, anticipated pricing actions, movement toward breakeven operations, and Nuo's ability to strengthen its capital structure. Forward-looking statements may include statements that are predictive in nature and depend upon or refer to future events or conditions, and may include words such as “believes,” “plans,” “anticipates,” “projects,” “estimates,” “expects,” “intends,” “strategy,” “future,” “opportunity,” “may,” “will,” “should,” “could,” “potential,” or similar expressions. You are cautioned not to unduly rely on forward-looking statements. Forward-looking statements are based on current expectations, assumptions, and information available to Nuo’s management and are subject to known and unknown risks, uncertainties and other factors which may cause actual results to differ materially from the forward-looking statements. These risks, uncertainties, and factors are discussed under "Risk Factors" and elsewhere in Nuo’s public filings with the U.S. Securities and Exchange Commission from time to time, including Nuo’s annual report on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K. You are advised to carefully consider these various risks, uncertainties, and other factors. Nuo expressly disclaims any intent or obligation to update or revise publicly these forward-looking statements except as required by law.
+Contact:
+David Jorden
+NUO THERAPEUTICS, INC.
+CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+September 30, 2026 | December 31, 2025
+ASSETS
+Current assets
+Cash | $ | 80,941 | $ | 548,946
+Accounts receivable, net | 1,410,322 | 561,667
+Inventory, net | 330,134 | 213,761
+Prepaid expenses and other current assets | 162,667 | 55,509
+Total current assets | 1,984,064 | 1,379,883
+Property and equipment, net | 704,903 | 366,315
+Operating lease right of use assets | 41,238 | 99,464
+Total assets | $ | 2,730,205 | $ | 1,845,662
+LIABILITIES AND STOCKHOLDERS' DEFICIT
+Current liabilities
+Accounts payable | $ | 756,720 | $ | 436,083
+Accrued expenses | 648,177 | 493,792
+Deferred revenue | 380,730 | 300,000
+Current portion of notes payable | 515,625 | -
+Current portion of notes payable – related party | 112,500 | -
+Current portion of operating lease liabilities | 40,756 | 76,410
+Total current liabilities | 2,454,508 | 1,306,285
+Deferred revenue – long term | 951,826 | 975,000
+Notes payable | 961,875 | 300,000
+Note payable – related party | 210,500 | 200,000
+Non-current portion of operating lease liabilities | - | 20,936
+Total liabilities | 4,578,709 | 2,802,221
+Stockholders' deficit
+Common stock; $0.0001 par value, 100,000,000 shares authorized, 48,573,894 and 48,179,039 shares issued and outstanding at September 30, 2026 and December 31, 2025, respectively | 4,857 | 4,818
+Additional paid-in capital | 34,239,796 | 33,810,785
+Accumulated deficit | (36,093,157 | ) | (34,772,162 | )
+Total stockholders' deficit | (1,848,504 | ) | (956,559 | )
+Total liabilities and stockholders' deficit | $ | 2,730,205 | $ | 1,845,662
+NUO THERAPEUTICS, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+Three Months ended September 30, 2026 | Three Months ended September 30, 2025
+Revenue
+Product sales | $ | 1,779,563 | $ | 957,096
+Distribution fee revenue | 86,562 | 75,000
+Total revenue | 1,866,125 | 1,032,096
+Costs of sales | 673,334 | 406,721
+Gross profit | 1,192,791 | 625,375
+Operating expenses
+Selling, general and administrative | 1,567,223 | 1,165,517
+Total operating expenses | 1,567,223 | 1,165,517
+Loss from operations | (374,432 | ) | (540,142 | )
+Other income (expense)
+Interest income (expense), net | (51,099 | ) | 409
+Other income | 603 | 1,814
+Total other income (expenses) | (50,496 | ) | 2,223
+Net loss | $ | (424,928 | ) | $ | (537,919 | )
+Loss per common share
+Basic and diluted | $ | (0.01 | ) | $ | (0.01 | )
+Weighted average common shares outstanding
+Basic and diluted | 48,472,374 | 47,539,384
+NUO THERAPEUTICS, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+Nine Months ended September 30, 2026 | Nine Months ended September 30, 2025
+Revenue
+Product sales | $ | 4,694,782 | $ | 2,066,679
+Distribution fee revenue | 242,444 | 150,000
+Total revenue | 4,937,226 | 2,216,679
+Costs of sales | 1,724,681 | 687,092
+Gross profit | 3,212,545 | 1,529,587
+Operating expenses
+Selling, general and administrative | 4,199,995 | 3,466,898
+Total operating expenses | 4,199,995 | 3,466,898
+Loss from operations | (987,450 | ) | (1,937,311 | )
+Other income (expense)
+Interest income (expense), net | (340,447 | ) | (33 | )
+Other income | 6,902 | 3,608
+Total other income (expenses) | (333,545 | ) | 3,575
+Net loss | $ | (1,320,995 | ) | $ | (1,933,736 | )
+Loss per common share
+Basic and diluted | $ | (0.03 | ) | $ | (0.04 | )
+Weighted average common shares outstanding
+Basic and diluted | 48,389,216 | 47,062,186

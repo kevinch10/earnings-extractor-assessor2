@@ -1,0 +1,211 @@
+Company: PRECISION OPTICS CORPORATION, INC. (CIK 867840)
+Accession: 0001683168-26-008861
+Results released: 2026-11-16
+Press release: https://www.sec.gov/Archives/edgar/data/867840/000168316826008861/poci_ex9901.htm
+Filing: https://www.sec.gov/Archives/edgar/data/867840/000168316826008861/0001683168-26-008861-index.htm
+Saved: 2026-11-19T06:08:30+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 poci_ex9901.htm PRESS RELEASE
+Exhibit 99.1
+PRECISION OPTICS CORPORATION 550 King Street, Bldg. A, Suite 100 Littleton, MA 01460 978 / 630-1800
+NEWS RELEASE | POC26-XXXX
+FOR IMMEDIATE RELEASE | Monday, November 16, 2026
+Precision Optics Reports First Quarter Fiscal 2027 Financial Results
+Conference Call Scheduled for Today, November 16, at 5:00 p.m. ET
+LITTLETON, MA, November 16, 2026. Precision Optics Corporation, Inc. (Nasdaq: POCI), a leading designer and manufacturer of advanced optical instruments for the medical and defense/aerospace industries, today announced financial results for its first quarter of fiscal 2027 ended September 30, 2026.
+Q1 2027 Financial Highlights (3 Months Ended September 30, 2026)
+• | Revenue increased 22% to $8.2 million from $6.7 million in the prior-year fiscal first quarter.
+• | Production revenue grew 23% to $7.4 million from $6.0 million in the prior fiscal year quarter.
+• | Engineering design services revenue increased 11% year over year to $728,000.
+• | Gross margin increased to 22.5% from 14.2% in the prior-fiscal year first quarter.
+• | Net loss narrowed to $475,000, or $0.04 per share, from $1.6 million, or $0.21 per share, in the first quarter of the prior fiscal year.
+• | Adjusted EBITDA was approximately $(0.2) million, compared with $(1.2) million in the first quarter of the prior fiscal year.
+• | Cash and cash equivalents were $9.0 million at September 30, 2026 compared with $9.8 million at June 30, 2026.
+Recent Operating Highlights
+• | Generated $2.3 million in revenue during the first quarter of fiscal 2027 from the Company’s established satellite optical communications program. After quarter-end, the Company received a follow-on production order from the same top-tier aerospace customer, which was earlier than anticipated.
+• | Received a follow-on engineering order from a U.S. space technology company developing a new satellite constellation.
+• | Generated approximately $1.8 million in production revenue during the first quarter of fiscal 2027 from the single-use cystoscope program.
+• | Achieved revenue of $581,000 during the first quarter of fiscal 2027 from the single-use ophthalmic program as shipments increased under the $3.5 million follow-on order.
+• | Received a $1.3 million follow-on production order from a large defense company with production that commenced in October 2026.
+Fiscal 2027 Financial Outlook
+The Company maintains its expectation for fiscal year 2027 revenue to be in the range of $30 million to $33 million and for Adjusted EBITDA to be in a range of $(1.2) million to $(1.7) million.
+1
+“Revenue grew 22% year over year to $8.2 million, led by a 23% increase in production revenue. Higher volumes and more efficient manufacturing helped lift gross margin and improved our Adjusted EBITDA,” said Dr. Joe Forkey, CEO of Precision Optics. “Our established satellite optical communications program generated $2.3 million in first-quarter revenue, and the same customer placed a $2 million follow-on production order after quarter-end, earlier than we anticipated. Satellite communications are becoming an increasingly key market for us following the receipt of a follow-on engineering order from a second U.S. space technology customer to support the design of its new satellite constellation.”
+“We continued to make operational progress with our single-use medical device programs. The cystoscope program generated $1.8 million in production revenue, and our ophthalmic program delivered revenue of $581,000, as shipments increased under its $3.5 million follow-on order.”
+The following table summarizes the unaudited results for the three months ended September 30, 2026 and 2025
+Three Months
+Ended September 30
+2026 | 2025
+Revenues | $ | 8,152,083 | $ | 6,680,823
+Gross Profit | 1,837,851 | 946,358
+Stock Compensation Expenses | 229,278 | 301,639
+Other | 2,126,882 | 2,239,974
+Total Operating Expenses | 2,356,161 | 2,541,613
+Operating Income (Loss) | (518,310 | ) | (1,595,255 | )
+Net Income (Loss) | (474,854 | ) | (1,637,030 | )
+Income (Loss) per Share
+Basic & Fully Diluted | $ | (0.04 | ) | $ | (0.21 | )
+Weighted Average Common Shares Outstanding
+Basic & Fully Diluted | 10,974,771 | 7,714,701
+Conference Call Details
+Monday, November 16, 2026, at 5:00 p.m. ET. Participants may dial 1-844-735-3662 (U.S. and Canada) or 1-412-317-5705 (international).
+Live webcast and webcast replay: https://app.webinar.net/7KDE27PWeyo.
+A telephone replay will be available through November 23 at 1-855-669-9658 (U.S. and Canada) or 1-412-317-0088 (international). The replay access code is 7453200.
+2
+About Precision Optics Corporation
+Founded in 1982, Precision Optics is a vertically integrated optics company focused on leveraging its proprietary micro-optics, multi-channel and ultra-high precision imaging and digital imaging technologies across the medical device, defense/aerospace and satellite communications markets. Through its Systems Manufacturing, Engineering, Ross Optical and Micro-Optics Lab operations, the Company provides services from new product concept and design through volume production. Its in-house optical, mechanical, electrical and systems engineering, prototyping, regulatory support, fabrication, assembly and manufacturing capabilities enable it to develop next-generation solutions for demanding customer requirements. In medical devices, Precision Optics supports minimally invasive and robotic surgery with micro-endoscopes, single-use and reusable endoscopes, digital imaging and related optical assemblies. In defense/aerospace and satellite communications, the Company applies its micro-optics and opto-mechanical expertise to applications requiring high quality and optimized size, weight and power. Ross Optical complements these capabilities through global sourcing, inspection and production of custom and catalog optics. For more information, please visit www.poci.com.
+Non-GAAP Financial Measures
+Precision Optics has provided in this press release financial information that has not been prepared in accordance with accounting principles generally accepted in the United States of America (“non-GAAP”). The non-GAAP financial measure is Adjusted EBITDA (earnings before interest, taxes, depreciation and amortization). In addition to these items, Adjusted EBITDA excludes from Net Income (Loss) the effect of stock-based compensation.
+This non-GAAP financial measure assists Precision Optics management in comparing its operating performance over time because certain items may obscure the underlying business trends and make comparisons of long-term performance difficult, as they are of a nature and/or size that occur with inconsistent frequency or relate to discrete acquisition or restructuring plans that are fundamentally different from the ongoing productivity of the Company. Precision Optics management also believes that presenting this measure allows investors to view its performance using the same measures that the Company uses in evaluating its financial and business performance and trends.
+Non-GAAP financial measures should not be considered in isolation from, or as a substitute for, financial information calculated in accordance with GAAP. Investors are encouraged to review the reconciliation of non-GAAP measures to their most directly comparable GAAP financial measures. A reconciliation of the non-GAAP financial measure presented above to GAAP results has been provided in the financial tables included with this press release.
+Precision Optics is unable to provide a reconciliation of forward-looking Adjusted EBITDA guidance to net income (loss), the most directly comparable GAAP financial measure, without unreasonable efforts because of the inherent difficulty in forecasting and quantifying certain amounts that are necessary for such reconciliation, including stock-based compensation expense, which may vary significantly based on stock price and other factors outside the Company’s control. The unavailable information could have a significant effect on the Company’s GAAP financial results.
+3
+About Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of U.S. federal securities laws, including statements concerning our fiscal year 2027 revenue and Adjusted EBITDA guidance, as well as the timing and expectations for certain production orders. Any statements contained herein that are not statements of historical fact may be deemed to be forward-looking statements. In addition, any statements that refer to projections, forecasts, or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intends,” “may,” “might,” “plan,” “possible,” “potential,” “predict,” “project,” “should,” “would” and similar expressions may identify forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking. The forward-looking statements contained in this press release are based on certain assumptions and analyses made by the management of the Company in light of their respective experience and perception of historical trends, current conditions, and expected future developments and their potential effects on the Company as well as other factors they believe are appropriate in the circumstances. There can be no assurance that future developments affecting the Company will be those anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond the control of the Company), or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements, including the demand for the Company’s products, global supply chains and economic activity in general and other risks and uncertainties identified in the Company’s filings with the SEC. Should one or more of these risks or uncertainties materialize or should any of the assumptions being made prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as may be required under applicable securities laws.
+Investor Contact:
+Robert Blum
+Lytham Partners, LLC
+602-889-9700
+poci@lythampartners.com
+4
+PRECISION OPTICS CORPORATION, INC.
+BALANCE SHEETS
+(UNAUDITED)
+September 30, | June 30,
+2026 | 2026
+ASSETS
+Current Assets:
+Cash and cash equivalents | $ | 8,966,889 | $ | 9,841,142
+Accounts receivable, net of allowance for credit losses of $109,055 at September 30, 2026 and $108,220 at June 30, 2026 | 5,371,290 | 5,944,412
+Inventories, net | 3,518,893 | 3,829,414
+Prepaid expenses | 586,022 | 494,488
+Total current assets | 18,443,094 | 20,109,456
+Fixed Assets:
+Machinery and equipment | 3,427,461 | 3,410,813
+Leasehold improvements | 1,226,171 | 1,226,171
+Furniture and fixtures | 674,445 | 645,046
+5,328,077 | 5,282,030
+Less—accumulated depreciation and amortization | 4,415,080 | 4,394,317
+Net fixed assets | 912,997 | 887,713
+Operating lease right-of-use asset | 2,229,155 | 2,300,866
+Patents, net | 206,597 | 212,889
+Goodwill | 8,824,210 | 8,824,210
+Total other assets | 11,259,962 | 11,337,965
+TOTAL ASSETS | $ | 30,616,053 | $ | 32,335,134
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current Liabilities:
+Current maturities of long-term debt | $ | 577,898 | $ | 577,898
+Accounts payable | 2,620,358 | 3,582,674
+Customer advances | 2,342,890 | 2,498,501
+Accrued compensation and other | 1,619,014 | 1,843,368
+Current portion of operating lease liability | 335,011 | 325,500
+Total current liabilities | 7,495,171 | 8,827,941
+Long-term debt, net of current maturities | 562,023 | 711,305
+Operating lease liability, net of current portion | 2,358,873 | 2,446,576
+Total liabilities | 10,416,067 | 11,985,822
+Stockholders’ Equity:
+Common stock, $0.01 par value: 50,000,000 shares authorized; issued and outstanding – 10,994,430 shares at September 30, 2026 and 10,972,792 at June 30, 2026 | 109,944 | 109,728
+Additional paid-in capital | 81,165,417 | 80,840,105
+Accumulated deficit | (61,075,375 | ) | (60,600,521 | )
+Total stockholders’ equity | 20,199,986 | 20,349,312
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY | $ | 30,616,053 | $ | 32,335,134
+5
+PRECISION OPTICS CORPORATION, INC.
+STATEMENTS OF OPERATIONS
+FOR THE THREE MONTHS ENDED
+SEPTEMBER 30, 2026 AND 2025
+(UNAUDITED)
+Three Months Ended September 30,
+2026 | 2025
+Revenues | $ | 8,152,083 | $ | 6,680,823
+Cost of Goods Sold | 6,314,232 | 5,734,465
+Gross Profit | 1,837,851 | 946,358
+Research and Development Expenses | 306,215 | 311,840
+Selling, General and Administrative Expenses | 2,049,946 | 2,229,773
+Total Operating Expenses | 2,356,161 | 2,541,613
+Operating Loss | (518,310 | ) | (1,595,255 | )
+Other income (expense):
+Interest expense | (30,121 | ) | (41,775 | )
+Interest income | 73,577 | –
+Net Loss | $ | (474,854 | ) | $ | (1,637,030 | )
+Loss Per Share:
+Basic & Fully Diluted | $ | (0.04 | ) | $ | (0.21 | )
+Weighted Average Common Shares Outstanding:
+Basic & Fully Diluted | 10,974,771 | 7,714,701
+6
+PRECISION OPTICS CORPORATION, INC.
+STATEMENTS OF STOCKHOLDERS’ EQUITY
+FOR THE THREE MONTHS ENDED
+sEPTEMBER 30, 2026 AND 2025
+(UNAUDITED)
+Three Month Period Ended September 30, 2026
+Number of Shares | Common Stock | Additional Paid-in Capital | Accumulated Deficit | Total Stockholders’ Equity
+Balance, July 1, 2026 | 10,972,792 | $ | 109,728 | $ | 80,840,105 | $ | (60,600,521 | ) | $ | 20,349,312
+Issuance of common stock for consulting services and employees | 21,638 | 216 | 96,034 | – | 96,250
+Stock-based compensation | – | – | 229,278 | – | 229,278
+Net loss | – | – | – | (474,854 | ) | (474,854 | )
+Balance, September 30, 2026 | 10,994,430 | $ | 109,944 | $ | 81,165,417 | $ | (61,075,375 | ) | $ | 20,199,986
+Three Month Period Ended September 30, 2025
+Number of Shares | Common Stock | Additional Paid-in Capital | Accumulated Deficit | Total Stockholders’ Equity
+Balance, July 1, 2025 | 7,714,701 | $ | 77,147 | $ | 69,152,317 | $ | (56,970,630 | ) | $ | 12,258,834
+Stock-based compensation | – | – | 301,639 | – | 301,639
+Net loss | – | – | – | (1,637,030 | ) | (1,637,030 | )
+Balance, September 30, 2025 | 7,714,701 | $ | 77,147 | $ | 69,453,956 | $ | (58,607,660 | ) | $ | 10,923,443
+7
+PRECISION OPTICS CORPORATION, INC.
+STATEMENTS OF CASH FLOWS
+FOR THE THREE MONTHS ENDED
+September 30, 2026 AND 2025
+(UNAUDITED)
+Three Months Ended September 30,
+2026 | 2025
+Cash Flows from Operating Activities:
+Net Loss | $ | (474,854 | ) | $ | (1,637,030 | )
+Adjustments to reconcile net loss to net cash used in operating activities -
+Depreciation and amortization | 65,271 | 65,181
+Stock-based compensation expense | 235,528 | 301,639
+Non-cash interest expense | 4,801 | 4,608
+Non-cash operating lease expense | (6,481 | ) | 49,322
+(Gain) Loss on disposal of fixed assets | (36,238 | ) | 34,506
+Changes in operating assets and liabilities -
+Accounts receivable, net | 573,122 | 148,797
+Inventories, net | 310,521 | (318,196 | )
+Prepaid expenses | (91,534 | ) | (14,240 | )
+Accounts payable | (962,316 | ) | 1,099,235
+Contract liabilities | (155,611 | ) | 208,843
+Accrued compensation and other | (134,354 | ) | 135,562
+Net cash provided by (used in) operating activities | (672,145 | ) | 78,227
+Cash Flows from Investing Activities:
+Purchases of fixed assets | (84,263 | ) | (304,731 | )
+Proceeds from sale of fixed assets | 36,238 | 3,000
+Additional patent costs | – | (58 | )
+Net cash used in investing activities | (48,025 | ) | (301,789 | )
+Cash Flows from Financing Activities:
+Payments of capital lease obligations | – | (8,985 | )
+Payments of debt issuance costs | (5,000 | ) | –
+Payments of long-term debt | (149,083 | ) | (149,083 | )
+Net cash used in financing activities | (154,083 | ) | (158,068 | )
+Net decrease in cash and cash equivalents | (874,253 | ) | (381,630 | )
+Cash and cash equivalents, beginning of period | 9,841,142 | 1,773,735
+Cash and cash equivalents, end of period | $ | 8,966,889 | $ | 1,392,105
+Supplemental disclosure of cash flow information:
+Cash paid during the period for income taxes | $ | – | $ | 2,600
+Cash paid during the period for interest | $ | 25,320 | $ | 37,167
+Issuance of common stock for employee services | $ | 96,250 | $ | –
+Operating right-of-use assets obtained in exchange for operating lease liabilities | $ | – | $ | 2,632,584
+Lease improvements financed by landlord | $ | – | $ | 218,750
+8
+PRECISION OPTICS CORPORATION, INC.
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+ADJUSTED EBITDA
+Three Months Ended
+Ended September 30,
+2026 | 2025
+Net Income (loss) (GAAP) | $ | (474,854 | ) | $ | (1,637,030 | )
+Stock based compensation | 229,278 | 301,639
+Depreciation and amortization | 65,271 | 65,181
+Interest Expense | 30,121 | 41,775
+Interest Income | (73,577 | ) | –
+Adjusted EBITDA (non-GAAP) | $ | (223,761 | ) | $ | (1,228,435 | )
+9
