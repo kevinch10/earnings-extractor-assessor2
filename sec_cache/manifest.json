@@ -1,106 +1,82 @@
 {
-  "fetched_at": "2026-11-17T12:10:16+08:00",
+  "fetched_at": "2026-11-18T10:51:40+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-11",
-    "end": "2026-11-16",
+    "start": "2026-11-16",
+    "end": "2026-11-17",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 22,
-  "answered": 22,
+  "requests": 15,
+  "answered": 15,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 87 ms"
+      "detail": "HTTP 200, 60 KB in 80 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 86 ms"
-    },
-    {
-      "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=200",
-      "ok": true,
-      "detail": "HTTP 200, 59 KB in 72 ms"
-    },
-    {
-      "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=300",
-      "ok": true,
-      "detail": "HTTP 200, 60 KB in 67 ms"
-    },
-    {
-      "name": "Earnings radar, page 5",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=400",
-      "ok": true,
-      "detail": "HTTP 200, 60 KB in 347 ms"
-    },
-    {
-      "name": "Earnings radar, page 6",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=500",
-      "ok": true,
-      "detail": "HTTP 200, 15 KB in 76 ms"
+      "detail": "HTTP 200, 44 KB in 42 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 64 ms"
+      "detail": "HTTP 200, 148 KB in 63 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 18 ms"
+      "detail": "HTTP 200, 157 KB in 40 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 19 ms"
+      "detail": "HTTP 200, 156 KB in 50 ms"
     },
     {
-      "name": "GXO Logistics, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1852244/000185224426000058/index.json",
+      "name": "Nuo Therapeutics, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1091596/000143774926037320/index.json",
       "ok": true,
-      "detail": "HTTP 200, 11 KB in 74 ms"
+      "detail": "HTTP 200, 1 KB in 124 ms"
     },
     {
-      "name": "GXO Logistics, Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1852244/000185224426000058/0001852244-26-000058-index.htm",
+      "name": "Nuo Therapeutics, Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1091596/000143774926037320/0001437749-26-037320-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 40 KB in 179 ms"
+      "detail": "HTTP 200, 10 KB in 112 ms"
     },
     {
-      "name": "GXO Logistics, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1852244/000185224426000058/gxo2026investordaypressrel.htm",
+      "name": "Nuo Therapeutics, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1091596/000143774926037320/ex_1046671.htm",
       "ok": true,
-      "detail": "HTTP 200, 24 KB in 27 ms"
+      "detail": "HTTP 200, 154 KB in 107 ms"
     },
     {
-      "name": "Rank One Computing Corp filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/index.json",
+      "name": "PRECISION OPTICS CORPORATION, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/867840/000168316826008861/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 229 ms"
+      "detail": "HTTP 200, 1 KB in 112 ms"
     },
     {
-      "name": "Rank One Computing Corp press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/roc-ex99_1.htm",
+      "name": "PRECISION OPTICS CORPORATION, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/867840/000168316826008861/poci_ex9901.htm",
       "ok": true,
-      "detail": "HTTP 200, 541 KB in 200 ms"
+      "detail": "HTTP 200, 116 KB in 160 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 79 ms"
+      "detail": "HTTP 200, 3,174 KB in 77 ms"
     },
     {
       "name": "Amazon company facts",
@@ -112,61 +88,36 @@
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 90 ms"
+      "detail": "HTTP 200, 2,745 KB in 57 ms"
     },
     {
-      "name": "GXO Logistics, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001852244.json",
+      "name": "Nuo Therapeutics, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001091596.json",
       "ok": true,
-      "detail": "HTTP 200, 1,194 KB in 102 ms"
+      "detail": "HTTP 200, 1,980 KB in 1208 ms"
     },
     {
-      "name": "Rank One Computing Corp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002077709.json",
+      "name": "PRECISION OPTICS CORPORATION, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000867840.json",
       "ok": true,
-      "detail": "HTTP 200, 226 KB in 190 ms"
-    },
-    {
-      "name": "Skyline Bankshares, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001657642.json",
-      "ok": true,
-      "detail": "HTTP 200, 2,846 KB in 287 ms"
-    },
-    {
-      "name": "KOPIN CORP company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000771266.json",
-      "ok": true,
-      "detail": "HTTP 200, 3,341 KB in 85 ms"
-    },
-    {
-      "name": "TransDigm Group INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001260221.json",
-      "ok": true,
-      "detail": "HTTP 200, 3,340 KB in 421 ms"
+      "detail": "HTTP 200, 1,819 KB in 182 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000771266.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000867840.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001260221.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001091596.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001657642.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001852244.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002077709.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
-    "efts.sec.gov_search-index_from200.json",
-    "efts.sec.gov_search-index_from300.json",
-    "efts.sec.gov_search-index_from400.json",
-    "efts.sec.gov_search-index_from500.json",
-    "www.sec.gov_Archives_edgar_data_1852244_000185224426000058_0001852244-26-000058-index.htm",
-    "www.sec.gov_Archives_edgar_data_1852244_000185224426000058_gxo2026investordaypressrel.htm",
-    "www.sec.gov_Archives_edgar_data_1852244_000185224426000058_index.json",
-    "www.sec.gov_Archives_edgar_data_2077709_000119312526458738_index.json",
-    "www.sec.gov_Archives_edgar_data_2077709_000119312526458738_roc-ex99_1.htm"
+    "www.sec.gov_Archives_edgar_data_1091596_000143774926037320_0001437749-26-037320-index.htm",
+    "www.sec.gov_Archives_edgar_data_1091596_000143774926037320_ex_1046671.htm",
+    "www.sec.gov_Archives_edgar_data_1091596_000143774926037320_index.json",
+    "www.sec.gov_Archives_edgar_data_867840_000168316826008861_index.json",
+    "www.sec.gov_Archives_edgar_data_867840_000168316826008861_poci_ex9901.htm"
   ]
 }
