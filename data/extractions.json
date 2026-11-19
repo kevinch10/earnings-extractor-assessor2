@@ -1238,5 +1238,137 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/867840/000168316826008861/poci_ex9901.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/867840/000168316826008861/0001683168-26-008861-index.htm",
     "saved_at": "2026-11-19T06:08:30+08:00"
+  },
+  {
+    "cik": "27419",
+    "company": "TARGET CORP",
+    "accession": "0000027419-26-000051",
+    "release_date": "2026-11-18",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 27067,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 27,067"
+      },
+      "operating_income": {
+        "value": 1672,
+        "unit": "USD millions",
+        "quote": "Operating income | 1,672"
+      },
+      "net_income": {
+        "value": 1211,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 1,211"
+      },
+      "diluted_eps": {
+        "value": 2.65,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 2.65"
+      }
+    },
+    "guidance": {
+      "text": "Target now expects full-year 2026 net sales growth of around 6 percent, one percentage point above its prior range.",
+      "quote": "Full-year net sales growth in a range around 6 percent, one percentage point higher than the prior guidance range."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Third-quarter net sales grew 7.1 percent, with comparable sales up 5.6 percent on higher traffic.",
+        "quote": "Third quarter net sales grew 7.1 percent over last year, with comparable sales growth of 5.6 percent driven by a 5.0 percent increase in comparable traffic."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the company's investments are building momentum in the business.",
+        "quote": "Our investments are building on one another—creating momentum in our business and further defining our unique lane in retail."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The operating margin rose to 6.2 percent, including 1.1 points of benefit from tariff refunds.",
+        "quote": "Operating income margin rate of 6.2 percent, which included 1.1 percentage points of benefit from the tariff refunds, increased meaningfully from the prior-year GAAP operating income margin rate of 3.8 percent"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "November net sales to date are in line with guidance and faster than October's trend.",
+        "quote": "Month-to-date, November net sales are in line with the Company's guidance and expectations, accelerating from October sales trends."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management speaks of momentum, raises its sales guidance and says November sales are accelerating."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/27419-0000027419-26-000051.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/a2026q3ex-99.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/0000027419-26-000051-index.htm",
+    "saved_at": "2026-11-20T06:08:20+08:00"
+  },
+  {
+    "cik": "50471",
+    "company": "ReposiTrak, Inc.",
+    "accession": "0001437749-26-037543",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 5.784286,
+        "unit": "USD millions",
+        "quote": "Revenue | 5,784,286"
+      },
+      "operating_income": {
+        "value": 1.661006,
+        "unit": "USD millions",
+        "quote": "Income from operations | 1,661,006"
+      },
+      "net_income": {
+        "value": 1.530845,
+        "unit": "USD millions",
+        "quote": "Net income | 1,530,845"
+      },
+      "diluted_eps": {
+        "value": 0.08,
+        "unit": "USD per share",
+        "quote": "Diluted income per share | 0.08"
+      }
+    },
+    "guidance": {
+      "text": "ReposiTrak expects revenue to improve quarter by quarter through fiscal 2027 and another year of growth.",
+      "quote": "we anticipate sequential revenue improvement as we progress through fiscal 2027 and expect to deliver another year of growth"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "First-quarter revenue was $5.8 million, down 3% on the year but up about $200,000 on the previous quarter.",
+        "quote": "First quarter total revenue of $5.8 million, down 3% year-over-year, and up approximately $200,000 sequentially."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the business still earns strong operating profits, helped by cost discipline.",
+        "quote": "Our business continues to deliver strong operating profitability, supported by a scalable technology platform and disciplined cost management."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO expects revenue to improve each quarter in fiscal 2027 and another year of growth.",
+        "quote": "With two significant growth catalysts and a stable core business, we anticipate sequential revenue improvement as we progress through fiscal 2027 and expect to deliver another year of growth"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses growth opportunities, strong profitability and expected revenue growth, while revenue and profit fell on the year."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/50471-0001437749-26-037543.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/ex_1048114.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/0001437749-26-037543-index.htm",
+    "saved_at": "2026-11-20T06:08:20+08:00"
   }
 ]
