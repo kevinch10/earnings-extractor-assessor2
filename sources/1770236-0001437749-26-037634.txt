@@ -1,0 +1,145 @@
+Company: MOVING iMAGE TECHNOLOGIES INC. (CIK 1770236)
+Accession: 0001437749-26-037634
+Results released: 2026-11-19
+Press release: https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/ex_1042843.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/0001437749-26-037634-index.htm
+Saved: 2026-11-21T06:08:26+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1042843.htm EXHIBIT 99.1
+Exhibit 99.1
+Moving iMage Technologies Reports Q1 Net Income of $181,000, or $0.02 per share,
+on 9.2% Revenue Increase; Hosts Call Today at 11am ET
+Fountain Valley, CA – November 13, 2026 – Moving iMage Technologies, Inc. (NYSE American: MITQ) “MiT”, a provider of technology, products, and services that help cinema operators create reliable and memorable guest experiences, announced results for its fiscal 2027 first quarter ended September 30, 2026 (Q1’27) and will hold an investor call today at 11am ET (call details below).
+Highlights
+● | Q1’27 revenue rose 9.2% to $6.1M compared to $5.6M in Q1’26, reflecting increased project activity and revenue from customers that accelerated their delivery timeline.
+● | Q1’27 results included $429k of DCS product sales versus no contribution in the year ago period. The DCS acquisition closed early in Q2’26.
+● | Q1’27 gross margin percentage decreased to 24.1% vs. 30.0% in Q1’26, reflecting lower sales of high margin cinema accessories products and higher costs on selected other accessories, as well as the impact of higher shipping costs particularly in international markets.
+● | Q1’27 gross profit dollars were $1.47k vs. $1.67M in Q1’26, reflecting the lower Q1’27 gross margin percentage.
+● | Q1’27 net income decreased to $181k, or $0.02 per share, vs. $509k, or $0.05 per share, in Q1’26, reflecting the decrease in gross profit dollars as well as $128k of income from the extinguishment of payables that was recorded in Q1’26.
+● | MiT ‘s Q1’27 working capital improved to $4.24M compared to $4.0M at June 30, 2026 (Q4’26), with Q1’27 net cash of $5.7M compared to $3.2M at June 30, 2026. The $2.5 million increase in cash compared to Q4’26 reflects $1 million in customer deposits collected against future work, and the management of the timing of accounts payable payments.
+Moving Image Chairman and CEO, Phil Rafnson, commented, “We are encouraged by our first-quarter revenue and net income performance and the continued confidence theater operators are demonstrating in our business. The exhibition industry continues to benefit from a strong film slate and box office performance that reaffirms consumer demand for compelling theatrical experiences. We believe this is a constructive backdrop for meaningful opportunities for MiT.
+While net income of $181,000 is modest in absolute terms, it is an important reflection of the efforts we are making to drive top- and bottom-line improvements. We remain committed to building a stronger, more efficient business platform that can deliver consistent profitability and long-term shareholder value creation.”
+President and COO, Francois Godfrey, added, “Our Q1 revenue of $6.1 million was ahead of our expectations as one customer advanced a project on accelerated timeframes, as they sought to get facilities ready for the important holiday film window during our Q2 ending in December. This performance is rooted in our long-standing customer relationships, technical expertise and ability to deliver across a widening range of cinema technology requirements, all of which differentiate MiT in the marketplace.
+“We have made substantial progress with operating expense initiatives designed to align our cost structure with the business and establish a foundation for improved operating leverage. Much of that work is now in place, and we now look to leverage this disciplined foundation with revenue growth initiatives.
+“The addition of the DCS loudspeaker line is an important example of this next phase. The DCS line is opening doors and establishing new conversations with domestic and international customers, providing a gateway to a broader range of potential business opportunities beyond the initial loudspeaker sale. MiT has a long track record of serving theater operators with immersive audio systems, premium large-format (PLF) solutions and the associated products, services and technical support needed to deliver high-quality theatrical experiences. Through DCS and our LEA amplifier relationships, MiT is developing a growing base of future opportunities with the potential to drive growth and greater stability in our business.
+“Though a single profitable quarter is not a trend, it does demonstrate the culmination of a lot of hard work across or organization – for which I am very grateful. Our objective remains clear: to build a durable, consistently profitable business that delivers value to our customers and creates long-term shareholder value.”
+Business Outlook
+Our fiscal second quarter is traditionally a period of lower cinema industry activity as exhibitors refrain from capital investments to optimize their revenue potential during the important holiday film season. Despite that seasonality, MiT currently expects revenue of approximately $5.4M for Q2’27 ending December 31st, principally related to the delivery of a turnkey upgrade of a 16-screen theater complex and typically recuring equipment and services revenue.
+Conference Call Details
+Dial-in Number: 1-877-407-4018
+Toll/International Number: 1-201-689-8471
+Call me™: Participants can use Guest dial-in numbers above and be answered by an operator OR click the Call me™ Link for instant telephone access to the event. Call me™ link will be made active 15 minutes prior to scheduled start time.
+Transcript: Posted online here 48 hours after the event
+Questions can be submitted in advance via Email to: mitq@catalyst-ir.com
+Telephone Replay
+Access ID: 13763640
+Replay Dial-In: 1-844-512-2921 or 1-412-317-6671
+Replay Expiration: November 27, 2026 at 11:59 p.m. ET
+Forward-Looking Statements
+All statements above that are not purely about historical facts, including, but not limited to, those in which we use the words “believe,” “anticipate,” “expect,” “plan,” “intend,” “estimate,” “target” and similar expressions, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. While these forward-looking statements represent our current judgment of what may happen in the future, actual results may differ materially from the results expressed or implied by these statements due to numerous important factors. Our filings with the SEC provide detailed information on such statements and risks and should be consulted along with this release. To the extent permitted under applicable law, we assume no obligation to update any forward-looking statements.
+About Moving iMage Technologies (www.movingimagetech.com)
+Moving iMage Technologies ("MiT") helps cinema operators create reliable and memorable guest experiences through technology, products, and services. MiT designs, manufactures, and distributes proprietary cinema products, peripherals, and cinema loudspeaker systems. These products are sold independently and as part of our broader solutions offerings, enabling customers to improve performance, reliability, and the overall moviegoing experience.
+MiT’s proprietary products include its premium DCS Cinema Loudspeaker line and digital cinema peripheral suite, including automation systems; projector pedestals, bases & lifts; direct-view LED frames; and lighting and power management solutions. It also offers Barco, Sharp (NEC) Digital Cinema, and Christie Digital cinema projectors; LEA Professional, Dolby, GDC, JBL/Crown and Meyer Sound audio solutions and LG & Samsung LED displays for large scale installations.
+Follow us on X: @movingimagenews
+Follow us on LinkedIn: MiT on LinkedIn
+MITQ Investor Relations Contacts
+Chris Eddy or David Collins
+Catalyst IR
+mitq@catalyst-ir.com or 212-924-9800
+MOVING IMAGE TECHNOLOGIES, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in thousands except share and per share amounts)
+(Unaudited)
+September 30, | June 30,
+2026 | 2026
+Assets
+Current Assets:
+Cash | $ | 5,687 | $ | 3,193
+Accounts receivable, net | 1,264 | 1,114
+Inventories, net | 3,539 | 2,411
+Prepaid expenses and other | 452 | 516
+Total Current Assets | 10,942 | 7,234
+Long-Term Assets:
+Right-of-use asset | 794 | 855
+Property and equipment, net | 47 | 51
+Intangibles, net | 290 | 305
+Other assets | 15 | 15
+Total Long-Term Assets | 1,146 | 1,226
+Total Assets | $ | 12,088 | $ | 8,460
+Liabilities And Stockholders’ Equity
+Current Liabilities:
+Accounts payable | $ | 3,778 | $ | 1,329
+Accrued expenses | 335 | 335
+Customer refunds | 257 | 289
+Customer deposits | 2,007 | 948
+Lease liability–current | 269 | 260
+Unearned warranty revenue | 54 | 31
+Total Current Liabilities | 6,700 | 3,192
+Long-Term Liabilities:
+Lease liability–non-current | 588 | 658
+Total Long-Term Liabilities | 588 | 658
+Total Liabilities | 7,288 | 3,850
+Stockholders’ Equity
+Common stock, $0.00001 par value, 100,000,000 shares authorized, 9,952,223 and 9,952,223 shares issued and outstanding at September 30, 2026 and June 30, 2026, respectively | — | —
+Additional paid-in capital | 12,120 | 12,111
+Accumulated deficit | (7,320 | ) | (7,501 | )
+Total Stockholders’ Equity | 4,800 | 4,610
+Total Liabilities and Stockholders’ Equity | $ | 12,088 | $ | 8,460
+MOVING IMAGE TECHNOLOGIES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(in thousands except share and per share amounts)
+(unaudited)
+Three Months Ended
+September 30,
+2026 | 2025
+Net sales | $ | 6,094 | $ | 5,582
+Cost of goods sold | 4,622 | 3,908
+Gross profit | 1,472 | 1,674
+Operating expenses:
+Research and development | 45 | 48
+Selling and marketing | 569 | 386
+General and administrative | 691 | 890
+Total operating expenses | 1,305 | 1,324
+Operating income | 217 | 350
+Other income
+Extinguishment of payables | — | 128
+Interest and other income, net | 14 | 31
+Total other income | 14 | 159
+Net income | $ | 181 | $ | 509
+Earnings per share:
+Basic | $ | 0.02 | $ | 0.05
+Diluted | $ | 0.02 | $ | 0.05
+Shares used in computing earnings per share:
+Basic | 9,952,223 | 9,939,123
+Diluted | 10,367,848 | 10,232,873
+MOVING IMAGE TECHNOLOGIES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+(unaudited)
+Three Months Ended
+September 30,
+2026 | 2025
+Cash flows from operating activities:
+Net income | $ | 181 | $ | 509
+Adjustments to reconcile net income to net cash used in operating activities:
+Provision for credit losses | (84 | ) | 45
+Inventory reserve | 221 | —
+Depreciation expense | 4 | 3
+Amortization expense | 15 | 15
+Right-of-use amortization | 61 | 56
+Stock compensation expense | 8 | 8
+Stock issued for director expense | — | 1
+Changes in operating assets and liabilities
+Accounts receivable | (66 | ) | (420 | )
+Inventories | (1,348 | ) | 347
+Prepaid expenses and other | 65 | (601 | )
+Accounts payable | 2,449 | (109 | )
+Accrued expenses and customer refunds | (34 | ) | 163
+Unearned warranty revenue | 24 | 37
+Customer deposits | 1,060 | (168 | )
+Lease liabilities | (62 | ) | (53 | )
+Net cash provided by (used in) operating activities | 2,494 | (167 | )
+Net increase (decrease) in cash | 2,494 | (167 | )
+Cash, beginning of the year | 3,193 | 5,715
+Cash, end of the year | $ | 5,687 | $ | 5,548

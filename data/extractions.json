@@ -1370,5 +1370,143 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/ex_1048114.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/0001437749-26-037543-index.htm",
     "saved_at": "2026-11-20T06:08:20+08:00"
+  },
+  {
+    "cik": "896878",
+    "company": "INTUIT INC.",
+    "accession": "0000896878-26-000043",
+    "release_date": "2026-11-19",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 4354,
+        "unit": "USD millions",
+        "quote": "Total net revenue | 4,354"
+      },
+      "operating_income": {
+        "value": 868,
+        "unit": "USD millions",
+        "quote": "Operating income | 868"
+      },
+      "net_income": {
+        "value": 695,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 695"
+      },
+      "diluted_eps": {
+        "value": 2.59,
+        "unit": "USD per share",
+        "quote": "Diluted net income per share | $ | 2.59"
+      }
+    },
+    "guidance": {
+      "text": "For the second quarter of fiscal 2027, Intuit expects GAAP total revenue of $4,931 million to $4,954 million, up 6% to 7%.",
+      "quote": "Total Revenue | $4,931 to $4,954 | 6% to 7%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says first-quarter results were above the top end of the company's guidance.",
+        "quote": "We delivered a solid first quarter, with results above the top end of our guidance"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CFO says the company remains focused on durable revenue growth while expanding margins and increasing capital returns.",
+        "quote": "We remain focused on building the foundation for durable long-term revenue growth while expanding margins and increasing capital returns to shareholders."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "GAAP operating income rose 63 percent to $868 million.",
+        "quote": "GAAP operating income increased 63 percent to $868 million."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The company updated full-year revenue guidance for a change to Credit Karma and reiterated its full-year operating income and EPS guidance.",
+        "quote": "Intuit updated its full year fiscal 2027 revenue guidance, reflecting a change to Credit Karma with corresponding adjustments to Consumer segment and total company revenue guidance. The company reiterated its full-year GAAP and non-GAAP operating income and earnings per share guidance."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter solid and above the top of guidance, and the CFO speaks of progress and disciplined execution."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/896878-0000896878-26-000043.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/fy27q1earningspressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/0000896878-26-000043-index.htm",
+    "saved_at": "2026-11-21T06:08:26+08:00"
+  },
+  {
+    "cik": "1770236",
+    "company": "MOVING iMAGE TECHNOLOGIES INC.",
+    "accession": "0001437749-26-037634",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 6.094,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 6,094"
+      },
+      "operating_income": {
+        "value": 0.217,
+        "unit": "USD millions",
+        "quote": "Operating income | 217"
+      },
+      "net_income": {
+        "value": 0.181,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 181"
+      },
+      "diluted_eps": {
+        "value": 0.02,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.02"
+      }
+    },
+    "guidance": {
+      "text": "MiT expects revenue of about $5.4 million for its second fiscal quarter ending 31 December 2026, a seasonally quieter period.",
+      "quote": "MiT currently expects revenue of approximately $5.4M for Q2’27 ending December 31st"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The COO says first-quarter revenue of $6.1 million was ahead of expectations because one customer brought a project forward.",
+        "quote": "Our Q1 revenue of $6.1 million was ahead of our expectations as one customer advanced a project on accelerated timeframes"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says net income of $181,000 is modest but reflects efforts to improve revenue and profit.",
+        "quote": "While net income of $181,000 is modest in absolute terms, it is an important reflection of the efforts we are making to drive top- and bottom-line improvements."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The COO says much of the work to align operating expenses with the business is now in place.",
+        "quote": "We have made substantial progress with operating expense initiatives designed to align our cost structure with the business and establish a foundation for improved operating leverage."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Management notes that one profitable quarter is not a trend and that the aim is consistent profitability.",
+        "quote": "Though a single profitable quarter is not a trend, it does demonstrate the culmination of a lot of hard work across or organization"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management is encouraged by the quarter but calls net income modest, says one profitable quarter is not a trend and expects a seasonally lower Q2."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1770236-0001437749-26-037634.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/ex_1042843.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/0001437749-26-037634-index.htm",
+    "saved_at": "2026-11-21T06:08:26+08:00"
   }
 ]
