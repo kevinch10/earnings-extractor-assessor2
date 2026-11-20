@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T10:16:09+08:00",
+  "fetched_at": "2026-11-20T10:34:57+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,13 +16,13 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
       "ok": true,
-      "detail": "HTTP 200, 41 KB in 72 ms"
+      "detail": "HTTP 200, 41 KB in 162 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 50 ms"
+      "detail": "HTTP 200, 148 KB in 31 ms"
     },
     {
       "name": "Amazon filings list",
@@ -34,79 +34,79 @@
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 16 ms"
+      "detail": "HTTP 200, 153 KB in 20 ms"
     },
     {
       "name": "INTUIT INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 47 ms"
+      "detail": "HTTP 200, 1 KB in 42 ms"
     },
     {
       "name": "INTUIT INC. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/0000896878-26-000043-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 9 KB in 60 ms"
+      "detail": "HTTP 200, 9 KB in 42 ms"
     },
     {
       "name": "INTUIT INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/fy27q1earningspressrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 430 KB in 75 ms"
+      "detail": "HTTP 200, 430 KB in 138 ms"
     },
     {
       "name": "MOVING iMAGE TECHNOLOGIES INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 101 ms"
+      "detail": "HTTP 200, 1 KB in 24 ms"
     },
     {
       "name": "MOVING iMAGE TECHNOLOGIES INC. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/0001437749-26-037634-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 87 ms"
+      "detail": "HTTP 200, 10 KB in 89 ms"
     },
     {
       "name": "MOVING iMAGE TECHNOLOGIES INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/ex_1042843.htm",
       "ok": true,
-      "detail": "HTTP 200, 104 KB in 89 ms"
+      "detail": "HTTP 200, 104 KB in 38 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 36 ms"
+      "detail": "HTTP 200, 3,174 KB in 59 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 23 ms"
+      "detail": "HTTP 200, 4,447 KB in 28 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 41 ms"
+      "detail": "HTTP 200, 2,745 KB in 32 ms"
     },
     {
       "name": "INTUIT INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000896878.json",
       "ok": true,
-      "detail": "HTTP 200, 4,359 KB in 62 ms"
+      "detail": "HTTP 200, 4,359 KB in 35 ms"
     },
     {
       "name": "MOVING iMAGE TECHNOLOGIES INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001770236.json",
       "ok": true,
-      "detail": "HTTP 200, 859 KB in 25 ms"
+      "detail": "HTTP 200, 859 KB in 375 ms"
     },
     {
       "name": "TARGET CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000027419.json",
       "ok": true,
-      "detail": "HTTP 200, 3,673 KB in 67 ms"
+      "detail": "HTTP 200, 3,673 KB in 34 ms"
     }
   ],
   "files": [
