@@ -1508,5 +1508,125 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/ex_1042843.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/0001437749-26-037634-index.htm",
     "saved_at": "2026-11-21T06:08:26+08:00"
+  },
+  {
+    "cik": "1857086",
+    "company": "TruGolf Holdings, Inc.",
+    "accession": "0001493152-26-053548",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 5.314702,
+        "unit": "USD millions",
+        "quote": "Revenue, net | $ | 5,314,702"
+      },
+      "operating_income": {
+        "value": -2.036363,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (2,036,363"
+      },
+      "net_income": {
+        "value": -2.082997,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (2,082,997"
+      },
+      "diluted_eps": {
+        "value": -1.62,
+        "unit": "USD per share",
+        "quote": "Net loss per common share - basic and diluted | $ | (1.62"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The interim CEO says the third quarter was a strong revenue period, with sales up by over 29%, helped by a new marketing team and the E6 Software.",
+        "quote": "The third quarter was also a strong revenue period for the company, as sales grew by over 29%, reflecting positive results from an entirely new marketing team and budget, along with growing market acceptance of the new E6 Software"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The interim CEO says the company will lean into E6 marketing and sales partnerships and improve cost management of the golf operations.",
+        "quote": "With sales growing, we will lean into the proven new E6 marketing and sales partnerships and continue turn to improve cost management of our golf operations over the next several quarters."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The interim CEO says the company completed the Polymath acquisition after quarter-end and will include it in fourth-quarter reporting.",
+        "quote": "Subsequent to quarter-end, on October 8, 2026, we completed the acquisition of Polymath Research Inc., gaining exposure to what we believe is one of the fastest growing areas of financial infrastructure."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The interim CEO calls the quarter a strong revenue period and says he is very excited about the Polymath business."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1857086-0001493152-26-053548.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/0001493152-26-053548-index.htm",
+    "saved_at": "2026-11-22T06:08:19+08:00"
+  },
+  {
+    "cik": "63296",
+    "company": "MATTHEWS INTERNATIONAL CORP",
+    "accession": "0000063296-26-000118",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 256.705,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 256,705"
+      },
+      "operating_income": {
+        "value": -8.533,
+        "unit": "USD millions",
+        "quote": "Operating (loss) profit | (8,533)"
+      },
+      "net_income": {
+        "value": -19.503,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (19,503)"
+      },
+      "diluted_eps": {
+        "value": -0.62,
+        "unit": "USD per share",
+        "quote": "Loss per share -- diluted | $ | (0.62)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fourth-quarter results were at the high end of expectations, with Memorialization sales up and product identification sales up 14%.",
+        "quote": "We finished 2026 strongly, with 4th quarter consolidated results at the high end of our expectations. Sales for the Memorialization segment outperformed the same quarter a year ago, corporate and other non-operating costs declined, and product identification sales grew 14%."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says the sale of the warehouse automation business helped cut debt by $100.4 million, and further debt reduction remains a focus.",
+        "quote": "The December 2025 sale of our warehouse automation business helped reduce debt by $100.4 million year over year. We remain focused on further debt reduction while delivering competitive shareholder returns through quarterly dividends."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says economic uncertainty and engineering litigation remain significant, so the company gives no fiscal 2027 guidance.",
+        "quote": "As we enter fiscal 2027, economic uncertainty and litigation affecting our engineering business remain significant considerations."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO says the year finished strongly but names economic uncertainty and litigation as significant and gives no guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/63296-0000063296-26-000118.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/ex991_4q2026earningspr.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/0000063296-26-000118-index.htm",
+    "saved_at": "2026-11-22T06:08:19+08:00"
   }
 ]
