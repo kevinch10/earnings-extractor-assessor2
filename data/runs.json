@@ -5011,5 +5011,120 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-22T06:37:50+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-22-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 5,
+      "total": 5,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 3,
+      "confirmed": 10,
+      "mismatch": 1,
+      "cannot_check": 9
+    },
+    "companies": [
+      {
+        "cik": "27419",
+        "company": "TARGET CORP",
+        "accession": "0000027419-26-000051",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 4,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "896878",
+        "company": "INTUIT INC.",
+        "accession": "0000896878-26-000043",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1770236",
+        "company": "MOVING iMAGE TECHNOLOGIES INC.",
+        "accession": "0001437749-26-037634",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 1,
+        "cannot_check": 1,
+        "claims_match": 3,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 3,
+          "S2": 5,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "1857086",
+        "company": "TruGolf Holdings, Inc.",
+        "accession": "0001493152-26-053548",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "63296",
+        "company": "MATTHEWS INTERNATIONAL CORP",
+        "accession": "0000063296-26-000118",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 10 figures confirmed, 1 mismatch, 9 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-22T06:08:19+08:00",
+      "watch_brief": "briefs/2026-11-22-watch.md",
+      "brief_says": 9,
+      "saved_for_run": 9,
+      "match": true
+    },
+    "offline": false
   }
 ]
