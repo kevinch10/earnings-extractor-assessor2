@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T09:12:16+08:00",
+  "fetched_at": "2026-11-22T09:33:31+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,25 +16,25 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-21",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 692 ms"
+      "detail": "HTTP 200, 7 KB in 223 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 129 ms"
+      "detail": "HTTP 200, 148 KB in 112 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 97 ms"
+      "detail": "HTTP 200, 156 KB in 68 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 101 ms"
+      "detail": "HTTP 200, 153 KB in 63 ms"
     },
     {
       "name": "Alphabet company facts",
@@ -46,25 +46,25 @@
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 174 ms"
+      "detail": "HTTP 200, 4,447 KB in 188 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 176 ms"
+      "detail": "HTTP 200, 2,745 KB in 185 ms"
     },
     {
       "name": "TARGET CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000027419.json",
       "ok": true,
-      "detail": "HTTP 200, 3,673 KB in 171 ms"
+      "detail": "HTTP 200, 3,673 KB in 194 ms"
     },
     {
       "name": "MATTHEWS INTERNATIONAL CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063296.json",
       "ok": true,
-      "detail": "HTTP 200, 3,498 KB in 152 ms"
+      "detail": "HTTP 200, 3,498 KB in 655 ms"
     }
   ],
   "files": [
