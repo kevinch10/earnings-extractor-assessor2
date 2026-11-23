@@ -5345,5 +5345,78 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-24T06:37:57+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-24-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 2,
+      "failures": [
+        {
+          "name": "TARGET CORP company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "MATTHEWS INTERNATIONAL CORP company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 2,
+      "checked": 2,
+      "rechecks": 2,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 8
+    },
+    "companies": [
+      {
+        "cik": "27419",
+        "company": "TARGET CORP",
+        "accession": "0000027419-26-000051",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 4,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "63296",
+        "company": "MATTHEWS INTERNATIONAL CORP",
+        "accession": "0000063296-26-000118",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 2 extractions: 0 figures confirmed, 0 mismatches, 8 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-24T06:08:55+08:00",
+      "watch_brief": "briefs/2026-11-24-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
