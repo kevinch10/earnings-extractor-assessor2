@@ -1752,5 +1752,143 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1938338/000147793226007221/global_ex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1938338/000147793226007221/0001477932-26-007221-index.htm",
     "saved_at": "2026-11-25T06:08:56+08:00"
+  },
+  {
+    "cik": "895447",
+    "company": "SHOE STATION GROUP INC",
+    "accession": "0001193125-26-473085",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 279.956,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 279,956"
+      },
+      "operating_income": {
+        "value": -15.587,
+        "unit": "USD millions",
+        "quote": "Operating (loss) income | (15,587 | )"
+      },
+      "net_income": {
+        "value": -12.312,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | (12,312 | )"
+      },
+      "diluted_eps": {
+        "value": -0.46,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.46 | )"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2026 the company now expects net sales of $1.087 billion to $1.092 billion, a decline of about 4.3 to 3.8 percent on fiscal 2025.",
+      "quote": "Net sales of $1.087 billion to $1.092 billion, representing a decline of approximately 4.3 to 3.8 percent versus Fiscal 2025"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter results were below the expectations set in September.",
+        "quote": "Our third quarter results were below the expectations we set in September."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says the improvement seen in August did not continue into September and October.",
+        "quote": "The improvement we saw in August did not carry into September and October."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The CEO says boot sales carried higher average unit retails and improved margins.",
+        "quote": "Customers responded to our boot assortment as soon as the season opened, and those sales carried higher average unit retails and improved margins."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the company enters the holiday season with a strong boot range, more advertising and easier comparisons.",
+        "quote": "We enter the holiday season with the strongest boot assortment we have offered in years, intensified advertising, moderating fuel prices, and comparisons that ease as the quarter progresses."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO says results were below expectations and demand softened, while pointing to encouraging early merchandising results."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/895447-0001193125-26-473085.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/895447/000119312526473085/shoe-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/895447/000119312526473085/0001193125-26-473085-index.htm",
+    "saved_at": "2026-11-26T06:08:31+08:00"
+  },
+  {
+    "cik": "1571996",
+    "company": "Dell Technologies Inc.",
+    "accession": "0001571996-26-000050",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-30",
+    "period_label": "quarter ended 30 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 54937,
+        "unit": "USD millions",
+        "quote": "Total net revenue | 54,937"
+      },
+      "operating_income": {
+        "value": 7442,
+        "unit": "USD millions",
+        "quote": "Operating income | 7,442"
+      },
+      "net_income": {
+        "value": 5673,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 5,673"
+      },
+      "diluted_eps": {
+        "value": 8.82,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 8.82"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of fiscal 2027 Dell expects revenue of $56.3 billion, up 69% year over year.",
+      "quote": "Revenue | $ | 56.3 | 69 | %"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The COO says Dell expects record full-year revenue of $202 billion, up 78%.",
+        "quote": "We expect record full-year revenue of $202 billion, up 78%."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The COO says the quarter ended with a record $132.3 billion AI backlog after $60.2 billion of orders.",
+        "quote": "We ended the quarter with a record $132.3 billion AI backlog after booking $60.2 billion of orders"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CFO says operating expenses keep falling as a share of revenue, with non-GAAP operating expenses at 7% of revenue.",
+        "quote": "Operating expenses as a percentage of revenue continues to decline, while non-GAAP operating expenses fell to 7% of revenue, the lowest in our 42-year history."
+      },
+      {
+        "id": "M4",
+        "topic": "profit",
+        "claim": "The CFO says the team delivered record revenue of $54.9 billion, record EPS and a record $4.9 billion returned to shareholders.",
+        "quote": "The team executed exceptionally well, driving record revenue of $54.9 billion, record EPS and a record $4.9 billion returned to shareholders"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The COO and CFO describe record revenue, EPS and backlog, and say demand continues to accelerate."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1571996-0001571996-26-000050.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/exhibit991earnings8kq3fy27.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/0001571996-26-000050-index.htm",
+    "saved_at": "2026-11-26T06:08:31+08:00"
   }
 ]

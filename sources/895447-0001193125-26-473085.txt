@@ -1,0 +1,309 @@
+Company: SHOE STATION GROUP INC (CIK 895447)
+Accession: 0001193125-26-473085
+Results released: 2026-11-24
+Press release: https://www.sec.gov/Archives/edgar/data/895447/000119312526473085/shoe-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/895447/000119312526473085/0001193125-26-473085-index.htm
+Saved: 2026-11-26T06:08:31+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 shoe-ex99_1.htm EX-99.1
+EX-99.1
+SHOE STATION GROUP REPORTS THIRD QUARTER 2026 RESULTS
+November 24, 2026
+FOR IMMEDIATE RELEASE
+FORT MILL, SC - Shoe Station Group, Inc. (Nasdaq: SHOE) (the “Company”), a leading omnichannel retailer of footwear and accessories for the family, today reported results for the third quarter ended October 31, 2026 and updated its Fiscal 2026 guidance.
+Third Quarter 2026 Highlights
+•
+Net sales of $280.0 million compared to $297.2 million in the third quarter of 2025.
+•
+Shoe Carnival banner net sales declined 4.7 percent; Shoe Station banner net sales declined 7.7 percent. Sales in both banners were impacted by an increasingly promotional footwear marketplace and softer consumer demand following back-to-school.
+•
+Gross profit margin of 31.9 percent, compared to 37.6 percent in the third quarter of 2025, reflecting increased promotional activity, liquidation of aged and excess inventory, and the prior-year benefit from raising prices in advance of tariff-related cost increases.
+•
+Results include an approximately $18.0 million non-cash goodwill impairment charge; the charge will not result in any cash expenditures or affect the Company’s cash flow or liquidity.
+•
+Cash, cash equivalents, and marketable securities of $116.0 million at quarter-end; the Company ended the third quarter of 2026 debt-free.
+•
+Repurchased approximately $10.0 million of common stock during the third quarter; year-to-date 2026 capital returned to shareholders totaled approximately $31.1 million, inclusive of dividends.
+•
+Full year 2026 net sales guidance and non-GAAP adjusted diluted earnings per share (“Adjusted EPS”) guidance lowered to reflect results through the third quarter and current family footwear industry trends.
+“Our third quarter results were below the expectations we set in September. The improvement we saw in August did not carry into September and October. Families concentrated their spending around back-to-school, and then, as our advertising intensity lessened and fuel prices increased, consumer demand softened until cold weather arrived. Early results from our merchandising work are encouraging. Customers responded to our boot assortment as soon as the season opened, and those sales carried higher average unit retails and improved margins. Fall assortments that were curated to address localized demand began to arrive in our stores throughout the month of October,” said Cliff Sifford, Interim President and Chief Executive Officer.
+“We enter the holiday season with the strongest boot assortment we have offered in years, intensified advertising, moderating fuel prices, and comparisons that ease as the quarter progresses. Our balance sheet remains strong. We are debt-free, we ended the quarter with $116 million in cash and marketable securities, and we returned capital to shareholders through our 58th consecutive quarterly dividend and the repurchase of approximately $10 million of our stock. We are managing this company for the long term, and the work underway in our assortments, our marketing, and our costs is aimed at returning this business to profitable growth,” concluded Mr. Sifford.
+Third Quarter 2026 Operating Results
+Net sales in the third quarter of 2026 were $280.0 million compared to $297.2 million in the third quarter of 2025. Comparable store sales declined 5.1 percent, with a decline of 2.7 percent in fiscal August and approximately 7 percent in each of fiscal September and fiscal October.
+By banner:
+•
+Shoe Carnival net sales were $180.3 million, representing 64 percent of total net sales, and declined 4.7 percent, inclusive of a comparable store sales decline of 3.7 percent.
+•
+Shoe Station net sales were $99.3 million, representing 36 percent of total net sales, and declined 7.7 percent, inclusive of a comparable store sales decline of 7.6 percent.
+Gross profit margin in the third quarter of 2026 was 31.9 percent, a decrease of 570 basis points compared to the third quarter of 2025. Merchandise margin decreased 480 basis points compared to the third quarter of 2025. Merchandise margin in the third quarter of 2025 included a temporary benefit from raising prices in advance of increasing tariff-related costs. In the third quarter of 2026, merchandise margins were also impacted by increased promotional activity and product liquidation. Buying, distribution and occupancy costs increased compared to the third quarter of 2025 and reduced gross profit margin by 90 basis points, primarily due to the deleveraging effect of lower sales.
+Selling, general and administrative expenses (“SG&A”) decreased $6.2 million compared to the third quarter of 2025, primarily due to lower selling costs, including advertising and other rebanner-related expenses, and lower performance-based compensation. As a percent of net sales, SG&A for the third quarter of 2026 was 31.1 percent as compared to 31.3 percent in the third quarter of 2025.
+Income tax benefit in the third quarter of 2026 was $2.1 million and the effective tax rate in the third quarter of 2026 was 14.6 percent compared to 25.5 percent in the third quarter of 2025. The Company’s non-GAAP adjusted effective tax rate (“Adjusted Tax Rate”) in the third quarter of 2026 was 63.2 percent.
+The GAAP net loss for the third quarter of 2026 was $(12.3) million, or $(0.46) per diluted share, compared to net income of $14.6 million, or $0.53 per diluted share, in the third quarter of 2025. Excluding the non-cash goodwill impairment charge recorded in the quarter, non-GAAP adjusted net income (“Adjusted Net Income”) and Adjusted EPS were $1.3 million and $0.05 per diluted share, respectively.
+Goodwill Impairment
+Due to the decline in the Company’s financial performance and stock price through the third quarter of 2026, a quantitative impairment assessment was performed on its reporting unit. The Company concluded that a non-cash goodwill impairment charge was required because the carrying value of its reporting unit exceeded its estimated fair value. As a result, the Company recorded a non-cash goodwill impairment charge of approximately $18.0 million in the third quarter of 2026. The impairment reflects recent operating performance and updated expectations for the business, which resulted in a reduction in the estimated fair value of the reporting unit relative to its carrying value. The impairment charge will not result in any cash expenditures and will not affect the Company’s cash flow or liquidity. Additional information regarding this impairment charge is provided in the reconciliation of GAAP to non-GAAP financial measures at the end of this release. The Company also evaluated its Shoe Station and Rogan’s
+2
+trade names as part of the quantitative impairment assessment, and the Company concluded that neither trade name was impaired.
+Year-to-Date 2026 Operating Results
+Net sales during the first nine months of 2026 (year-to-date 2026) were $835.0 million, a decrease of 5.2 percent compared to the first nine months of 2025 (year-to-date 2025). Comparable store sales declined 4.8 percent. By banner, Shoe Carnival comparable store sales declined 3.9 percent and Shoe Station comparable store sales declined 6.3 percent.
+Gross profit was $270.1 million in year-to-date 2026, a decrease of $56.3 million compared to year-to-date 2025. Gross profit margin was 32.4 percent in year-to-date 2026 compared to 37.0 percent in year-to-date 2025.
+SG&A decreased $4.5 million in year-to-date 2026 compared to year-to-date 2025, primarily due to lower advertising and other rebanner-related costs and lower performance-based compensation, partially offset by $13.6 million of non-recurring charges incurred in the first quarter of 2026 related to the previously disclosed Chief Executive Officer transition (the “CEO Transition”) and the Company’s strategic review of its rebanner strategy and other operations (the “Strategic Review”). As a percent of net sales, SG&A for year-to-date 2026 was 31.9 percent compared to 30.7 percent in year-to-date 2025. Year-to-date 2026 Adjusted SG&A, which excludes the $13.6 million of non-recurring charges described above, decreased $18.1 million compared to year-to-date 2025.
+The Company’s effective tax rate in year-to-date 2026 was (6.8) percent compared to 26.2 percent in year-to-date 2025. The change was primarily due to the pre-tax loss position for the period and the non-deductibility of a portion of the severance paid as part of the CEO Transition. The Company’s Adjusted Tax Rate for year-to-date 2026, which excludes the impacts related to the CEO Transition, was 33.2 percent.
+Year-to-date 2026 net loss was $(11.7) million, or $(0.43) per diluted share, compared to net income of $43.2 million and EPS of $1.57 in the first nine months of 2025. Year-to-date Adjusted Net Income and Adjusted EPS, which each exclude the first-quarter charges discussed above and the third-quarter non-cash goodwill impairment charge, were $13.8 million and $0.51 per diluted share, respectively.
+Fiscal 2026 Guidance
+The Company is adjusting its previously communicated Fiscal 2026 guidance, which now contemplates:
+•
+Net sales of $1.087 billion to $1.092 billion, representing a decline of approximately 4.3 to 3.8 percent versus Fiscal 2025, inclusive of comparable store sales for the fourth quarter of Fiscal 2026 in a range of flat to up 2 percent;
+•
+GAAP net loss per share of $(0.84) to $(0.76) and Adjusted EPS of $0.20 to $0.28;
+•
+Gross profit margin of approximately 31.4 to 31.6 percent, representing approximately 500 to 520 basis points of compression versus Fiscal 2025;
+•
+GAAP SG&A up approximately $5.9 million versus Fiscal 2025 and a reduction in Adjusted SG&A of approximately $11.6 million versus Fiscal 2025, inclusive of incremental advertising investment supporting the fall and holiday seasons;
+•
+A GAAP tax benefit rate of approximately 11 percent and an Adjusted Tax Rate of approximately 38 percent; and
+•
+Cash, cash equivalents and marketable securities in excess of $150 million at the end of the fourth quarter.
+3
+The Company expects to incur approximately $4.0 million of non-recurring expenses in the fourth quarter of 2026 to return certain rebannered stores to their original store configuration, which customers have indicated is easier to shop.
+The Company’s Adjusted EPS, reduction in Adjusted SG&A and Adjusted Tax Rate guidance exclude the $13.6 million of non-recurring pre-tax charges related to its CEO Transition and the Strategic Review recorded during the first quarter of 2026 and approximately $4.0 million of expenses expected to be incurred in the fourth quarter of 2026 to return certain rebannered stores to their original store configuration. Adjusted EPS and Adjusted Tax Rate guidance also exclude the $18.0 million non-cash goodwill impairment charge recorded during the third quarter of 2026. A reconciliation of the adjusted guidance measures to the corresponding GAAP guidance measures is provided in a table at the end of this press release.
+Conference Call
+Today, at 9:00 a.m. Eastern Time, the Company will host a conference call to discuss its third quarter results. Participants can listen to the live webcast of the call by visiting Shoe Station Group's Investors webpage at investors.shoestationgroupinc.com. While the question-and-answer session will be available to all listeners, questions from the audience will be limited to institutional analysts and investors. A replay of the webcast will be available on the Company’s website shortly after the conclusion of the conference call and will be archived for one year.
+About Shoe Station Group
+Shoe Station Group, Inc. is one of the nation’s largest omnichannel family footwear retailers, offering a broad assortment of dress, casual and athletic footwear for men, women and children with emphasis on national name brands. As of November 24, 2026, the Company operated 420 stores in 35 states and Puerto Rico under its Shoe Carnival and Shoe Station banners and offers shopping at shoecarnival.com and shoestation.com. Headquartered in Fort Mill, SC, and with distribution and support operations located in Evansville, IN, Shoe Station Group, Inc. trades on The Nasdaq Stock Market LLC under the symbol SHOE.
+Press releases and annual reports are available on the Company's website at investors.shoestationgroupinc.com.
+Contact Information
+W. Kerry Jackson
+Chief Financial Officer
+(812) 867-4034
+scvlir@scvl.com
+Cautionary Statement Regarding Forward-Looking Information
+As used herein, “we,” “our” and “us” refer to Shoe Station Group, Inc. This press release contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve a number of risks and uncertainties, such as statements about our future growth, the scope, costs and timing of reverting stores to their original store configuration, sales expectations, corporate and store level inventory management, the financial impact of continued promotional activity in the footwear industry and softer customer demand, the success of our advertising investment to drive customer traffic through the holiday season, our Fiscal 2026 guidance, store growth, cost savings, operations and results, cash flows, and shareholder returns. These forward-looking statements necessarily depend upon assumptions, estimates, data and dates that may be incorrect or imprecise and involve known and unknown risks, uncertainties, and other factors. Accordingly, any forward-looking statements included in this press release do not purport to be predictions of future events or circumstances and may not be realized. Forward-looking statements can be identified by, among other things, the use of forward-looking
+4
+terms such as “believes,” “expects,” “aims,” “on track,” “may,” “will,” “should,” “seeks,” “pro forma,” “anticipates,” “intends” or the negative of any of these terms, or comparable terminology, or by discussions of strategy or intentions. Given these uncertainties, we caution investors not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. We disclaim any obligation to update any of these factors or to publicly announce any revisions to the forward-looking statements contained in this press release to reflect future events or developments. A number of factors could cause our actual results, performance, achievements, or industry results to be materially different from any future results, performance or achievements expressed or implied by these forward-looking statements. These factors include, but are not limited to:
+•
+our ability to increase sales at our existing stores;
+•
+the impact of intense competition and our ability to effectively compete;
+•
+the impact of changes in consumer spending on our business and the impact of our promotional strategies and intensity;
+•
+our ability to successfully manage and execute our marketing and pricing strategies;
+•
+the impact of higher gasoline and energy prices on discretionary spending and our cost of operations;
+•
+our dependence on key suppliers for merchandise and advertising support, and the impact of any loss of any key suppliers;
+•
+the impact of changes in the cost, or a disruption in the flow, of imported goods as a result of trade policy and/or tariffs;
+•
+our ability to manage other risks related to our reliance on imported goods;
+•
+our ability to anticipate, identify and respond to emerging fashion trends;
+•
+our ability to effectively manage our real estate portfolio;
+•
+our ability to manage the risks associated with our e-commerce platform and its impact on traffic and transactions in our physical stores;
+•
+our ability to maintain positive brand perception and recognition;
+•
+our ability to maintain, grow and generate sales from members of our Shoe Perks loyalty program;
+•
+our ability to successfully execute our strategies to grow our business;
+•
+our ability to identify or consummate future acquisitions or achieve expected benefits from and effectively integrate future acquisitions;
+•
+the internal and external impact of a failure of our information technology systems to operate effectively, or in the event such systems are disrupted or compromised;
+•
+our ability to manage the risks associated with our outsourced business processes and other third-party business relationships, including disruptions to our business and increased costs;
+•
+our ability to adapt to emerging technologies that may create disruption to our operations and the retail industry;
+•
+our ability to manage, and the impact of, fluctuating quarterly operating results due to seasonality, weather conditions and other factors;
+•
+the impact of any physical and financial risk related to the uncertainty of climate change;
+•
+the impact of natural disasters, public health crises, political crises, civil unrest, wars, and other catastrophic events or other events outside of our control on our facilities or the facilities of third parties on which we depend, as well as on our supply chain and access to customers;
+•
+the impact of litigation and reputational risk resulting from a failure to protect the integrity and security of individually identifiable data of our customers and employees, including as a result of a cybersecurity breach;
+•
+the impact of losses or liabilities in excess of our insurance coverage;
+•
+the impact of periodic litigation and other regulatory proceedings, which could result in the unexpected expenditure of time and resources;
+•
+our ability to manage key executive succession and retention, and attract and retain qualified personnel and control labor costs;
+5
+•
+our ability to generate and maintain cash flow and capital necessary to implement our business strategy and meet our other liquidity needs;
+•
+the impact of financial market volatility on the sources and costs of financing available to us;
+•
+the impact of significant non-cash impairment charges in the event our long-lived assets become impaired;
+•
+the impact of the loss of investor confidence in our financial reports and adverse effect on our stock price if we fail to maintain effective internal control over financial reporting;
+•
+the impact of perceptions of the overall retail industry and other macroeconomic conditions on our business and stock;
+•
+the impact and risk of volatility in the stock market and our stock;
+•
+the impact of any changes to our dividend policy or stock repurchase program;
+•
+the impact of any influence over our management and operations exerted by our principal shareholders;
+•
+the impact of our organizational documents and Indiana law on potential acquisition bids for us; and
+•
+other factors described in our SEC filings, including our latest Annual Report on Form 10-K and our subsequent SEC filings.
+Financial Tables Follow
+6
+SHOE STATION GROUP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(In thousands, except per share data)
+(Unaudited)
+Thirteen | Thirteen | Thirty-nine | Thirty-nine
+Weeks Ended | Weeks Ended | Weeks Ended | Weeks Ended
+October 31, 2026 | November 1, 2025 | October 31, 2026 | November 1, 2025
+Net sales | $ | 279,956 | $ | 297,155 | $ | 834,995 | $ | 881,258
+Cost of sales (including buying, distribution and occupancy costs) | 190,539 | 185,318 | 564,866 | 554,836
+Gross profit | 89,417 | 111,837 | 270,129 | 326,422
+Selling, general and administrative expenses | 86,986 | 93,214 | 266,120 | 270,606
+Goodwill impairment | 18,018 | 0 | 18,018 | 0
+Operating (loss) income | (15,587 | ) | 18,623 | (14,009 | ) | 55,816
+Interest income | (1,258 | ) | (1,101 | ) | (3,331 | ) | (2,986 | )
+Interest expense | 87 | 78 | 262 | 233
+(Loss) income before income taxes | (14,416 | ) | 19,646 | (10,940 | ) | 58,569
+Income tax (benefit) expense | (2,104 | ) | 5,000 | 741 | 15,355
+Net (loss) income | $ | (12,312 | ) | $ | 14,646 | $ | (11,681 | ) | $ | 43,214
+Net (loss) income per share:
+Basic | $ | (0.46 | ) | $ | 0.54 | $ | (0.43 | ) | $ | 1.58
+Diluted | $ | (0.46 | ) | $ | 0.53 | $ | (0.43 | ) | $ | 1.57
+Weighted average shares:
+Basic | 26,816 | 27,344 | 27,120 | 27,305
+Diluted | 26,816 | 27,597 | 27,120 | 27,513
+Cash dividends declared per share | $ | 0.17 | $ | 0.15 | $ | 0.51 | $ | 0.45
+7
+SHOE STATION GROUP, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands)
+(Unaudited)
+October 31, | January 31, | November 1,
+2026 | 2026 | 2025
+ASSETS
+Current Assets:
+Cash and cash equivalents | $ | 102,425 | $ | 117,091 | $ | 94,369
+Marketable securities | 13,593 | 13,636 | 13,294
+Accounts receivable | 4,707 | 6,370 | 7,094
+Merchandise inventories | 421,141 | 439,638 | 435,296
+Other | 25,299 | 19,402 | 22,986
+Total Current Assets | 567,165 | 596,137 | 573,039
+Property and equipment – net | 169,836 | 185,610 | 187,779
+Operating lease right-of-use assets | 330,728 | 349,582 | 340,931
+Intangible assets | 40,889 | 40,923 | 40,934
+Goodwill | 0 | 18,018 | 18,018
+Other noncurrent assets | 9,894 | 11,473 | 11,840
+Total Assets | $ | 1,118,512 | $ | 1,201,743 | $ | 1,172,541
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+Accounts payable | $ | 60,965 | $ | 79,170 | $ | 65,853
+Accrued and other liabilities | 16,805 | 21,199 | 23,567
+Current portion of operating lease liabilities | 58,038 | 58,057 | 51,906
+Total Current Liabilities | 135,808 | 158,426 | 141,326
+Long-term portion of operating lease liabilities | 292,433 | 313,368 | 310,885
+Deferred income taxes | 24,577 | 26,879 | 25,203
+Deferred compensation | 12,981 | 12,114 | 10,988
+Other | 1,070 | 1,290 | 962
+Total Liabilities | 466,869 | 512,077 | 489,364
+Total Shareholders’ Equity | 651,643 | 689,666 | 683,177
+Total Liabilities and Shareholders’ Equity | $ | 1,118,512 | $ | 1,201,743 | $ | 1,172,541
+8
+SHOE STATION GROUP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+(Unaudited)
+Thirty-nine | Thirty-nine
+Weeks Ended | Weeks Ended
+October 31, 2026 | November 1, 2025
+Cash Flows From Operating Activities
+Net (loss) income | $ | (11,681 | ) | $ | 43,214
+Adjustments to reconcile net (loss) income to net cash provided by operating activities:
+Depreciation and amortization | 26,175 | 25,345
+Stock-based compensation | 7,116 | 5,664
+Goodwill impairment | 18,018 | 0
+Loss on retirement and impairment of assets, net | 9,109 | 1,808
+Deferred income taxes | (2,302 | ) | 6,324
+Non-cash operating lease expense | 39,949 | 44,100
+Other | 352 | 852
+Changes in operating assets and liabilities:
+Accounts receivable | 1,662 | 1,923
+Merchandise inventories | 18,497 | (49,691 | )
+Operating leases | (42,049 | ) | (46,680 | )
+Accounts payable and accrued liabilities | (19,440 | ) | 12,669
+Other | (7,550 | ) | (8,269 | )
+Net cash provided by operating activities | 37,856 | 37,259
+Cash Flows From Investing Activities
+Purchases of property and equipment | (19,666 | ) | (38,334 | )
+Investments in marketable securities | (50 | ) | (1,995 | )
+Sales of marketable securities | 600 | 3,470
+Net cash used in investing activities | (19,116 | ) | (36,859 | )
+Cash Flows From Financing Activities
+Proceeds from issuance of stock | 136 | 135
+Dividends paid | (14,143 | ) | (12,633 | )
+Purchase of common stock for treasury | (17,002 | ) | 0
+Shares surrendered by employees to pay taxes on stock-based compensation awards | (2,343 | ) | (2,213 | )
+Other | (54 | ) | 0
+Net cash used in financing activities | (33,406 | ) | (14,711 | )
+Net decrease in cash and cash equivalents | (14,666 | ) | (14,311 | )
+Cash and cash equivalents at beginning of period | 117,091 | 108,680
+Cash and cash equivalents at end of period | $ | 102,425 | $ | 94,369
+9
+SHOE STATION GROUP, INC.
+GAAP TO NON-GAAP RECONCILIATIONS
+The Company’s Adjusted SG&A, Adjusted Net Income, Adjusted EPS and Adjusted Tax Rate for the thirty-nine weeks ended October 31, 2026 exclude the impact of the CEO Transition and Strategic Review charges discussed above, which were recorded during the first quarter of 2026. The Company’s Adjusted Net Income, Adjusted EPS and Adjusted Tax Rate for the thirteen and thirty-nine weeks ended October 31, 2026 also exclude the non-cash goodwill impairment discussed above, which was recorded during the thirteen weeks ended October 31, 2026.
+ADJUSTMENTS TO REPORTED SG&A
+(In thousands)
+(Unaudited)
+Thirty-nine Weeks Ended
+October 31, 2026 | November 1, 2025
+SG&A as reported | $ | 266,120 | $ | 270,606
+SG&A adjustments:
+Long-lived asset impairments and write-offs from strategic review | (8,304 | ) | 0
+Former CEO severance | (5,301 | ) | 0
+Total adjustments to SG&A | (13,605 | ) | 0
+Non-GAAP Adjusted SG&A | $ | 252,515 | $ | 270,606
+ADJUSTMENTS TO REPORTED NET INCOME AND PER SHARE AMOUNTS
+(In thousands, except per share data)
+(Unaudited)
+Thirteen Weeks Ended October 31, 2026 | Thirteen Weeks Ended November 1, 2025
+Pretax | Net of Tax (1) | Per Share Amounts (2)(3) | Pretax | Net of Tax (1) | Per Share Amounts (2)
+Net (loss) income as reported | $ | (12,312 | ) | $ | (0.46 | ) | $ | 14,646 | $ | 0.53
+Goodwill impairment | $ | 18,018 | 13,636 | 0.51 | $ | 0 | 0 | 0
+Non-GAAP Adjusted Net Income | $ | 1,324 | $ | 0.05 | $ | 14,646 | $ | 0.53
+Thirty-nine Weeks Ended October 31, 2026 | Thirty-nine Weeks Ended November 1, 2025
+Pretax | Net of Tax (1) | Per Share Amounts (2)(3) | Pretax | Net of Tax (1) | Per Share Amounts (2)
+Net (loss) income as reported | $ | (11,681 | ) | $ | (0.43 | ) | $ | 43,214 | $ | 1.57
+Adjustments:
+Long-lived asset impairments and write-offs from strategic review | $ | 8,304 | 6,285 | 0.23 | $ | 0 | 0 | 0
+Former CEO severance | 5,301 | 5,585 | 0.21 | 0 | 0 | 0
+Goodwill impairment | 18,018 | 13,636 | 0.50 | 0 | 0 | 0
+Total adjustments: | $ | 31,623 | 25,506 | 0.94 | $ | 0 | 0 | 0
+Non-GAAP Adjusted Net Income | $ | 13,825 | $ | 0.51 | $ | 43,214 | $ | 1.57
+10
+_________________
+(1)
+The as reported income tax rate for the third quarter of 2026 was 14.6% compared to 25.5% for the third quarter of 2025. The Adjusted Tax Rate for the third quarter of 2026 was 63.2%, which tax-effects the pretax adjustments at a normalized rate of 24.3% and is elevated because discrete items are measured against a small adjusted pre-tax income base for the quarter. The as reported income tax rate for year-to-date 2026 was (6.8)% compared to 26.2% for year-to-date 2025. The Adjusted Tax Rate for year-to-date 2026 was 33.2%, which tax-effects the pretax adjustments at a normalized rate of 24.3% and adds back the $1.6 million impact of nondeductible CEO severance payments made in connection with the CEO Transition in the first quarter of 2026.
+(2)
+Adjusted EPS amounts reflect a 27.0 million and a 27.3 million diluted share count for the thirteen and thirty-nine weeks ended October 31, 2026, respectively. Adjusted EPS amounts reflect a 27.6 million and a 27.5 million diluted share count for the thirteen and thirty-nine weeks ended November 1, 2025, respectively.
+(3)
+Per share amounts are computed independently for each line item presented; therefore, the sum of the amounts may differ from each independent calculation.
+RECONCILIATION OF GAAP GUIDANCE TO ADJUSTED (NON-GAAP BASIS) GUIDANCE
+(Unaudited)
+Guidance Metric | GAAP | Non-GAAP Adjustments | Adjusted Non-GAAP
+Net Sales | $1.087 to $1.092 Billion | N/A | N/A
+EPS | $(0.84) to $(0.76) | $1.04 | $0.20 to $0.28
+Gross Profit Margin | ~31.4% to ~31.6% | N/A | N/A
+SG&A Increase (Decrease) | ~$5.9 Million | ~$(17.5) Million | ~$(11.6) Million
+Tax Rate | ~11% | ~27% | ~38%
+The Company’s Adjusted EPS, reduction in Adjusted SG&A and Adjusted Tax Rate guidance exclude the $13.6 million of pre-tax charges related to its CEO Transition and the Strategic Review recorded during the first quarter of 2026 and approximately $4.0 million of non-recurring store reconfiguration expenses expected in the fourth quarter of 2026, and the Company’s Adjusted EPS and Adjusted Tax Rate guidance exclude the $18.0 million goodwill impairment, each as disclosed in the GAAP to non-GAAP reconciliation tables above. The Adjusted Tax Rate guidance for Fiscal 2026 tax-effects the $13.6 million pretax charge to SG&A at a normalized rate of 24.3% and adds back $1.6 million of nondeductible CEO severance payments made in connection with the CEO Transition. The $18.0 million goodwill impairment and the approximately $4.0 million of expected store reconfiguration expenses are tax-effected at the same normalized rate.
+Use of Non-GAAP Measures
+In this press release, to supplement amounts presented in our consolidated financial statements determined in accordance with accounting principles generally accepted in the United States ("GAAP"), the Company uses certain non-GAAP financial measures, including reduction in Adjusted SG&A, Adjusted Net Income, Adjusted EPS and Adjusted Tax Rate, as shown in the tables above. These measures adjust for the charges and corresponding impact associated with (1) the CEO Transition, including cash severance, accelerated stock-based compensation, legal fees, payroll taxes, and outplacement fees, all of which occurred in the thirteen weeks ended May 2, 2026, (2) long-lived asset impairments and write-offs in connection with the completion of the Company’s Strategic Review of its rebanner program and other operations, all of which occurred in the thirteen weeks ended May 2, 2026, and (3) non-cash impairment of goodwill in the thirteen weeks ended October 31, 2026. The Company’s Fiscal 2026 guidance measures also exclude the charges and corresponding impact associated with expenses expected to be incurred in the fourth quarter of 2026 to return certain rebannered stores to their original store configuration. The unaudited adjusted results should not be construed as an alternative to the reported results determined in accordance with GAAP. These financial measures are not based on any standardized methodology and are not necessarily comparable to similar measures presented by other companies. The Company believes that these non-GAAP financial measures provide useful information to both management and investors to increase comparability to prior periods by adjusting for certain items that may not be indicative of core operating measures and to better identify trends in the Company’s business. The adjusted financial results are used by management to, and allow investors to, evaluate the operating performance of the Company compared to prior periods, when reviewed in conjunction with the Company's GAAP statements. These amounts are not determined in
+11
+accordance with GAAP and therefore should not be used exclusively in evaluating the Company's business and operations.
+12
