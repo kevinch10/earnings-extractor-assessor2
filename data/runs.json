@@ -5681,5 +5681,103 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-26T06:38:14+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-26-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 4,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 16
+    },
+    "companies": [
+      {
+        "cik": "27419",
+        "company": "TARGET CORP",
+        "accession": "0000027419-26-000051",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 4,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "63296",
+        "company": "MATTHEWS INTERNATIONAL CORP",
+        "accession": "0000063296-26-000118",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "895447",
+        "company": "SHOE STATION GROUP INC",
+        "accession": "0001193125-26-473085",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 2,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1571996",
+        "company": "Dell Technologies Inc.",
+        "accession": "0001571996-26-000050",
+        "period_label": "quarter ended 30 October 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 0 figures confirmed, 0 mismatches, 16 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-26T06:08:31+08:00",
+      "watch_brief": "briefs/2026-11-26-watch.md",
+      "brief_says": 29,
+      "saved_for_run": 29,
+      "match": true
+    },
+    "offline": false
   }
 ]
