@@ -1890,5 +1890,112 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/exhibit991earnings8kq3fy27.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/0001571996-26-000050-index.htm",
     "saved_at": "2026-11-26T06:08:31+08:00"
+  },
+  {
+    "cik": "1901637",
+    "company": "USCB FINANCIAL HOLDINGS, INC.",
+    "accession": "0000927089-26-000198",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "The company expects the repositioning to add about $0.8 million of net interest income in the first year and about 3 basis points to its annualised net interest margin from early 2027.",
+      "quote": "the repositioning is expected to increase net interest income by approximately $0.8 million in the first year, contribute approximately 3 basis points to annualized net interest margin beginning with the first quarter of 2027"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The CEO says the securities sale is a deliberate step towards stronger recurring earnings and a better net interest margin.",
+        "quote": "This transaction is a deliberate step toward stronger recurring earnings and an improved net interest margin, which we believe will deliver greater value for the Company and our shareholders"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The sale will bring a one-time after-tax loss of about $3.7 million in the fourth quarter of 2026.",
+        "quote": "The sale will result in an estimated one-time after-tax loss of approximately $3.7 million ($4.9 million pre-tax) that will be recorded in the fourth quarter of 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management believes the strategy positions the company for continued profitable growth.",
+        "quote": "Management believes that the execution of this strategy will position the Company well for continued profitable growth and will further enhance the value of the enterprise."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of a strong capital position and a deliberate step towards stronger recurring earnings, and management expects continued profitable growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1901637-0000927089-26-000198.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/ex_1051057.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/0000927089-26-000198-index.htm",
+    "saved_at": "2026-11-27T06:08:45+08:00"
+  },
+  {
+    "cik": "50493",
+    "company": "INGLES MARKETS INC",
+    "accession": "0001437749-26-038232",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1374.311,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 1,374,311"
+      },
+      "operating_income": {
+        "value": 24.545,
+        "unit": "USD millions",
+        "quote": "Income from operations | 24,545"
+      },
+      "net_income": {
+        "value": 18.511,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,511"
+      },
+      "diluted_eps": {
+        "value": 0.97,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per common share – Class A | $ | 0.97"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The Executive Chairman thanks associates for their care for customers and the families who shop with the company for their loyalty.",
+        "quote": "Thank you to our associates for the care they show our customers every day. As we close the fiscal year, I am grateful for their hard work and for the loyalty of the families who shop with us."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Fourth-quarter gross profit was $328.5 million, or 23.9% of sales, against 24.5% a year earlier.",
+        "quote": "Gross profit for the fourth quarter of fiscal 2026 totaled $328.5 million, or 23.9% of sales. Gross profit for the fourth quarter of fiscal 2025 was $334.7 million, or 24.5% of sales."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Fourth-quarter operating and administrative expenses rose to $303.9 million from $299.0 million.",
+        "quote": "Operating and administrative expenses for the fourth quarter of fiscal 2026 totaled $303.9 million compared with $299.0 million for the fourth quarter of fiscal 2025."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The Executive Chairman thanks associates and customers but does not describe the quarter as strong or weak."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/50493-0001437749-26-038232.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/ex_1050620.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/0001437749-26-038232-index.htm",
+    "saved_at": "2026-11-27T06:08:45+08:00"
   }
 ]
