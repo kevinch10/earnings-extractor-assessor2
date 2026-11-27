@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T11:36:43+08:00",
+  "fetched_at": "2026-11-27T11:46:34+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,61 +16,61 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-25&enddt=2026-11-26",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 52 ms"
+      "detail": "HTTP 200, 7 KB in 272 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 54 ms"
+      "detail": "HTTP 200, 148 KB in 132 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 43 ms"
+      "detail": "HTTP 200, 156 KB in 26 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 43 ms"
+      "detail": "HTTP 200, 154 KB in 22 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 74 ms"
+      "detail": "HTTP 200, 3,175 KB in 33 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 93 ms"
+      "detail": "HTTP 200, 4,447 KB in 35 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 60 ms"
+      "detail": "HTTP 200, 2,745 KB in 21 ms"
     },
     {
       "name": "MATTHEWS INTERNATIONAL CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063296.json",
       "ok": true,
-      "detail": "HTTP 200, 3,498 KB in 125 ms"
+      "detail": "HTTP 200, 3,498 KB in 558 ms"
     },
     {
       "name": "SHOE STATION GROUP INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000895447.json",
       "ok": true,
-      "detail": "HTTP 200, 2,421 KB in 101 ms"
+      "detail": "HTTP 200, 2,421 KB in 43 ms"
     },
     {
       "name": "Dell Technologies Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001571996.json",
       "ok": true,
-      "detail": "HTTP 200, 3,481 KB in 129 ms"
+      "detail": "HTTP 200, 3,481 KB in 30 ms"
     }
   ],
   "files": [
